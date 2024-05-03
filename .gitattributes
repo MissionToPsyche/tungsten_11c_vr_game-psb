@@ -5,3 +5,5 @@ Library/ArtifactDB filter=lfs diff=lfs merge=lfs -text
 Library/Artifacts/fb/fb8d15a06ea1ff8aa2fe03e5c334ddfd filter=lfs diff=lfs merge=lfs -text
 Library/Artifacts/88/884e1f366bbcb13fd226967ab78e335d filter=lfs diff=lfs merge=lfs -text
 Library/PlayerDataCache/Android/Data/data.unity3d filter=lfs diff=lfs merge=lfs -text
+Library/BurstCache/PackageCache/com.unity.burst@1.8.8/.Runtime/libburst-llvm-15.dylib filter=lfs diff=lfs merge=lfs -text
+Library/BurstCache/PackageCache/com.unity.toolchain.win-x86_64-linux-x86_64@2.0.6/data~/payload.tar.7z filter=lfs diff=lfs merge=lfs -text
