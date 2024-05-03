@@ -1,0 +1,14853 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 52
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 12004, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_PixelRect:
+    serializedVersion: 2
+    x: 0
+    y: 43
+    width: 2560
+    height: 1357
+  m_ShowMode: 4
+  m_Title: Hierarchy
+  m_RootView: {fileID: 2}
+  m_MinSize: {x: 875, y: 300}
+  m_MaxSize: {x: 10000, y: 10000}
+  m_Maximized: 1
+--- !u!114 &2
+MonoBehaviour:
+  m_ObjectHideFlags: 52
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 1
+  m_Script: {fileID: 12008, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Children:
+  - {fileID: 3}
+  - {fileID: 5}
+  - {fileID: 4}
+  m_Position:
+    serializedVersion: 2
+    x: 0
+    y: 0
+    width: 2560
+    height: 1357
+  m_MinSize: {x: 875, y: 300}
+  m_MaxSize: {x: 10000, y: 10000}
+  m_UseTopView: 1
+  m_TopViewHeight: 30
+  m_UseBottomView: 1
+  m_BottomViewHeight: 20
+--- !u!114 &3
+MonoBehaviour:
+  m_ObjectHideFlags: 52
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 1
+  m_Script: {fileID: 12011, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Children: []
+  m_Position:
+    serializedVersion: 2
+    x: 0
+    y: 0
+    width: 2560
+    height: 30
+  m_MinSize: {x: 0, y: 0}
+  m_MaxSize: {x: 0, y: 0}
+  m_LastLoadedLayoutName: 
+--- !u!114 &4
+MonoBehaviour:
+  m_ObjectHideFlags: 52
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 1
+  m_Script: {fileID: 12042, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Children: []
+  m_Position:
+    serializedVersion: 2
+    x: 0
+    y: 1337
+    width: 2560
+    height: 20
+  m_MinSize: {x: 0, y: 0}
+  m_MaxSize: {x: 0, y: 0}
+--- !u!114 &5
+MonoBehaviour:
+  m_ObjectHideFlags: 52
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 1
+  m_Script: {fileID: 12010, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Children:
+  - {fileID: 6}
+  - {fileID: 7}
+  - {fileID: 10}
+  m_Position:
+    serializedVersion: 2
+    x: 0
+    y: 30
+    width: 2560
+    height: 1307
+  m_MinSize: {x: 300, y: 100}
+  m_MaxSize: {x: 24288, y: 16192}
+  vertical: 0
+  controlID: 113
+--- !u!114 &6
+MonoBehaviour:
+  m_ObjectHideFlags: 52
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 12006, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: SceneHierarchyWindow
+  m_EditorClassIdentifier: 
+  m_Children: []
+  m_Position:
+    serializedVersion: 2
+    x: 0
+    y: 0
+    width: 452
+    height: 1307
+  m_MinSize: {x: 201, y: 221}
+  m_MaxSize: {x: 4001, y: 4021}
+  m_ActualView: {fileID: 14}
+  m_Panes:
+  - {fileID: 14}
+  m_Selected: 0
+  m_LastSelected: 0
+--- !u!114 &7
+MonoBehaviour:
+  m_ObjectHideFlags: 52
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 12010, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Children:
+  - {fileID: 8}
+  - {fileID: 9}
+  m_Position:
+    serializedVersion: 2
+    x: 452
+    y: 0
+    width: 1497
+    height: 1307
+  m_MinSize: {x: 100, y: 100}
+  m_MaxSize: {x: 8096, y: 16192}
+  vertical: 1
+  controlID: 46
+--- !u!114 &8
+MonoBehaviour:
+  m_ObjectHideFlags: 52
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 1
+  m_Script: {fileID: 12006, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: SceneView
+  m_EditorClassIdentifier: 
+  m_Children: []
+  m_Position:
+    serializedVersion: 2
+    x: 0
+    y: 0
+    width: 1497
+    height: 882
+  m_MinSize: {x: 102, y: 121}
+  m_MaxSize: {x: 4002, y: 4021}
+  m_ActualView: {fileID: 13}
+  m_Panes:
+  - {fileID: 13}
+  - {fileID: 15}
+  - {fileID: 16}
+  m_Selected: 0
+  m_LastSelected: 1
+--- !u!114 &9
+MonoBehaviour:
+  m_ObjectHideFlags: 52
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 12006, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: ProjectBrowser
+  m_EditorClassIdentifier: 
+  m_Children: []
+  m_Position:
+    serializedVersion: 2
+    x: 0
+    y: 882
+    width: 1497
+    height: 425
+  m_MinSize: {x: 232, y: 271}
+  m_MaxSize: {x: 10002, y: 10021}
+  m_ActualView: {fileID: 17}
+  m_Panes:
+  - {fileID: 17}
+  - {fileID: 18}
+  - {fileID: 19}
+  m_Selected: 0
+  m_LastSelected: 2
+--- !u!114 &10
+MonoBehaviour:
+  m_ObjectHideFlags: 52
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 12010, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Children:
+  - {fileID: 11}
+  - {fileID: 12}
+  m_Position:
+    serializedVersion: 2
+    x: 1949
+    y: 0
+    width: 611
+    height: 1307
+  m_MinSize: {x: 100, y: 100}
+  m_MaxSize: {x: 8096, y: 16192}
+  vertical: 1
+  controlID: 114
+--- !u!114 &11
+MonoBehaviour:
+  m_ObjectHideFlags: 52
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 12006, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: InspectorWindow
+  m_EditorClassIdentifier: 
+  m_Children: []
+  m_Position:
+    serializedVersion: 2
+    x: 0
+    y: 0
+    width: 611
+    height: 704
+  m_MinSize: {x: 276, y: 121}
+  m_MaxSize: {x: 4001, y: 4021}
+  m_ActualView: {fileID: 20}
+  m_Panes:
+  - {fileID: 20}
+  - {fileID: 21}
+  m_Selected: 0
+  m_LastSelected: 1
+--- !u!114 &12
+MonoBehaviour:
+  m_ObjectHideFlags: 52
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 12006, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: ConsoleWindow
+  m_EditorClassIdentifier: 
+  m_Children: []
+  m_Position:
+    serializedVersion: 2
+    x: 0
+    y: 704
+    width: 611
+    height: 603
+  m_MinSize: {x: 101, y: 121}
+  m_MaxSize: {x: 4001, y: 4021}
+  m_ActualView: {fileID: 22}
+  m_Panes:
+  - {fileID: 22}
+  - {fileID: 23}
+  m_Selected: 0
+  m_LastSelected: 1
+--- !u!114 &13
+MonoBehaviour:
+  m_ObjectHideFlags: 52
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 12013, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_MinSize: {x: 100, y: 100}
+  m_MaxSize: {x: 4000, y: 4000}
+  m_TitleContent:
+    m_Text: Scene
+    m_Image: {fileID: 2593428753322112591, guid: 0000000000000000d000000000000000,
+      type: 0}
+    m_Tooltip: 
+  m_Pos:
+    serializedVersion: 2
+    x: 452
+    y: 73
+    width: 1495
+    height: 861
+  m_SerializedDataModeController:
+    m_DataMode: 0
+    m_PreferredDataMode: 0
+    m_SupportedDataModes: 
+    isAutomatic: 1
+  m_ViewDataDictionary: {fileID: 0}
+  m_OverlayCanvas:
+    m_LastAppliedPresetName: Default
+    m_SaveData:
+    - dockPosition: 0
+      containerId: overlay-toolbar__top
+      floating: 0
+      collapsed: 0
+      displayed: 1
+      snapOffset: {x: -171, y: -26}
+      snapOffsetDelta: {x: 0, y: 0}
+      snapCorner: 3
+      id: Tool Settings
+      index: 0
+      layout: 1
+      size: {x: 0, y: 0}
+      sizeOverriden: 0
+    - dockPosition: 0
+      containerId: overlay-toolbar__top
+      floating: 0
+      collapsed: 0
+      displayed: 1
+      snapOffset: {x: -141, y: 149}
+      snapOffsetDelta: {x: 0, y: 0}
+      snapCorner: 1
+      id: unity-grid-and-snap-toolbar
+      index: 1
+      layout: 1
+      size: {x: 0, y: 0}
+      sizeOverriden: 0
+    - dockPosition: 1
+      containerId: overlay-toolbar__top
+      floating: 0
+      collapsed: 0
+      displayed: 1
+      snapOffset: {x: 0, y: 25}
+      snapOffsetDelta: {x: 0, y: 0}
+      snapCorner: 0
+      id: unity-scene-view-toolbar
+      index: 0
+      layout: 1
+      size: {x: 0, y: 0}
+      sizeOverriden: 0
+    - dockPosition: 1
+      containerId: overlay-toolbar__top
+      floating: 0
+      collapsed: 0
+      displayed: 0
+      snapOffset: {x: 0, y: 0}
+      snapOffsetDelta: {x: 0, y: 0}
+      snapCorner: 1
+      id: unity-search-toolbar
+      index: 1
+      layout: 1
+      size: {x: 0, y: 0}
+      sizeOverriden: 0
+    - dockPosition: 0
+      containerId: overlay-container--left
+      floating: 0
+      collapsed: 0
+      displayed: 1
+      snapOffset: {x: 0, y: 26}
+      snapOffsetDelta: {x: 0, y: 0}
+      snapCorner: 0
+      id: unity-transform-toolbar
+      index: 0
+      layout: 2
+      size: {x: 0, y: 0}
+      sizeOverriden: 0
+    - dockPosition: 0
+      containerId: overlay-container--left
+      floating: 0
+      collapsed: 0
+      displayed: 1
+      snapOffset: {x: 0, y: 197}
+      snapOffsetDelta: {x: 0, y: 0}
+      snapCorner: 0
+      id: unity-component-tools
+      index: 1
+      layout: 2
+      size: {x: 0, y: 0}
+      sizeOverriden: 0
+    - dockPosition: 0
+      containerId: Floating
+      floating: 1
+      collapsed: 0
+      displayed: 1
+      snapOffset: {x: -116, y: 24}
+      snapOffsetDelta: {x: 0, y: 0}
+      snapCorner: 1
+      id: Orientation
+      index: 0
+      layout: 4
+      size: {x: 0, y: 0}
+      sizeOverriden: 0
+    - dockPosition: 1
+      containerId: overlay-container--right
+      floating: 0
+      collapsed: 0
+      displayed: 0
+      snapOffset: {x: 0, y: 0}
+      snapOffsetDelta: {x: 0, y: 0}
+      snapCorner: 0
+      id: Scene View/Light Settings
+      index: 0
+      layout: 4
+      size: {x: 0, y: 0}
+      sizeOverriden: 0
+    - dockPosition: 1
+      containerId: overlay-container--right
+      floating: 0
+      collapsed: 0
+      displayed: 0
+      snapOffset: {x: 0, y: 0}
+      snapOffsetDelta: {x: 0, y: 0}
+      snapCorner: 0
+      id: Scene View/Camera
+      index: 1
+      layout: 4
+      size: {x: 0, y: 0}
+      sizeOverriden: 0
+    - dockPosition: 1
+      containerId: overlay-container--right
+      floating: 0
+      collapsed: 0
+      displayed: 0
+      snapOffset: {x: 0, y: 0}
+      snapOffsetDelta: {x: 0, y: 0}
+      snapCorner: 0
+      id: Scene View/Cloth Constraints
+      index: 1
+      layout: 4
+      size: {x: 0, y: 0}
+      sizeOverriden: 0
+    - dockPosition: 1
+      containerId: overlay-container--right
+      floating: 0
+      collapsed: 0
+      displayed: 0
+      snapOffset: {x: 0, y: 0}
+      snapOffsetDelta: {x: 0, y: 0}
+      snapCorner: 0
+      id: Scene View/Cloth Collisions
+      index: 2
+      layout: 4
+      size: {x: 0, y: 0}
+      sizeOverriden: 0
+    - dockPosition: 1
+      containerId: overlay-container--right
+      floating: 0
+      collapsed: 0
+      displayed: 0
+      snapOffset: {x: 0, y: 0}
+      snapOffsetDelta: {x: 0, y: 0}
+      snapCorner: 0
+      id: Scene View/Navmesh Display
+      index: 4
+      layout: 4
+      size: {x: 0, y: 0}
+      sizeOverriden: 0
+    - dockPosition: 1
+      containerId: overlay-container--right
+      floating: 0
+      collapsed: 0
+      displayed: 0
+      snapOffset: {x: 0, y: 0}
+      snapOffsetDelta: {x: 0, y: 0}
+      snapCorner: 0
+      id: Scene View/Agent Display
+      index: 5
+      layout: 4
+      size: {x: 0, y: 0}
+      sizeOverriden: 0
+    - dockPosition: 1
+      containerId: overlay-container--right
+      floating: 0
+      collapsed: 0
+      displayed: 0
+      snapOffset: {x: 0, y: 0}
+      snapOffsetDelta: {x: 0, y: 0}
+      snapCorner: 0
+      id: Scene View/Obstacle Display
+      index: 6
+      layout: 4
+      size: {x: 0, y: 0}
+      sizeOverriden: 0
+    - dockPosition: 1
+      containerId: overlay-container--right
+      floating: 0
+      collapsed: 0
+      displayed: 0
+      snapOffset: {x: 0, y: 0}
+      snapOffsetDelta: {x: 0, y: 0}
+      snapCorner: 0
+      id: Scene View/Occlusion Culling
+      index: 3
+      layout: 4
+      size: {x: 0, y: 0}
+      sizeOverriden: 0
+    - dockPosition: 1
+      containerId: overlay-container--right
+      floating: 0
+      collapsed: 0
+      displayed: 0
+      snapOffset: {x: 0, y: 0}
+      snapOffsetDelta: {x: 0, y: 0}
+      snapCorner: 0
+      id: Scene View/Physics Debugger
+      index: 4
+      layout: 4
+      size: {x: 0, y: 0}
+      sizeOverriden: 0
+    - dockPosition: 1
+      containerId: overlay-container--right
+      floating: 0
+      collapsed: 0
+      displayed: 0
+      snapOffset: {x: 0, y: 0}
+      snapOffsetDelta: {x: 0, y: 0}
+      snapCorner: 0
+      id: Scene View/Scene Visibility
+      index: 5
+      layout: 4
+      size: {x: 0, y: 0}
+      sizeOverriden: 0
+    - dockPosition: 1
+      containerId: overlay-container--right
+      floating: 0
+      collapsed: 0
+      displayed: 0
+      snapOffset: {x: 0, y: 0}
+      snapOffsetDelta: {x: 0, y: 0}
+      snapCorner: 0
+      id: Scene View/Particles
+      index: 6
+      layout: 4
+      size: {x: 0, y: 0}
+      sizeOverriden: 0
+    - dockPosition: 1
+      containerId: overlay-container--right
+      floating: 0
+      collapsed: 0
+      displayed: 0
+      snapOffset: {x: 0, y: 0}
+      snapOffsetDelta: {x: 0, y: 0}
+      snapCorner: 0
+      id: Scene View/Tilemap
+      index: 11
+      layout: 4
+      size: {x: 0, y: 0}
+      sizeOverriden: 0
+    - dockPosition: 1
+      containerId: overlay-container--right
+      floating: 0
+      collapsed: 0
+      displayed: 0
+      snapOffset: {x: 0, y: 0}
+      snapOffsetDelta: {x: 0, y: 0}
+      snapCorner: 0
+      id: Scene View/Tilemap Palette Helper
+      index: 12
+      layout: 4
+      size: {x: 0, y: 0}
+      sizeOverriden: 0
+    - dockPosition: 1
+      containerId: overlay-container--right
+      floating: 0
+      collapsed: 0
+      displayed: 0
+      snapOffset: {x: 48, y: 48}
+      snapOffsetDelta: {x: 0, y: 0}
+      snapCorner: 0
+      id: APV Overlay
+      index: 7
+      layout: 4
+      size: {x: 0, y: 0}
+      sizeOverriden: 0
+    - dockPosition: 1
+      containerId: overlay-container--right
+      floating: 0
+      collapsed: 0
+      displayed: 0
+      snapOffset: {x: 48, y: 48}
+      snapOffsetDelta: {x: 0, y: 0}
+      snapCorner: 0
+      id: Scene View/TrailRenderer
+      index: 8
+      layout: 4
+      size: {x: 0, y: 0}
+      sizeOverriden: 0
+    - dockPosition: 1
+      containerId: overlay-container--right
+      floating: 0
+      collapsed: 0
+      displayed: 1
+      snapOffset: {x: 48, y: 10}
+      snapOffsetDelta: {x: 0, y: 0}
+      snapCorner: 0
+      id: UnityEditor.SceneViewCameraOverlay
+      index: 9
+      layout: 4
+      size: {x: 0, y: 0}
+      sizeOverriden: 0
+    m_OverlaysVisible: 1
+  m_WindowGUID: d17d64c829ae7414b8bfb68bb68481ec
+  m_Gizmos: 0
+  m_OverrideSceneCullingMask: 6917529027641081856
+  m_SceneIsLit: 1
+  m_SceneLighting: 1
+  m_2DMode: 0
+  m_isRotationLocked: 0
+  m_PlayAudio: 0
+  m_AudioPlay: 0
+  m_Position:
+    m_Target: {x: 5.3034687, y: 9.376526, z: -1.6007264}
+    speed: 2
+    m_Value: {x: 5.3034687, y: 9.376526, z: -1.6007264}
+  m_RenderMode: 0
+  m_CameraMode:
+    drawMode: 0
+    name: Shaded
+    section: Shading Mode
+  m_ValidateTrueMetals: 0
+  m_DoValidateTrueMetals: 0
+  m_SceneViewState:
+    m_AlwaysRefresh: 0
+    showFog: 1
+    showSkybox: 1
+    showFlares: 1
+    showImageEffects: 1
+    showParticleSystems: 1
+    showVisualEffectGraphs: 1
+    m_FxEnabled: 1
+  m_Grid:
+    xGrid:
+      m_Fade:
+        m_Target: 0
+        speed: 2
+        m_Value: 0
+      m_Color: {r: 0.5, g: 0.5, b: 0.5, a: 0.4}
+      m_Pivot: {x: 0, y: 0, z: 0}
+      m_Size: {x: 1, y: 1}
+    yGrid:
+      m_Fade:
+        m_Target: 0
+        speed: 2
+        m_Value: 0
+      m_Color: {r: 0.5, g: 0.5, b: 0.5, a: 0.4}
+      m_Pivot: {x: 0, y: 0, z: 0}
+      m_Size: {x: 1, y: 1}
+    zGrid:
+      m_Fade:
+        m_Target: 0
+        speed: 2
+        m_Value: 0
+      m_Color: {r: 0.5, g: 0.5, b: 0.5, a: 0.4}
+      m_Pivot: {x: 0, y: 0, z: 0}
+      m_Size: {x: 1, y: 1}
+    m_ShowGrid: 0
+    m_GridAxis: 2
+    m_gridOpacity: 0.5
+  m_Rotation:
+    m_Target: {x: 0.136014, y: -0.86079395, z: 0.34935135, w: 0.34612915}
+    speed: 2
+    m_Value: {x: -0.13592447, y: 0.86022735, z: -0.3491214, w: -0.34590134}
+  m_Size:
+    m_Target: 0.21765217
+    speed: 2
+    m_Value: 0.21765217
+  m_Ortho:
+    m_Target: 0
+    speed: 2
+    m_Value: 0
+  m_CameraSettings:
+    m_Speed: 0.47708198
+    m_SpeedNormalized: 0.17999999
+    m_SpeedMin: 0.0001
+    m_SpeedMax: 2.65
+    m_EasingEnabled: 1
+    m_EasingDuration: 0.4
+    m_AccelerationEnabled: 1
+    m_FieldOfViewHorizontalOrVertical: 70
+    m_NearClip: 0.03
+    m_FarClip: 10000
+    m_DynamicClip: 0
+    m_OcclusionCulling: 0
+  m_LastSceneViewRotation: {x: 0, y: 0, z: 0, w: 0}
+  m_LastSceneViewOrtho: 0
+  m_ReplacementShader: {fileID: 0}
+  m_ReplacementString: 
+  m_SceneVisActive: 1
+  m_LastLockedObject: {fileID: 0}
+  m_ViewIsLockedToObject: 0
+--- !u!114 &14
+MonoBehaviour:
+  m_ObjectHideFlags: 52
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 1
+  m_Script: {fileID: 12061, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_MinSize: {x: 200, y: 200}
+  m_MaxSize: {x: 4000, y: 4000}
+  m_TitleContent:
+    m_Text: Hierarchy
+    m_Image: {fileID: 7966133145522015247, guid: 0000000000000000d000000000000000,
+      type: 0}
+    m_Tooltip: 
+  m_Pos:
+    serializedVersion: 2
+    x: 0
+    y: 73
+    width: 451
+    height: 1286
+  m_SerializedDataModeController:
+    m_DataMode: 0
+    m_PreferredDataMode: 0
+    m_SupportedDataModes: 
+    isAutomatic: 1
+  m_ViewDataDictionary: {fileID: 0}
+  m_OverlayCanvas:
+    m_LastAppliedPresetName: Default
+    m_SaveData: []
+    m_OverlaysVisible: 1
+  m_SceneHierarchy:
+    m_TreeViewState:
+      scrollPos: {x: 0, y: 0}
+      m_SelectedIDs: 
+      m_LastClickedID: 0
+      m_ExpandedIDs: 9ce2ffff52e3ffff3ae7ffff5ce7ffff26e8ffffb8e8ffff24e9ffff6ee9ffff6cf7ffff0efbffffd48b0000
+      m_RenameOverlay:
+        m_UserAcceptedRename: 0
+        m_Name: 
+        m_OriginalName: 
+        m_EditFieldRect:
+          serializedVersion: 2
+          x: 0
+          y: 0
+          width: 0
+          height: 0
+        m_UserData: 0
+        m_IsWaitingForDelay: 0
+        m_IsRenaming: 0
+        m_OriginalEventType: 11
+        m_IsRenamingFilename: 0
+        m_ClientGUIView: {fileID: 6}
+      m_SearchString: 
+    m_ExpandedScenes: []
+    m_CurrenRootInstanceID: 0
+    m_LockTracker:
+      m_IsLocked: 0
+    m_CurrentSortingName: TransformSorting
+  m_WindowGUID: 4c969a2b90040154d917609493e03593
+--- !u!114 &15
+MonoBehaviour:
+  m_ObjectHideFlags: 52
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 1
+  m_Script: {fileID: 12015, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_MinSize: {x: 200, y: 200}
+  m_MaxSize: {x: 4000, y: 4000}
+  m_TitleContent:
+    m_Text: Game
+    m_Image: {fileID: -6423792434712278376, guid: 0000000000000000d000000000000000,
+      type: 0}
+    m_Tooltip: 
+  m_Pos:
+    serializedVersion: 2
+    x: 452
+    y: 73
+    width: 1495
+    height: 861
+  m_SerializedDataModeController:
+    m_DataMode: 0
+    m_PreferredDataMode: 0
+    m_SupportedDataModes: 
+    isAutomatic: 1
+  m_ViewDataDictionary: {fileID: 0}
+  m_OverlayCanvas:
+    m_LastAppliedPresetName: Default
+    m_SaveData: []
+    m_OverlaysVisible: 1
+  m_SerializedViewNames:
+  - UnityEditor.DeviceSimulation.SimulatorWindow
+  m_SerializedViewValues:
+  - C:\Programs\Penn State\GAME480\Machination_GAME480\Machination\Machination\Library\PlayModeViewStates\7310a117f1ab6144f8cff1f2a2b9f02c
+  m_PlayModeViewName: GameView
+  m_ShowGizmos: 0
+  m_TargetDisplay: 0
+  m_ClearColor: {r: 0, g: 0, b: 0, a: 0}
+  m_TargetSize: {x: 1495, y: 840}
+  m_TextureFilterMode: 0
+  m_TextureHideFlags: 61
+  m_RenderIMGUI: 1
+  m_EnterPlayModeBehavior: 0
+  m_UseMipMap: 0
+  m_VSyncEnabled: 0
+  m_Gizmos: 0
+  m_Stats: 0
+  m_SelectedSizes: 03000000000000000000000000000000000000000000000000000000000000000000000000000000
+  m_ZoomArea:
+    m_HRangeLocked: 0
+    m_VRangeLocked: 0
+    hZoomLockedByDefault: 0
+    vZoomLockedByDefault: 0
+    m_HBaseRangeMin: -747.5
+    m_HBaseRangeMax: 747.5
+    m_VBaseRangeMin: -420
+    m_VBaseRangeMax: 420
+    m_HAllowExceedBaseRangeMin: 1
+    m_HAllowExceedBaseRangeMax: 1
+    m_VAllowExceedBaseRangeMin: 1
+    m_VAllowExceedBaseRangeMax: 1
+    m_ScaleWithWindow: 0
+    m_HSlider: 0
+    m_VSlider: 0
+    m_IgnoreScrollWheelUntilClicked: 0
+    m_EnableMouseInput: 0
+    m_EnableSliderZoomHorizontal: 0
+    m_EnableSliderZoomVertical: 0
+    m_UniformScale: 1
+    m_UpDirection: 1
+    m_DrawArea:
+      serializedVersion: 2
+      x: 0
+      y: 21
+      width: 1495
+      height: 840
+    m_Scale: {x: 1, y: 1}
+    m_Translation: {x: 747.5, y: 420}
+    m_MarginLeft: 0
+    m_MarginRight: 0
+    m_MarginTop: 0
+    m_MarginBottom: 0
+    m_LastShownAreaInsideMargins:
+      serializedVersion: 2
+      x: -747.5
+      y: -420
+      width: 1495
+      height: 840
+    m_MinimalGUI: 1
+  m_defaultScale: 1
+  m_LastWindowPixelSize: {x: 1495, y: 861}
+  m_ClearInEditMode: 1
+  m_NoCameraWarning: 1
+  m_LowResolutionForAspectRatios: 01000000000000000000
+  m_XRRenderMode: -1
+  m_RenderTexture: {fileID: 0}
+--- !u!114 &16
+MonoBehaviour:
+  m_ObjectHideFlags: 52
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 12914, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_MinSize: {x: 100, y: 100}
+  m_MaxSize: {x: 4000, y: 4000}
+  m_TitleContent:
+    m_Text: Animator
+    m_Image: {fileID: -1673928668082335149, guid: 0000000000000000d000000000000000,
+      type: 0}
+    m_Tooltip: 
+  m_Pos:
+    serializedVersion: 2
+    x: 422
+    y: 73
+    width: 1493
+    height: 861
+  m_SerializedDataModeController:
+    m_DataMode: 0
+    m_PreferredDataMode: 0
+    m_SupportedDataModes: 
+    isAutomatic: 1
+  m_ViewDataDictionary: {fileID: 0}
+  m_OverlayCanvas:
+    m_LastAppliedPresetName: Default
+    m_SaveData: []
+    m_OverlaysVisible: 1
+  m_ViewTransforms:
+    m_KeySerializationHelper:
+    - {fileID: 5333393507286613961, guid: eb72f04fdc7a81a4682697a1383fb053, type: 2}
+    - {fileID: -1156154358035467629, guid: eb72f04fdc7a81a4682697a1383fb053, type: 2}
+    - {fileID: 5333393507286613961, guid: 82a2dc2dfac63ea4da2361c5ad40fa78, type: 2}
+    - {fileID: 5333393507286613961, guid: 36a13057054154b448c896983947253b, type: 2}
+    - {fileID: -1156154358035467629, guid: 36a13057054154b448c896983947253b, type: 2}
+    m_ValueSerializationHelper:
+    - e00: 0.8094737
+      e01: 0
+      e02: 0
+      e03: -25.473694
+      e10: 0
+      e11: 0.8094737
+      e12: 0
+      e13: 258.1
+      e20: 0
+      e21: 0
+      e22: 1
+      e23: 0
+      e30: 0
+      e31: 0
+      e32: 0
+      e33: 1
+    - e00: 1
+      e01: 0
+      e02: 0
+      e03: -27.25
+      e10: 0
+      e11: 1
+      e12: 0
+      e13: 222.5
+      e20: 0
+      e21: 0
+      e22: 1
+      e23: 0
+      e30: 0
+      e31: 0
+      e32: 0
+      e33: 1
+    - e00: 0.8094737
+      e01: 0
+      e02: 0
+      e03: -25.473694
+      e10: 0
+      e11: 0.8094737
+      e12: 0
+      e13: 258.1
+      e20: 0
+      e21: 0
+      e22: 1
+      e23: 0
+      e30: 0
+      e31: 0
+      e32: 0
+      e33: 1
+    - e00: 0.8094737
+      e01: 0
+      e02: 0
+      e03: -25.473694
+      e10: 0
+      e11: 0.8094737
+      e12: 0
+      e13: 258.1
+      e20: 0
+      e21: 0
+      e22: 1
+      e23: 0
+      e30: 0
+      e31: 0
+      e32: 0
+      e33: 1
+    - e00: 1
+      e01: 0
+      e02: 0
+      e03: 90.75
+      e10: 0
+      e11: 1
+      e12: 0
+      e13: 222.5
+      e20: 0
+      e21: 0
+      e22: 1
+      e23: 0
+      e30: 0
+      e31: 0
+      e32: 0
+      e33: 1
+  m_PreviewAnimator: {fileID: 0}
+  m_AnimatorController: {fileID: 9100000, guid: 82a2dc2dfac63ea4da2361c5ad40fa78,
+    type: 2}
+  m_BreadCrumbs:
+  - m_Target: {fileID: 5333393507286613961, guid: 82a2dc2dfac63ea4da2361c5ad40fa78,
+      type: 2}
+    m_ScrollPosition: {x: 0, y: 0}
+  stateMachineGraph: {fileID: 0}
+  stateMachineGraphGUI: {fileID: 0}
+  blendTreeGraph: {fileID: 0}
+  blendTreeGraphGUI: {fileID: 0}
+  m_AutoLiveLink: 1
+  m_MiniTool: 0
+  m_LockTracker:
+    m_IsLocked: 0
+  m_CurrentEditor: 1
+  m_LayerEditor:
+    m_SelectedLayerIndex: 0
+--- !u!114 &17
+MonoBehaviour:
+  m_ObjectHideFlags: 52
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 1
+  m_Script: {fileID: 12014, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_MinSize: {x: 230, y: 250}
+  m_MaxSize: {x: 10000, y: 10000}
+  m_TitleContent:
+    m_Text: Project
+    m_Image: {fileID: -5467254957812901981, guid: 0000000000000000d000000000000000,
+      type: 0}
+    m_Tooltip: 
+  m_Pos:
+    serializedVersion: 2
+    x: 452
+    y: 955
+    width: 1495
+    height: 404
+  m_SerializedDataModeController:
+    m_DataMode: 0
+    m_PreferredDataMode: 0
+    m_SupportedDataModes: 
+    isAutomatic: 1
+  m_ViewDataDictionary: {fileID: 0}
+  m_OverlayCanvas:
+    m_LastAppliedPresetName: Default
+    m_SaveData: []
+    m_OverlaysVisible: 1
+  m_SearchFilter:
+    m_NameFilter: 
+    m_ClassNames: []
+    m_AssetLabels: []
+    m_AssetBundleNames: []
+    m_ReferencingInstanceIDs: 
+    m_SceneHandles: 
+    m_ShowAllHits: 0
+    m_SkipHidden: 0
+    m_SearchArea: 1
+    m_Folders:
+    - Assets/Scenes
+    m_Globs: []
+    m_OriginalText: 
+    m_ImportLogFlags: 0
+    m_FilterByTypeIntersection: 0
+  m_ViewMode: 1
+  m_StartGridSize: 96
+  m_LastFolders:
+  - Assets/Scenes
+  m_LastFoldersGridSize: 96
+  m_LastProjectPath: D:\SeniorProject\final\tungsten_11c_vr_game-psb\tungsten11cVRgame
+  m_LockTracker:
+    m_IsLocked: 0
+  m_FolderTreeState:
+    scrollPos: {x: 0, y: 79}
+    m_SelectedIDs: aa450100
+    m_LastClickedID: 83370
+    m_ExpandedIDs: 000000008245010000ca9a3bffffff7f
+    m_RenameOverlay:
+      m_UserAcceptedRename: 0
+      m_Name: 
+      m_OriginalName: 
+      m_EditFieldRect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 0
+        height: 0
+      m_UserData: 0
+      m_IsWaitingForDelay: 0
+      m_IsRenaming: 0
+      m_OriginalEventType: 11
+      m_IsRenamingFilename: 1
+      m_ClientGUIView: {fileID: 9}
+    m_SearchString: 
+    m_CreateAssetUtility:
+      m_EndAction: {fileID: 0}
+      m_InstanceID: 0
+      m_Path: 
+      m_Icon: {fileID: 0}
+      m_ResourceFile: 
+  m_AssetTreeState:
+    scrollPos: {x: 0, y: 0}
+    m_SelectedIDs: 7292ffff
+    m_LastClickedID: 0
+    m_ExpandedIDs: 0000000082450100
+    m_RenameOverlay:
+      m_UserAcceptedRename: 0
+      m_Name: 
+      m_OriginalName: 
+      m_EditFieldRect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 0
+        height: 0
+      m_UserData: 0
+      m_IsWaitingForDelay: 0
+      m_IsRenaming: 0
+      m_OriginalEventType: 11
+      m_IsRenamingFilename: 1
+      m_ClientGUIView: {fileID: 0}
+    m_SearchString: 
+    m_CreateAssetUtility:
+      m_EndAction: {fileID: 0}
+      m_InstanceID: 0
+      m_Path: 
+      m_Icon: {fileID: 0}
+      m_ResourceFile: 
+  m_ListAreaState:
+    m_SelectedInstanceIDs: 
+    m_LastClickedInstanceID: 0
+    m_HadKeyboardFocusLastEvent: 1
+    m_ExpandedInstanceIDs: c6230000d07a0000587c0000a87c00005473000088410000da74000058d40000568600007686000030230200e2720000fe8501000a7300001e43010020cf0800f42c02000a44010002260b0020440100685b01000886010004860100109b0100a29c03006697030084a20400c89c03000097010058ac050000000000e89601009e99010048970100b09a0100969a0100be9a0100809701006c9801007698010070980100607c0100e82f0b0004300b00f02f0b00727a010004d901008c9d010090750000e6dd0100eadd01006c3a0400ba800100547a0000
+    m_RenameOverlay:
+      m_UserAcceptedRename: 0
+      m_Name: 
+      m_OriginalName: 
+      m_EditFieldRect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 0
+        height: 0
+      m_UserData: 0
+      m_IsWaitingForDelay: 0
+      m_IsRenaming: 0
+      m_OriginalEventType: 11
+      m_IsRenamingFilename: 1
+      m_ClientGUIView: {fileID: 9}
+    m_CreateAssetUtility:
+      m_EndAction: {fileID: 0}
+      m_InstanceID: 0
+      m_Path: 
+      m_Icon: {fileID: 0}
+      m_ResourceFile: 
+    m_NewAssetIndexInList: -1
+    m_ScrollPosition: {x: 0, y: 0}
+    m_GridSize: 96
+  m_SkipHiddenPackages: 0
+  m_DirectoriesAreaWidth: 210
+--- !u!114 &18
+MonoBehaviour:
+  m_ObjectHideFlags: 52
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 12070, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_MinSize: {x: 900, y: 216}
+  m_MaxSize: {x: 4000, y: 4000}
+  m_TitleContent:
+    m_Text: Profiler
+    m_Image: {fileID: -1089619856830078684, guid: 0000000000000000d000000000000000,
+      type: 0}
+    m_Tooltip: 
+  m_Pos:
+    serializedVersion: 2
+    x: 288
+    y: 676
+    width: 1140
+    height: 683
+  m_SerializedDataModeController:
+    m_DataMode: 0
+    m_PreferredDataMode: 0
+    m_SupportedDataModes: 
+    isAutomatic: 1
+  m_ViewDataDictionary: {fileID: 0}
+  m_OverlayCanvas:
+    m_LastAppliedPresetName: Default
+    m_SaveData: []
+    m_OverlaysVisible: 1
+  m_Recording: 1
+  m_ActiveNativePlatformSupportModuleName: 
+  m_AllModules:
+  - rid: 8111032468010958848
+  - rid: 8111032468010958849
+  - rid: 8111032468010958850
+  - rid: 8111032468010958851
+  - rid: 8111032468010958852
+  - rid: 8111032468010958853
+  - rid: 8111032468010958854
+  - rid: 8111032468010958855
+  - rid: 8111032468010958856
+  - rid: 8111032468010958857
+  - rid: 8111032468010958858
+  - rid: 8111032468010958859
+  - rid: 8111032468010958860
+  - rid: 8111032468010958861
+  m_CallstackRecordMode: 1
+  m_ClearOnPlay: 1
+  references:
+    version: 2
+    RefIds:
+    - rid: 8111032468010958848
+      type: {class: CPUProfilerModule, ns: UnityEditorInternal.Profiling, asm: UnityEditor.CoreModule}
+      data:
+        m_Identifier: UnityEditorInternal.Profiling.CPUProfilerModule, UnityEditor.CoreModule,
+          Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+        m_PaneScroll: {x: 0, y: 0}
+        m_ViewType: 1
+        updateViewLive: 0
+        m_CurrentFrameIndex: -1
+        m_HierarchyOverruledThreadFromSelection: 0
+        m_ProfilerViewFilteringOptions: 1
+        m_FrameDataHierarchyView:
+          m_Serialized: 0
+          m_TreeViewState:
+            scrollPos: {x: 0, y: 0}
+            m_SelectedIDs: 
+            m_LastClickedID: 0
+            m_ExpandedIDs: 
+            m_RenameOverlay:
+              m_UserAcceptedRename: 0
+              m_Name: 
+              m_OriginalName: 
+              m_EditFieldRect:
+                serializedVersion: 2
+                x: 0
+                y: 0
+                width: 0
+                height: 0
+              m_UserData: 0
+              m_IsWaitingForDelay: 0
+              m_IsRenaming: 0
+              m_OriginalEventType: 11
+              m_IsRenamingFilename: 0
+              m_ClientGUIView: {fileID: 0}
+            m_SearchString: 
+          m_MultiColumnHeaderState:
+            m_Columns: []
+            m_VisibleColumns: 
+            m_SortedColumns: 
+          m_ThreadIndexInThreadNames: 0
+          m_DetailedViewType: 0
+          m_DetailedViewSpliterState:
+            ID: 0
+            splitterInitialOffset: 0
+            currentActiveSplitter: 0
+            realSizes: []
+            relativeSizes: []
+            minSizes: []
+            maxSizes: []
+            lastTotalSize: 0
+            splitSize: 0
+            xOffset: 0
+            m_Version: 1
+            oldRealSizes: 
+            oldMinSizes: 
+            oldMaxSizes: 
+            oldSplitSize: 0
+          m_DetailedObjectsView:
+            m_SelectedID: 0
+            m_TreeViewState:
+              scrollPos: {x: 0, y: 0}
+              m_SelectedIDs: 
+              m_LastClickedID: 0
+              m_ExpandedIDs: 
+              m_RenameOverlay:
+                m_UserAcceptedRename: 0
+                m_Name: 
+                m_OriginalName: 
+                m_EditFieldRect:
+                  serializedVersion: 2
+                  x: 0
+                  y: 0
+                  width: 0
+                  height: 0
+                m_UserData: 0
+                m_IsWaitingForDelay: 0
+                m_IsRenaming: 0
+                m_OriginalEventType: 11
+                m_IsRenamingFilename: 0
+                m_ClientGUIView: {fileID: 0}
+              m_SearchString: 
+            m_MultiColumnHeaderState:
+              m_Columns: []
+              m_VisibleColumns: 
+              m_SortedColumns: 
+            m_VertSplit:
+              ID: 0
+              splitterInitialOffset: 0
+              currentActiveSplitter: 0
+              realSizes: []
+              relativeSizes: []
+              minSizes: []
+              maxSizes: []
+              lastTotalSize: 0
+              splitSize: 0
+              xOffset: 0
+              m_Version: 1
+              oldRealSizes: 
+              oldMinSizes: 
+              oldMaxSizes: 
+              oldSplitSize: 0
+          m_DetailedCallsView:
+            m_SelectedID: -1
+            m_VertSplit:
+              ID: 0
+              splitterInitialOffset: 0
+              currentActiveSplitter: 0
+              realSizes: []
+              relativeSizes: []
+              minSizes: []
+              maxSizes: []
+              lastTotalSize: 0
+              splitSize: 0
+              xOffset: 0
+              m_Version: 1
+              oldRealSizes: 
+              oldMinSizes: 
+              oldMaxSizes: 
+              oldSplitSize: 0
+            m_CalleesTreeView:
+              m_ViewState:
+                scrollPos: {x: 0, y: 0}
+                m_SelectedIDs: 
+                m_LastClickedID: 0
+                m_ExpandedIDs: 
+                m_RenameOverlay:
+                  m_UserAcceptedRename: 0
+                  m_Name: 
+                  m_OriginalName: 
+                  m_EditFieldRect:
+                    serializedVersion: 2
+                    x: 0
+                    y: 0
+                    width: 0
+                    height: 0
+                  m_UserData: 0
+                  m_IsWaitingForDelay: 0
+                  m_IsRenaming: 0
+                  m_OriginalEventType: 11
+                  m_IsRenamingFilename: 0
+                  m_ClientGUIView: {fileID: 0}
+                m_SearchString: 
+              m_ViewHeaderState:
+                m_Columns:
+                - width: 150
+                  sortedAscending: 1
+                  headerContent:
+                    m_Text: Called From
+                    m_Image: {fileID: 0}
+                    m_Tooltip: 'Parents the selected function is called from
+
+
+                      (Press
+                      ''F'' for frame selection)'
+                  contextMenuText: 
+                  headerTextAlignment: 0
+                  sortingArrowAlignment: 2
+                  minWidth: 150
+                  maxWidth: 1000000
+                  autoResize: 1
+                  allowToggleVisibility: 0
+                  canSort: 1
+                  userData: 0
+                - width: 60
+                  sortedAscending: 0
+                  headerContent:
+                    m_Text: Calls
+                    m_Image: {fileID: 0}
+                    m_Tooltip: Total number of calls in a selected frame
+                  contextMenuText: 
+                  headerTextAlignment: 0
+                  sortingArrowAlignment: 2
+                  minWidth: 60
+                  maxWidth: 1000000
+                  autoResize: 0
+                  allowToggleVisibility: 1
+                  canSort: 1
+                  userData: 0
+                - width: 60
+                  sortedAscending: 0
+                  headerContent:
+                    m_Text: GC Alloc
+                    m_Image: {fileID: 0}
+                    m_Tooltip: 
+                  contextMenuText: 
+                  headerTextAlignment: 0
+                  sortingArrowAlignment: 2
+                  minWidth: 60
+                  maxWidth: 1000000
+                  autoResize: 0
+                  allowToggleVisibility: 1
+                  canSort: 1
+                  userData: 0
+                - width: 60
+                  sortedAscending: 0
+                  headerContent:
+                    m_Text: Time ms
+                    m_Image: {fileID: 0}
+                    m_Tooltip: Total time the selected function spends within a parent
+                  contextMenuText: 
+                  headerTextAlignment: 0
+                  sortingArrowAlignment: 2
+                  minWidth: 60
+                  maxWidth: 1000000
+                  autoResize: 0
+                  allowToggleVisibility: 1
+                  canSort: 1
+                  userData: 0
+                - width: 60
+                  sortedAscending: 0
+                  headerContent:
+                    m_Text: Time %
+                    m_Image: {fileID: 0}
+                    m_Tooltip: Shows how often the selected function was called from
+                      the parent call
+                  contextMenuText: 
+                  headerTextAlignment: 0
+                  sortingArrowAlignment: 2
+                  minWidth: 60
+                  maxWidth: 1000000
+                  autoResize: 0
+                  allowToggleVisibility: 1
+                  canSort: 1
+                  userData: 0
+                m_VisibleColumns: 0000000001000000020000000300000004000000
+                m_SortedColumns: 03000000
+            m_CallersTreeView:
+              m_ViewState:
+                scrollPos: {x: 0, y: 0}
+                m_SelectedIDs: 
+                m_LastClickedID: 0
+                m_ExpandedIDs: 
+                m_RenameOverlay:
+                  m_UserAcceptedRename: 0
+                  m_Name: 
+                  m_OriginalName: 
+                  m_EditFieldRect:
+                    serializedVersion: 2
+                    x: 0
+                    y: 0
+                    width: 0
+                    height: 0
+                  m_UserData: 0
+                  m_IsWaitingForDelay: 0
+                  m_IsRenaming: 0
+                  m_OriginalEventType: 11
+                  m_IsRenamingFilename: 0
+                  m_ClientGUIView: {fileID: 0}
+                m_SearchString: 
+              m_ViewHeaderState:
+                m_Columns:
+                - width: 150
+                  sortedAscending: 1
+                  headerContent:
+                    m_Text: Called From
+                    m_Image: {fileID: 0}
+                    m_Tooltip: 'Parents the selected function is called from
+
+
+                      (Press
+                      ''F'' for frame selection)'
+                  contextMenuText: 
+                  headerTextAlignment: 0
+                  sortingArrowAlignment: 2
+                  minWidth: 150
+                  maxWidth: 1000000
+                  autoResize: 1
+                  allowToggleVisibility: 0
+                  canSort: 1
+                  userData: 0
+                - width: 60
+                  sortedAscending: 0
+                  headerContent:
+                    m_Text: Calls
+                    m_Image: {fileID: 0}
+                    m_Tooltip: Total number of calls in a selected frame
+                  contextMenuText: 
+                  headerTextAlignment: 0
+                  sortingArrowAlignment: 2
+                  minWidth: 60
+                  maxWidth: 1000000
+                  autoResize: 0
+                  allowToggleVisibility: 1
+                  canSort: 1
+                  userData: 0
+                - width: 60
+                  sortedAscending: 0
+                  headerContent:
+                    m_Text: GC Alloc
+                    m_Image: {fileID: 0}
+                    m_Tooltip: 
+                  contextMenuText: 
+                  headerTextAlignment: 0
+                  sortingArrowAlignment: 2
+                  minWidth: 60
+                  maxWidth: 1000000
+                  autoResize: 0
+                  allowToggleVisibility: 1
+                  canSort: 1
+                  userData: 0
+                - width: 60
+                  sortedAscending: 0
+                  headerContent:
+                    m_Text: Time ms
+                    m_Image: {fileID: 0}
+                    m_Tooltip: Total time the selected function spends within a parent
+                  contextMenuText: 
+                  headerTextAlignment: 0
+                  sortingArrowAlignment: 2
+                  minWidth: 60
+                  maxWidth: 1000000
+                  autoResize: 0
+                  allowToggleVisibility: 1
+                  canSort: 1
+                  userData: 0
+                - width: 60
+                  sortedAscending: 0
+                  headerContent:
+                    m_Text: Time %
+                    m_Image: {fileID: 0}
+                    m_Tooltip: Shows how often the selected function was called from
+                      the parent call
+                  contextMenuText: 
+                  headerTextAlignment: 0
+                  sortingArrowAlignment: 2
+                  minWidth: 60
+                  maxWidth: 1000000
+                  autoResize: 0
+                  allowToggleVisibility: 1
+                  canSort: 1
+                  userData: 0
+                m_VisibleColumns: 0000000001000000020000000300000004000000
+                m_SortedColumns: 03000000
+          m_FullThreadName: Main Thread
+          m_ThreadName: Main Thread
+          <threadId>k__BackingField: 0
+          <threadIndex>k__BackingField: -1
+          m_GroupName: 
+    - rid: 8111032468010958849
+      type: {class: GPUProfilerModule, ns: UnityEditorInternal.Profiling, asm: UnityEditor.CoreModule}
+      data:
+        m_Identifier: UnityEditorInternal.Profiling.GPUProfilerModule, UnityEditor.CoreModule,
+          Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+        m_PaneScroll: {x: 0, y: 0}
+        m_ViewType: 0
+        updateViewLive: 0
+        m_CurrentFrameIndex: -1
+        m_HierarchyOverruledThreadFromSelection: 0
+        m_ProfilerViewFilteringOptions: 1
+        m_FrameDataHierarchyView:
+          m_Serialized: 0
+          m_TreeViewState:
+            scrollPos: {x: 0, y: 0}
+            m_SelectedIDs: 
+            m_LastClickedID: 0
+            m_ExpandedIDs: 
+            m_RenameOverlay:
+              m_UserAcceptedRename: 0
+              m_Name: 
+              m_OriginalName: 
+              m_EditFieldRect:
+                serializedVersion: 2
+                x: 0
+                y: 0
+                width: 0
+                height: 0
+              m_UserData: 0
+              m_IsWaitingForDelay: 0
+              m_IsRenaming: 0
+              m_OriginalEventType: 11
+              m_IsRenamingFilename: 0
+              m_ClientGUIView: {fileID: 0}
+            m_SearchString: 
+          m_MultiColumnHeaderState:
+            m_Columns: []
+            m_VisibleColumns: 
+            m_SortedColumns: 
+          m_ThreadIndexInThreadNames: 0
+          m_DetailedViewType: 0
+          m_DetailedViewSpliterState:
+            ID: 0
+            splitterInitialOffset: 0
+            currentActiveSplitter: 0
+            realSizes: []
+            relativeSizes: []
+            minSizes: []
+            maxSizes: []
+            lastTotalSize: 0
+            splitSize: 0
+            xOffset: 0
+            m_Version: 1
+            oldRealSizes: 
+            oldMinSizes: 
+            oldMaxSizes: 
+            oldSplitSize: 0
+          m_DetailedObjectsView:
+            m_SelectedID: 0
+            m_TreeViewState:
+              scrollPos: {x: 0, y: 0}
+              m_SelectedIDs: 
+              m_LastClickedID: 0
+              m_ExpandedIDs: 
+              m_RenameOverlay:
+                m_UserAcceptedRename: 0
+                m_Name: 
+                m_OriginalName: 
+                m_EditFieldRect:
+                  serializedVersion: 2
+                  x: 0
+                  y: 0
+                  width: 0
+                  height: 0
+                m_UserData: 0
+                m_IsWaitingForDelay: 0
+                m_IsRenaming: 0
+                m_OriginalEventType: 11
+                m_IsRenamingFilename: 0
+                m_ClientGUIView: {fileID: 0}
+              m_SearchString: 
+            m_MultiColumnHeaderState:
+              m_Columns: []
+              m_VisibleColumns: 
+              m_SortedColumns: 
+            m_VertSplit:
+              ID: 0
+              splitterInitialOffset: 0
+              currentActiveSplitter: 0
+              realSizes: []
+              relativeSizes: []
+              minSizes: []
+              maxSizes: []
+              lastTotalSize: 0
+              splitSize: 0
+              xOffset: 0
+              m_Version: 1
+              oldRealSizes: 
+              oldMinSizes: 
+              oldMaxSizes: 
+              oldSplitSize: 0
+          m_DetailedCallsView:
+            m_SelectedID: -1
+            m_VertSplit:
+              ID: 0
+              splitterInitialOffset: 0
+              currentActiveSplitter: 0
+              realSizes: []
+              relativeSizes: []
+              minSizes: []
+              maxSizes: []
+              lastTotalSize: 0
+              splitSize: 0
+              xOffset: 0
+              m_Version: 1
+              oldRealSizes: 
+              oldMinSizes: 
+              oldMaxSizes: 
+              oldSplitSize: 0
+            m_CalleesTreeView:
+              m_ViewState:
+                scrollPos: {x: 0, y: 0}
+                m_SelectedIDs: 
+                m_LastClickedID: 0
+                m_ExpandedIDs: 
+                m_RenameOverlay:
+                  m_UserAcceptedRename: 0
+                  m_Name: 
+                  m_OriginalName: 
+                  m_EditFieldRect:
+                    serializedVersion: 2
+                    x: 0
+                    y: 0
+                    width: 0
+                    height: 0
+                  m_UserData: 0
+                  m_IsWaitingForDelay: 0
+                  m_IsRenaming: 0
+                  m_OriginalEventType: 11
+                  m_IsRenamingFilename: 0
+                  m_ClientGUIView: {fileID: 0}
+                m_SearchString: 
+              m_ViewHeaderState:
+                m_Columns:
+                - width: 150
+                  sortedAscending: 1
+                  headerContent:
+                    m_Text: Called From
+                    m_Image: {fileID: 0}
+                    m_Tooltip: 'Parents the selected function is called from
+
+
+                      (Press
+                      ''F'' for frame selection)'
+                  contextMenuText: 
+                  headerTextAlignment: 0
+                  sortingArrowAlignment: 2
+                  minWidth: 150
+                  maxWidth: 1000000
+                  autoResize: 1
+                  allowToggleVisibility: 0
+                  canSort: 1
+                  userData: 0
+                - width: 60
+                  sortedAscending: 0
+                  headerContent:
+                    m_Text: Calls
+                    m_Image: {fileID: 0}
+                    m_Tooltip: Total number of calls in a selected frame
+                  contextMenuText: 
+                  headerTextAlignment: 0
+                  sortingArrowAlignment: 2
+                  minWidth: 60
+                  maxWidth: 1000000
+                  autoResize: 0
+                  allowToggleVisibility: 1
+                  canSort: 1
+                  userData: 0
+                - width: 60
+                  sortedAscending: 0
+                  headerContent:
+                    m_Text: GC Alloc
+                    m_Image: {fileID: 0}
+                    m_Tooltip: 
+                  contextMenuText: 
+                  headerTextAlignment: 0
+                  sortingArrowAlignment: 2
+                  minWidth: 60
+                  maxWidth: 1000000
+                  autoResize: 0
+                  allowToggleVisibility: 1
+                  canSort: 1
+                  userData: 0
+                - width: 60
+                  sortedAscending: 0
+                  headerContent:
+                    m_Text: Time ms
+                    m_Image: {fileID: 0}
+                    m_Tooltip: Total time the selected function spends within a parent
+                  contextMenuText: 
+                  headerTextAlignment: 0
+                  sortingArrowAlignment: 2
+                  minWidth: 60
+                  maxWidth: 1000000
+                  autoResize: 0
+                  allowToggleVisibility: 1
+                  canSort: 1
+                  userData: 0
+                - width: 60
+                  sortedAscending: 0
+                  headerContent:
+                    m_Text: Time %
+                    m_Image: {fileID: 0}
+                    m_Tooltip: Shows how often the selected function was called from
+                      the parent call
+                  contextMenuText: 
+                  headerTextAlignment: 0
+                  sortingArrowAlignment: 2
+                  minWidth: 60
+                  maxWidth: 1000000
+                  autoResize: 0
+                  allowToggleVisibility: 1
+                  canSort: 1
+                  userData: 0
+                m_VisibleColumns: 0000000001000000020000000300000004000000
+                m_SortedColumns: 03000000
+            m_CallersTreeView:
+              m_ViewState:
+                scrollPos: {x: 0, y: 0}
+                m_SelectedIDs: 
+                m_LastClickedID: 0
+                m_ExpandedIDs: 
+                m_RenameOverlay:
+                  m_UserAcceptedRename: 0
+                  m_Name: 
+                  m_OriginalName: 
+                  m_EditFieldRect:
+                    serializedVersion: 2
+                    x: 0
+                    y: 0
+                    width: 0
+                    height: 0
+                  m_UserData: 0
+                  m_IsWaitingForDelay: 0
+                  m_IsRenaming: 0
+                  m_OriginalEventType: 11
+                  m_IsRenamingFilename: 0
+                  m_ClientGUIView: {fileID: 0}
+                m_SearchString: 
+              m_ViewHeaderState:
+                m_Columns:
+                - width: 150
+                  sortedAscending: 1
+                  headerContent:
+                    m_Text: Called From
+                    m_Image: {fileID: 0}
+                    m_Tooltip: 'Parents the selected function is called from
+
+
+                      (Press
+                      ''F'' for frame selection)'
+                  contextMenuText: 
+                  headerTextAlignment: 0
+                  sortingArrowAlignment: 2
+                  minWidth: 150
+                  maxWidth: 1000000
+                  autoResize: 1
+                  allowToggleVisibility: 0
+                  canSort: 1
+                  userData: 0
+                - width: 60
+                  sortedAscending: 0
+                  headerContent:
+                    m_Text: Calls
+                    m_Image: {fileID: 0}
+                    m_Tooltip: Total number of calls in a selected frame
+                  contextMenuText: 
+                  headerTextAlignment: 0
+                  sortingArrowAlignment: 2
+                  minWidth: 60
+                  maxWidth: 1000000
+                  autoResize: 0
+                  allowToggleVisibility: 1
+                  canSort: 1
+                  userData: 0
+                - width: 60
+                  sortedAscending: 0
+                  headerContent:
+                    m_Text: GC Alloc
+                    m_Image: {fileID: 0}
+                    m_Tooltip: 
+                  contextMenuText: 
+                  headerTextAlignment: 0
+                  sortingArrowAlignment: 2
+                  minWidth: 60
+                  maxWidth: 1000000
+                  autoResize: 0
+                  allowToggleVisibility: 1
+                  canSort: 1
+                  userData: 0
+                - width: 60
+                  sortedAscending: 0
+                  headerContent:
+                    m_Text: Time ms
+                    m_Image: {fileID: 0}
+                    m_Tooltip: Total time the selected function spends within a parent
+                  contextMenuText: 
+                  headerTextAlignment: 0
+                  sortingArrowAlignment: 2
+                  minWidth: 60
+                  maxWidth: 1000000
+                  autoResize: 0
+                  allowToggleVisibility: 1
+                  canSort: 1
+                  userData: 0
+                - width: 60
+                  sortedAscending: 0
+                  headerContent:
+                    m_Text: Time %
+                    m_Image: {fileID: 0}
+                    m_Tooltip: Shows how often the selected function was called from
+                      the parent call
+                  contextMenuText: 
+                  headerTextAlignment: 0
+                  sortingArrowAlignment: 2
+                  minWidth: 60
+                  maxWidth: 1000000
+                  autoResize: 0
+                  allowToggleVisibility: 1
+                  canSort: 1
+                  userData: 0
+                m_VisibleColumns: 0000000001000000020000000300000004000000
+                m_SortedColumns: 03000000
+          m_FullThreadName: Main Thread
+          m_ThreadName: Main Thread
+          <threadId>k__BackingField: 0
+          <threadIndex>k__BackingField: -1
+          m_GroupName: 
+    - rid: 8111032468010958850
+      type: {class: RenderingProfilerModule, ns: UnityEditorInternal.Profiling, asm: UnityEditor.CoreModule}
+      data:
+        m_Identifier: UnityEditorInternal.Profiling.RenderingProfilerModule, UnityEditor.CoreModule,
+          Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+        m_PaneScroll: {x: 0, y: 0}
+    - rid: 8111032468010958851
+      type: {class: MemoryProfilerModule, ns: UnityEditorInternal.Profiling, asm: UnityEditor.CoreModule}
+      data:
+        m_Identifier: UnityEditorInternal.Profiling.MemoryProfilerModule, UnityEditor.CoreModule,
+          Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+        m_PaneScroll: {x: 0, y: 0}
+        m_ViewSplit:
+          ID: 0
+          splitterInitialOffset: 0
+          currentActiveSplitter: -1
+          realSizes:
+          - 0
+          - 0
+          relativeSizes:
+          - 0.7
+          - 0.3
+          minSizes:
+          - 450
+          - 50
+          maxSizes:
+          - 0
+          - 0
+          lastTotalSize: 0
+          splitSize: 6
+          xOffset: 0
+          m_Version: 1
+          oldRealSizes: 
+          oldMinSizes: 
+          oldMaxSizes: 
+          oldSplitSize: 0
+    - rid: 8111032468010958852
+      type: {class: AudioProfilerModule, ns: UnityEditorInternal.Profiling, asm: UnityEditor.CoreModule}
+      data:
+        m_Identifier: UnityEditorInternal.Profiling.AudioProfilerModule, UnityEditor.CoreModule,
+          Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+        m_PaneScroll: {x: 0, y: 0}
+        m_ShowInactiveDSPChains: 0
+        m_HighlightAudibleDSPChains: 1
+        m_DSPGraphZoomFactor: 1
+        m_DSPGraphHorizontalLayout: 0
+    - rid: 8111032468010958853
+      type: {class: VideoProfilerModule, ns: UnityEditorInternal.Profiling, asm: UnityEditor.CoreModule}
+      data:
+        m_Identifier: UnityEditorInternal.Profiling.VideoProfilerModule, UnityEditor.CoreModule,
+          Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+        m_PaneScroll: {x: 0, y: 0}
+    - rid: 8111032468010958854
+      type: {class: PhysicsProfilerModule, ns: UnityEditorInternal.Profiling, asm: UnityEditor.CoreModule}
+      data:
+        m_Identifier: UnityEditorInternal.Profiling.PhysicsProfilerModule, UnityEditor.CoreModule,
+          Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+        m_PaneScroll: {x: 0, y: 0}
+    - rid: 8111032468010958855
+      type: {class: Physics2DProfilerModule, ns: UnityEditorInternal.Profiling, asm: UnityEditor.CoreModule}
+      data:
+        m_Identifier: UnityEditorInternal.Profiling.Physics2DProfilerModule, UnityEditor.CoreModule,
+          Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+        m_PaneScroll: {x: 0, y: 0}
+    - rid: 8111032468010958856
+      type: {class: UIProfilerModule, ns: UnityEditorInternal.Profiling, asm: UnityEditor.CoreModule}
+      data:
+        m_Identifier: UnityEditorInternal.Profiling.UIProfilerModule, UnityEditor.CoreModule,
+          Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+        m_PaneScroll: {x: 0, y: 0}
+    - rid: 8111032468010958857
+      type: {class: UIDetailsProfilerModule, ns: UnityEditorInternal.Profiling, asm: UnityEditor.CoreModule}
+      data:
+        m_Identifier: UnityEditorInternal.Profiling.UIDetailsProfilerModule, UnityEditor.CoreModule,
+          Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+        m_PaneScroll: {x: 0, y: 0}
+    - rid: 8111032468010958858
+      type: {class: GlobalIlluminationProfilerModule, ns: UnityEditorInternal.Profiling,
+        asm: UnityEditor.CoreModule}
+      data:
+        m_Identifier: UnityEditorInternal.Profiling.GlobalIlluminationProfilerModule,
+          UnityEditor.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+        m_PaneScroll: {x: 0, y: 0}
+    - rid: 8111032468010958859
+      type: {class: VirtualTexturingProfilerModule, ns: UnityEditorInternal.Profiling,
+        asm: UnityEditor.CoreModule}
+      data:
+        m_Identifier: UnityEditorInternal.Profiling.VirtualTexturingProfilerModule,
+          UnityEditor.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+        m_PaneScroll: {x: 0, y: 0}
+        m_VTProfilerView:
+          rid: 8111032468010958862
+    - rid: 8111032468010958860
+      type: {class: FileIOProfilerModule, ns: UnityEditorInternal.Profiling, asm: UnityEditor.CoreModule}
+      data:
+        m_Identifier: UnityEditorInternal.Profiling.FileIOProfilerModule, UnityEditor.CoreModule,
+          Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+        m_PaneScroll: {x: 0, y: 0}
+    - rid: 8111032468010958861
+      type: {class: AssetLoadingProfilerModule, ns: UnityEditorInternal.Profiling,
+        asm: UnityEditor.CoreModule}
+      data:
+        m_Identifier: UnityEditorInternal.Profiling.AssetLoadingProfilerModule, UnityEditor.CoreModule,
+          Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+        m_PaneScroll: {x: 0, y: 0}
+    - rid: 8111032468010958862
+      type: {class: VirtualTexturingProfilerView, ns: UnityEditor, asm: UnityEditor.CoreModule}
+      data:
+        m_SortAscending: 0
+        m_SortedColumn: -1
+--- !u!114 &19
+MonoBehaviour:
+  m_ObjectHideFlags: 52
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 08983ce286d9beb48a03071ad05a5c78, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_MinSize: {x: 500, y: 500}
+  m_MaxSize: {x: 4000, y: 4000}
+  m_TitleContent:
+    m_Text: Memory Profiler
+    m_Image: {fileID: 2800000, guid: fc383c3633a96004b8984f07fdd982ae, type: 3}
+    m_Tooltip: 
+  m_Pos:
+    serializedVersion: 2
+    x: 488
+    y: 1007
+    width: 1563
+    height: 352
+  m_SerializedDataModeController:
+    m_DataMode: 0
+    m_PreferredDataMode: 0
+    m_SupportedDataModes: 
+    isAutomatic: 1
+  m_ViewDataDictionary: {fileID: 0}
+  m_OverlayCanvas:
+    m_LastAppliedPresetName: Default
+    m_SaveData: []
+    m_OverlaysVisible: 1
+--- !u!114 &20
+MonoBehaviour:
+  m_ObjectHideFlags: 52
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 12019, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_MinSize: {x: 275, y: 100}
+  m_MaxSize: {x: 4000, y: 4000}
+  m_TitleContent:
+    m_Text: Inspector
+    m_Image: {fileID: -2667387946076563598, guid: 0000000000000000d000000000000000,
+      type: 0}
+    m_Tooltip: 
+  m_Pos:
+    serializedVersion: 2
+    x: 1949
+    y: 73
+    width: 610
+    height: 683
+  m_SerializedDataModeController:
+    m_DataMode: 0
+    m_PreferredDataMode: 0
+    m_SupportedDataModes: 
+    isAutomatic: 1
+  m_ViewDataDictionary: {fileID: 0}
+  m_OverlayCanvas:
+    m_LastAppliedPresetName: Default
+    m_SaveData: []
+    m_OverlaysVisible: 1
+  m_ObjectsLockedBeforeSerialization: []
+  m_InstanceIDsLockedBeforeSerialization: 
+  m_PreviewResizer:
+    m_CachedPref: 207
+    m_ControlHash: 1412526313
+    m_PrefName: Preview_InspectorPreview
+  m_LastInspectedObjectInstanceID: -1
+  m_LastVerticalScrollValue: 0
+  m_GlobalObjectId: 
+  m_InspectorMode: 0
+  m_LockTracker:
+    m_IsLocked: 0
+  m_PreviewWindow: {fileID: 0}
+--- !u!114 &21
+MonoBehaviour:
+  m_ObjectHideFlags: 52
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 12079, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_MinSize: {x: 390, y: 390}
+  m_MaxSize: {x: 4000, y: 4000}
+  m_TitleContent:
+    m_Text: Lighting
+    m_Image: {fileID: -1347227620855488341, guid: 0000000000000000d000000000000000,
+      type: 0}
+    m_Tooltip: 
+  m_Pos:
+    serializedVersion: 2
+    x: 1951
+    y: 73
+    width: 608
+    height: 683
+  m_SerializedDataModeController:
+    m_DataMode: 0
+    m_PreferredDataMode: 0
+    m_SupportedDataModes: 
+    isAutomatic: 1
+  m_ViewDataDictionary: {fileID: 0}
+  m_OverlayCanvas:
+    m_LastAppliedPresetName: Default
+    m_SaveData: []
+    m_OverlaysVisible: 1
+--- !u!114 &22
+MonoBehaviour:
+  m_ObjectHideFlags: 52
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 1
+  m_Script: {fileID: 12003, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_MinSize: {x: 100, y: 100}
+  m_MaxSize: {x: 4000, y: 4000}
+  m_TitleContent:
+    m_Text: Console
+    m_Image: {fileID: -4327648978806127646, guid: 0000000000000000d000000000000000,
+      type: 0}
+    m_Tooltip: 
+  m_Pos:
+    serializedVersion: 2
+    x: 1949
+    y: 777
+    width: 610
+    height: 582
+  m_SerializedDataModeController:
+    m_DataMode: 0
+    m_PreferredDataMode: 0
+    m_SupportedDataModes: 
+    isAutomatic: 1
+  m_ViewDataDictionary: {fileID: 0}
+  m_OverlayCanvas:
+    m_LastAppliedPresetName: Default
+    m_SaveData: []
+    m_OverlaysVisible: 1
+--- !u!114 &23
+MonoBehaviour:
+  m_ObjectHideFlags: 52
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 13401, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_MinSize: {x: 100, y: 100}
+  m_MaxSize: {x: 4000, y: 4000}
+  m_TitleContent:
+    m_Text: Test Runner
+    m_Image: {fileID: 0}
+    m_Tooltip: 
+  m_Pos:
+    serializedVersion: 2
+    x: 1949
+    y: 777
+    width: 610
+    height: 582
+  m_SerializedDataModeController:
+    m_DataMode: 0
+    m_PreferredDataMode: 0
+    m_SupportedDataModes: 
+    isAutomatic: 1
+  m_ViewDataDictionary: {fileID: 0}
+  m_OverlayCanvas:
+    m_LastAppliedPresetName: Default
+    m_SaveData: []
+    m_OverlaysVisible: 1
+  m_Spl:
+    ID: 165
+    splitterInitialOffset: 0
+    currentActiveSplitter: -1
+    realSizes:
+    - 384
+    - 128
+    relativeSizes:
+    - 0.75
+    - 0.25
+    minSizes:
+    - 32
+    - 32
+    maxSizes:
+    - 0
+    - 0
+    lastTotalSize: 512
+    splitSize: 6
+    xOffset: 0
+    m_Version: 1
+    oldRealSizes: 
+    oldMinSizes: 
+    oldMaxSizes: 
+    oldSplitSize: 0
+  m_TestTypeToolbarIndex: 0
+  m_PlayModeTestListGUI:
+    m_Window: {fileID: 23}
+    m_NewResultList:
+    - id: 1004
+      uniqueId: '[tungsten11cVRgame][suite]'
+      name: tungsten11cVRgame
+      fullName: tungsten11cVRgame
+      resultStatus: 2
+      duration: 28.610115
+      messages: One or more child tests had errors
+      output: 
+      stacktrace: 
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 1
+      categories: []
+      parentId: 
+      parentUniqueId: 
+    - id: 1019
+      uniqueId: '[Playmode][D:/SeniorProject/final/tungsten_11c_vr_game-psb/tungsten11cVRgame/Library/ScriptAssemblies/Playmode.dll][suite]'
+      name: Playmode.dll
+      fullName: D:/SeniorProject/final/tungsten_11c_vr_game-psb/tungsten11cVRgame/Library/ScriptAssemblies/Playmode.dll
+      resultStatus: 2
+      duration: 28.591663
+      messages: One or more child tests had errors
+      output: 
+      stacktrace: 
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 1
+      categories: []
+      parentId: 1000
+      parentUniqueId: '[tungsten11cVRgame][suite]'
+    - id: 1001
+      uniqueId: Playmode.dll/[Playmode][AccessibilityTests_P][suite]
+      name: AccessibilityTests_P
+      fullName: AccessibilityTests_P
+      resultStatus: 1
+      duration: 5.7678995
+      messages: 
+      output: 
+      stacktrace: 
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 1
+      categories: []
+      parentId: 1019
+      parentUniqueId: '[Playmode][D:/SeniorProject/Recent/mergetwo/tungsten_11c_vr_game-psb/tungsten11cVRgame/Library/ScriptAssemblies/Playmode.dll][suite]'
+    - id: 1002
+      uniqueId: Playmode.dll/AccessibilityTests_P/[Playmode][AccessibilityTests_P.TC052]
+      name: TC052
+      fullName: AccessibilityTests_P.TC052
+      resultStatus: 1
+      duration: 5.7509236
+      messages: 
+      output: '0
+
+        1
+
+        2
+
+        3
+
+        4
+
+        5
+
+        6
+
+        7
+
+        8
+
+        9
+
+        10
+
+        11
+
+        12
+
+        13
+
+        14
+
+        15
+
+        16
+
+        17
+
+        18
+
+        19
+
+        20
+
+        21
+
+        22
+
+        23
+
+        24
+
+        25
+
+        26
+
+        27
+
+        28
+
+        29
+
+        30
+
+        31
+
+        32
+
+        33
+
+        34
+
+        35
+
+        36
+
+        37
+
+        38
+
+        39
+
+        40
+
+        41
+
+        42
+
+        43
+
+        44
+
+        45
+
+        46
+
+        47
+
+        48
+
+        49
+
+        50
+
+        51
+
+        52
+
+        53
+
+        54
+
+        55
+
+        56
+
+        57
+
+        58
+
+        59
+
+        60
+
+        61
+
+        62
+
+        63
+
+        64
+
+        65
+
+        66
+
+        67
+
+        68
+
+        69
+
+        70
+
+        71
+
+        72
+
+        73
+
+        74
+
+        75
+
+        76
+
+        77
+
+        78
+
+        79
+
+        80
+
+        81
+
+        82
+
+        83
+
+        84
+
+        85
+
+        86
+
+        87
+
+        88
+
+        89
+
+        90
+
+        91
+
+        92
+
+        93
+
+        94
+
+        95
+
+        96
+
+        97
+
+        98
+
+        99
+
+        100
+
+        101
+
+        102
+
+        103
+
+        104
+
+        105
+
+        106
+
+        107
+
+        108
+
+        109
+
+        110
+
+        111
+
+        112
+
+        113
+
+        114
+
+        115
+
+        116
+
+        117
+
+        118
+
+        119
+
+        120
+
+        121
+
+        122
+
+        123
+
+        124
+
+        125
+
+        126
+
+        127
+
+        128
+
+        129
+
+        130
+
+        131
+
+        132
+
+        133
+
+        134
+
+        135
+
+        136
+
+        137
+
+        138
+
+        139
+
+        140
+
+        141
+
+        142
+
+        143
+
+        144
+
+        145
+
+        146
+
+        147
+
+        148
+
+        149
+
+        150
+
+        151
+
+        152
+
+        153
+
+        154
+
+        155
+
+        156
+
+        157
+
+        158
+
+        159
+
+        160
+
+        161
+
+        162
+
+        163
+
+        164
+
+        165
+
+        166
+
+        167
+
+        168
+
+        169
+
+        170
+
+        171
+
+        172
+
+        173
+
+        174
+
+        175
+
+        176
+
+        177
+
+        178
+
+        179
+
+        180
+
+        181
+
+        182
+
+        183
+
+        184
+
+        185
+
+        186
+
+        187
+
+        188
+
+        189
+
+        190
+
+        191
+
+        192
+
+        193
+
+        194
+
+        195
+
+        196
+
+        197
+
+        198
+
+        199
+
+        200
+
+        201
+
+        202
+
+        203
+
+        204
+
+        205
+
+        206
+
+        207
+
+        208
+
+        209
+
+        210
+
+        211
+
+        212
+
+        213
+
+        214
+
+        215
+
+        216
+
+        217
+
+        218
+
+        219
+
+        220
+
+        221
+
+        222
+
+        223
+
+        224
+
+        225
+
+        226
+
+        227
+
+        228
+
+        229
+
+        230
+
+        231
+
+        232
+
+        233
+
+        234
+
+        235
+
+        236
+
+        237
+
+        238
+
+        239
+
+        240
+
+        241
+
+        242
+
+        243
+
+        244
+
+        245
+
+        246
+
+        247
+
+        248
+
+        249
+
+        250
+
+        251
+
+        252
+
+        253
+
+        254
+
+        255
+
+        256
+
+        257
+
+        258
+
+        259
+
+        260
+
+        261
+
+        262
+
+        263
+
+        264
+
+        265
+
+        266
+
+        267
+
+        268
+
+        269
+
+        270
+
+        271
+
+        272
+
+        273
+
+        274
+
+        275
+
+        276
+
+        277
+
+        278
+
+        279
+
+        280
+
+        281
+
+        282
+
+        283
+
+        284
+
+        285
+
+        286
+
+        287
+
+        288
+
+        289
+
+        290
+
+        291
+
+        292
+
+        293
+
+        294
+
+        295
+
+        296
+
+        297
+
+        298
+
+        299
+
+        300
+
+        301
+
+        302
+
+        303
+
+        304
+
+        305
+
+        306
+
+        307
+
+        308
+
+        309
+
+        310
+
+        311
+
+        312
+
+        313
+
+        314
+
+        315
+
+        316
+
+        317
+
+        318
+
+        319
+
+        320
+
+        321
+
+        322
+
+        323
+
+        324
+
+        325
+
+        326
+
+        327
+
+        328
+
+        329
+
+        330
+
+        331
+
+        332
+
+        333
+
+        334
+
+        335
+
+        336
+
+        337
+
+        338
+
+        339
+
+        340
+
+        341
+
+        342
+
+        343
+
+        344
+
+        345
+
+        346
+
+        347
+
+        348
+
+        349
+
+        350
+
+        351
+
+        352
+
+        353
+
+        354
+
+        355
+
+        356
+
+        357
+
+        358
+
+        359
+
+        360
+
+        361
+
+        362
+
+        363
+
+        364
+
+        365
+
+        366
+
+        367
+
+        368
+
+        369
+
+        370
+
+        371
+
+        372
+
+        373
+
+        374
+
+        375
+
+        376
+
+        377
+
+        378
+
+        379
+
+        380
+
+        381
+
+        382
+
+        383
+
+        384
+
+        385
+
+        386
+
+        387
+
+        388
+
+        389
+
+        390
+
+        391
+
+        392
+
+        393
+
+        394
+
+        395
+
+        396
+
+        397
+
+        398
+
+        399
+
+        400
+
+        401
+
+        402
+
+        403
+
+        404
+
+        405
+
+        406
+
+        407
+
+        408
+
+        409
+
+        410
+
+        411
+
+        412
+
+        413
+
+        414
+
+        415
+
+        416
+
+        417
+
+        418
+
+        419
+
+        420
+
+        421
+
+        422
+
+        423
+
+        424
+
+        425
+
+        426
+
+        427
+
+        428
+
+        429
+
+        430
+
+        431
+
+        432
+
+        433
+
+        434
+
+        435
+
+        436
+
+        437
+
+        438
+
+        439
+
+        440
+
+        441
+
+        442
+
+        443
+
+        444
+
+        445
+
+        446
+
+        447
+
+        448
+
+        449
+
+        450
+
+        451
+
+        452
+
+        453
+
+        454
+
+        455
+
+        456
+
+        457
+
+        458
+
+        459
+
+        460
+
+        461
+
+        462
+
+        463
+
+        464
+
+        465
+
+        466
+
+        467
+
+        468
+
+        469
+
+        470
+
+        471
+
+        472
+
+        473
+
+        474
+
+        475
+
+        476
+
+        477
+
+        478
+
+        479
+
+        480
+
+        481
+
+        482
+
+        483
+
+        484
+
+        485
+
+        486
+
+        487
+
+        488
+
+        489
+
+        490
+
+        491
+
+        492
+
+        493
+
+        494
+
+        495
+
+        496
+
+        497
+
+        498
+
+        499
+
+'
+      stacktrace: 
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 0
+      categories:
+      - Uncategorized
+      parentId: 1001
+      parentUniqueId: Playmode.dll/[Playmode][AccessibilityTests_P][suite]
+    - id: 1003
+      uniqueId: Playmode.dll/[Playmode][MainMenuTests_P][suite]
+      name: MainMenuTests_P
+      fullName: MainMenuTests_P
+      resultStatus: 1
+      duration: 0.40444
+      messages: 
+      output: 
+      stacktrace: 
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 1
+      categories: []
+      parentId: 1019
+      parentUniqueId: '[Playmode][D:/SeniorProject/Recent/mergetwo/tungsten_11c_vr_game-psb/tungsten11cVRgame/Library/ScriptAssemblies/Playmode.dll][suite]'
+    - id: 1004
+      uniqueId: Playmode.dll/MainMenuTests_P/[Playmode][MainMenuTests_P.TC020]
+      name: TC020
+      fullName: MainMenuTests_P.TC020
+      resultStatus: 1
+      duration: 0.3798942
+      messages: 
+      output: 
+      stacktrace: 
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 0
+      categories:
+      - Uncategorized
+      parentId: 1003
+      parentUniqueId: Playmode.dll/[Playmode][MainMenuTests_P][suite]
+    - id: 1005
+      uniqueId: Playmode.dll/[Playmode][Minigame2Tests_P][suite]
+      name: Minigame2Tests_P
+      fullName: Minigame2Tests_P
+      resultStatus: 2
+      duration: 0.7218334
+      messages: One or more child tests had errors
+      output: 
+      stacktrace: 
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 1
+      categories: []
+      parentId: 1019
+      parentUniqueId: '[Playmode][D:/SeniorProject/Recent/mergetwo/tungsten_11c_vr_game-psb/tungsten11cVRgame/Library/ScriptAssemblies/Playmode.dll][suite]'
+    - id: 1006
+      uniqueId: Playmode.dll/Minigame2Tests_P/[Playmode][Minigame2Tests_P.TC030]
+      name: TC030
+      fullName: Minigame2Tests_P.TC030
+      resultStatus: 2
+      duration: 0.4592203
+      messages: 'Unhandled log message: ''[Exception] NullReferenceException: Object
+        reference not set to an instance of an object''. Use UnityEngine.TestTools.LogAssert.Expect'
+      output: '0
+
+        1
+
+        2
+
+        3
+
+        4
+
+        5
+
+        6
+
+        7
+
+        8
+
+        9
+
+        10
+
+        11
+
+        12
+
+        13
+
+        14
+
+        15
+
+        16
+
+        17
+
+        18
+
+        19
+
+        20
+
+        21
+
+        22
+
+        23
+
+        24
+
+        25
+
+        26
+
+        27
+
+        28
+
+        29
+
+        30
+
+        31
+
+        32
+
+        33
+
+        34
+
+        35
+
+        36
+
+        37
+
+        38
+
+        39
+
+        40
+
+        41
+
+        42
+
+        43
+
+        44
+
+        45
+
+        46
+
+        47
+
+        48
+
+        49
+
+        50
+
+        51
+
+        52
+
+        53
+
+        54
+
+        55
+
+        56
+
+        57
+
+        58
+
+        59
+
+        60
+
+        61
+
+        62
+
+        63
+
+        64
+
+        65
+
+        66
+
+        67
+
+        68
+
+        69
+
+        70
+
+        71
+
+        72
+
+        73
+
+        74
+
+        75
+
+        76
+
+        77
+
+        78
+
+        79
+
+        80
+
+        81
+
+        82
+
+        83
+
+        84
+
+        85
+
+        86
+
+        87
+
+        88
+
+        89
+
+        90
+
+        91
+
+        92
+
+        93
+
+        94
+
+        95
+
+        96
+
+        97
+
+        98
+
+        99
+
+        100
+
+        101
+
+        102
+
+        103
+
+        104
+
+        105
+
+        106
+
+        107
+
+        108
+
+        109
+
+        110
+
+        111
+
+        112
+
+        113
+
+        114
+
+        115
+
+        116
+
+        117
+
+        118
+
+        119
+
+        120
+
+        121
+
+        122
+
+        123
+
+        124
+
+        125
+
+        126
+
+        127
+
+        128
+
+        129
+
+        130
+
+        131
+
+        132
+
+        133
+
+        134
+
+        135
+
+        136
+
+        137
+
+        138
+
+        139
+
+        140
+
+        141
+
+        142
+
+        143
+
+        144
+
+        145
+
+        146
+
+        147
+
+        148
+
+        149
+
+        150
+
+        151
+
+        152
+
+        153
+
+        154
+
+        155
+
+        156
+
+        157
+
+        158
+
+        159
+
+        160
+
+        161
+
+        162
+
+        163
+
+        164
+
+        165
+
+        166
+
+        167
+
+        168
+
+        169
+
+        170
+
+        171
+
+        172
+
+        173
+
+        174
+
+        175
+
+        176
+
+        177
+
+        178
+
+        179
+
+        180
+
+        181
+
+        182
+
+        183
+
+        184
+
+        185
+
+        186
+
+        187
+
+        188
+
+        189
+
+        190
+
+        191
+
+        192
+
+        193
+
+        194
+
+        195
+
+        196
+
+        197
+
+        198
+
+        199
+
+        200
+
+        201
+
+        202
+
+        203
+
+        204
+
+        205
+
+        206
+
+        207
+
+        208
+
+        209
+
+        210
+
+        211
+
+        212
+
+        213
+
+        214
+
+        215
+
+        216
+
+        217
+
+        218
+
+        219
+
+        220
+
+        221
+
+        222
+
+        223
+
+        224
+
+        225
+
+        226
+
+        227
+
+        228
+
+        229
+
+        230
+
+        231
+
+        232
+
+        233
+
+        234
+
+        235
+
+        236
+
+        237
+
+        238
+
+        239
+
+        240
+
+        241
+
+        242
+
+        243
+
+        244
+
+        245
+
+        246
+
+        247
+
+        248
+
+        249
+
+        250
+
+        251
+
+        252
+
+        253
+
+        254
+
+        255
+
+        256
+
+        257
+
+        258
+
+        259
+
+        260
+
+        261
+
+        262
+
+        263
+
+        264
+
+        265
+
+        266
+
+        267
+
+        268
+
+        269
+
+        270
+
+        271
+
+        272
+
+        273
+
+        274
+
+        275
+
+        276
+
+        277
+
+        278
+
+        279
+
+        280
+
+        281
+
+        282
+
+        283
+
+        284
+
+        285
+
+        286
+
+        287
+
+        288
+
+        289
+
+        290
+
+        291
+
+        292
+
+        293
+
+        294
+
+        295
+
+        296
+
+        297
+
+        298
+
+        299
+
+        300
+
+        301
+
+        302
+
+        303
+
+        304
+
+        305
+
+        306
+
+        307
+
+        308
+
+        309
+
+        310
+
+        311
+
+        312
+
+        313
+
+        314
+
+        315
+
+        316
+
+        317
+
+        318
+
+        319
+
+        320
+
+        321
+
+        322
+
+        323
+
+        324
+
+        325
+
+        326
+
+        327
+
+        328
+
+        329
+
+        330
+
+        331
+
+        332
+
+        333
+
+        334
+
+        335
+
+        336
+
+        337
+
+        338
+
+        339
+
+        340
+
+        341
+
+        342
+
+        343
+
+        344
+
+        345
+
+        346
+
+        347
+
+        348
+
+        349
+
+        350
+
+        351
+
+        352
+
+        353
+
+        354
+
+        355
+
+        356
+
+        357
+
+        358
+
+        359
+
+        360
+
+        361
+
+        362
+
+        363
+
+        364
+
+        365
+
+        366
+
+        367
+
+        368
+
+        369
+
+        370
+
+        371
+
+        372
+
+        373
+
+        374
+
+        375
+
+        376
+
+        377
+
+        378
+
+        379
+
+        380
+
+        381
+
+        382
+
+        383
+
+        384
+
+        385
+
+        386
+
+        387
+
+        388
+
+        389
+
+        390
+
+        391
+
+        392
+
+        393
+
+        394
+
+        395
+
+        396
+
+        397
+
+        398
+
+        399
+
+        400
+
+        401
+
+        402
+
+        403
+
+        404
+
+        405
+
+        406
+
+        407
+
+        408
+
+        409
+
+        410
+
+        411
+
+        412
+
+        413
+
+        414
+
+        415
+
+        416
+
+        417
+
+        418
+
+        419
+
+        420
+
+        421
+
+        422
+
+        423
+
+        424
+
+        425
+
+        426
+
+        427
+
+        428
+
+        429
+
+        430
+
+        431
+
+        432
+
+        433
+
+        434
+
+        435
+
+        436
+
+        437
+
+        438
+
+        439
+
+        440
+
+        441
+
+        442
+
+        443
+
+        444
+
+        445
+
+        446
+
+        447
+
+        448
+
+        449
+
+        450
+
+        451
+
+        452
+
+        453
+
+        454
+
+        455
+
+        456
+
+        457
+
+        458
+
+        459
+
+        460
+
+        461
+
+        462
+
+        463
+
+        464
+
+        465
+
+        466
+
+        467
+
+        468
+
+        469
+
+        470
+
+        471
+
+        472
+
+        473
+
+        474
+
+        475
+
+        476
+
+        477
+
+        478
+
+        479
+
+        480
+
+        481
+
+        482
+
+        483
+
+        484
+
+        485
+
+        486
+
+        487
+
+        488
+
+        489
+
+        490
+
+        491
+
+        492
+
+        493
+
+        494
+
+        495
+
+        496
+
+        497
+
+        498
+
+        499
+
+        NullReferenceException:
+        Object reference not set to an instance of an object
+
+'
+      stacktrace: 'MovementStill.OnUnpause () (at Assets/Scripts/MovementStill.cs:63)
+
+        PauseMenu.DisplayWristUI
+        () (at Assets/Scripts/PauseMenu.cs:154)
+
+        PauseMenu.Start () (at Assets/Scripts/PauseMenu.cs:96)
+
+
+
+'
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 0
+      categories:
+      - Uncategorized
+      parentId: 1005
+      parentUniqueId: Playmode.dll/[Playmode][Minigame2Tests_P][suite]
+    - id: 1007
+      uniqueId: Playmode.dll/Minigame2Tests_P/[Playmode][Minigame2Tests_P.TC031]
+      name: TC031
+      fullName: Minigame2Tests_P.TC031
+      resultStatus: 2
+      duration: 0.2484218
+      messages: 'Unhandled log message: ''[Exception] NullReferenceException: Object
+        reference not set to an instance of an object''. Use UnityEngine.TestTools.LogAssert.Expect'
+      output: '0
+
+        1
+
+        2
+
+        3
+
+        4
+
+        5
+
+        6
+
+        7
+
+        8
+
+        9
+
+        10
+
+        11
+
+        12
+
+        13
+
+        14
+
+        15
+
+        16
+
+        17
+
+        18
+
+        19
+
+        20
+
+        21
+
+        22
+
+        23
+
+        24
+
+        25
+
+        26
+
+        27
+
+        28
+
+        29
+
+        30
+
+        31
+
+        32
+
+        33
+
+        34
+
+        35
+
+        36
+
+        37
+
+        38
+
+        39
+
+        40
+
+        41
+
+        42
+
+        43
+
+        44
+
+        45
+
+        46
+
+        47
+
+        48
+
+        49
+
+        50
+
+        51
+
+        52
+
+        53
+
+        54
+
+        55
+
+        56
+
+        57
+
+        58
+
+        59
+
+        60
+
+        61
+
+        62
+
+        63
+
+        64
+
+        65
+
+        66
+
+        67
+
+        68
+
+        69
+
+        70
+
+        71
+
+        72
+
+        73
+
+        74
+
+        75
+
+        76
+
+        77
+
+        78
+
+        79
+
+        80
+
+        81
+
+        82
+
+        83
+
+        84
+
+        85
+
+        86
+
+        87
+
+        88
+
+        89
+
+        90
+
+        91
+
+        92
+
+        93
+
+        94
+
+        95
+
+        96
+
+        97
+
+        98
+
+        99
+
+        100
+
+        101
+
+        102
+
+        103
+
+        104
+
+        105
+
+        106
+
+        107
+
+        108
+
+        109
+
+        110
+
+        111
+
+        112
+
+        113
+
+        114
+
+        115
+
+        116
+
+        117
+
+        118
+
+        119
+
+        120
+
+        121
+
+        122
+
+        123
+
+        124
+
+        125
+
+        126
+
+        127
+
+        128
+
+        129
+
+        130
+
+        131
+
+        132
+
+        133
+
+        134
+
+        135
+
+        136
+
+        137
+
+        138
+
+        139
+
+        140
+
+        141
+
+        142
+
+        143
+
+        144
+
+        145
+
+        146
+
+        147
+
+        148
+
+        149
+
+        150
+
+        151
+
+        152
+
+        153
+
+        154
+
+        155
+
+        156
+
+        157
+
+        158
+
+        159
+
+        160
+
+        161
+
+        162
+
+        163
+
+        164
+
+        165
+
+        166
+
+        167
+
+        168
+
+        169
+
+        170
+
+        171
+
+        172
+
+        173
+
+        174
+
+        175
+
+        176
+
+        177
+
+        178
+
+        179
+
+        180
+
+        181
+
+        182
+
+        183
+
+        184
+
+        185
+
+        186
+
+        187
+
+        188
+
+        189
+
+        190
+
+        191
+
+        192
+
+        193
+
+        194
+
+        195
+
+        196
+
+        197
+
+        198
+
+        199
+
+        200
+
+        201
+
+        202
+
+        203
+
+        204
+
+        205
+
+        206
+
+        207
+
+        208
+
+        209
+
+        210
+
+        211
+
+        212
+
+        213
+
+        214
+
+        215
+
+        216
+
+        217
+
+        218
+
+        219
+
+        220
+
+        221
+
+        222
+
+        223
+
+        224
+
+        225
+
+        226
+
+        227
+
+        228
+
+        229
+
+        230
+
+        231
+
+        232
+
+        233
+
+        234
+
+        235
+
+        236
+
+        237
+
+        238
+
+        239
+
+        240
+
+        241
+
+        242
+
+        243
+
+        244
+
+        245
+
+        246
+
+        247
+
+        248
+
+        249
+
+        250
+
+        251
+
+        252
+
+        253
+
+        254
+
+        255
+
+        256
+
+        257
+
+        258
+
+        259
+
+        260
+
+        261
+
+        262
+
+        263
+
+        264
+
+        265
+
+        266
+
+        267
+
+        268
+
+        269
+
+        270
+
+        271
+
+        272
+
+        273
+
+        274
+
+        275
+
+        276
+
+        277
+
+        278
+
+        279
+
+        280
+
+        281
+
+        282
+
+        283
+
+        284
+
+        285
+
+        286
+
+        287
+
+        288
+
+        289
+
+        290
+
+        291
+
+        292
+
+        293
+
+        294
+
+        295
+
+        296
+
+        297
+
+        298
+
+        299
+
+        300
+
+        301
+
+        302
+
+        303
+
+        304
+
+        305
+
+        306
+
+        307
+
+        308
+
+        309
+
+        310
+
+        311
+
+        312
+
+        313
+
+        314
+
+        315
+
+        316
+
+        317
+
+        318
+
+        319
+
+        320
+
+        321
+
+        322
+
+        323
+
+        324
+
+        325
+
+        326
+
+        327
+
+        328
+
+        329
+
+        330
+
+        331
+
+        332
+
+        333
+
+        334
+
+        335
+
+        336
+
+        337
+
+        338
+
+        339
+
+        340
+
+        341
+
+        342
+
+        343
+
+        344
+
+        345
+
+        346
+
+        347
+
+        348
+
+        349
+
+        350
+
+        351
+
+        352
+
+        353
+
+        354
+
+        355
+
+        356
+
+        357
+
+        358
+
+        359
+
+        360
+
+        361
+
+        362
+
+        363
+
+        364
+
+        365
+
+        366
+
+        367
+
+        368
+
+        369
+
+        370
+
+        371
+
+        372
+
+        373
+
+        374
+
+        375
+
+        376
+
+        377
+
+        378
+
+        379
+
+        380
+
+        381
+
+        382
+
+        383
+
+        384
+
+        385
+
+        386
+
+        387
+
+        388
+
+        389
+
+        390
+
+        391
+
+        392
+
+        393
+
+        394
+
+        395
+
+        396
+
+        397
+
+        398
+
+        399
+
+        400
+
+        401
+
+        402
+
+        403
+
+        404
+
+        405
+
+        406
+
+        407
+
+        408
+
+        409
+
+        410
+
+        411
+
+        412
+
+        413
+
+        414
+
+        415
+
+        416
+
+        417
+
+        418
+
+        419
+
+        420
+
+        421
+
+        422
+
+        423
+
+        424
+
+        425
+
+        426
+
+        427
+
+        428
+
+        429
+
+        430
+
+        431
+
+        432
+
+        433
+
+        434
+
+        435
+
+        436
+
+        437
+
+        438
+
+        439
+
+        440
+
+        441
+
+        442
+
+        443
+
+        444
+
+        445
+
+        446
+
+        447
+
+        448
+
+        449
+
+        450
+
+        451
+
+        452
+
+        453
+
+        454
+
+        455
+
+        456
+
+        457
+
+        458
+
+        459
+
+        460
+
+        461
+
+        462
+
+        463
+
+        464
+
+        465
+
+        466
+
+        467
+
+        468
+
+        469
+
+        470
+
+        471
+
+        472
+
+        473
+
+        474
+
+        475
+
+        476
+
+        477
+
+        478
+
+        479
+
+        480
+
+        481
+
+        482
+
+        483
+
+        484
+
+        485
+
+        486
+
+        487
+
+        488
+
+        489
+
+        490
+
+        491
+
+        492
+
+        493
+
+        494
+
+        495
+
+        496
+
+        497
+
+        498
+
+        499
+
+        NullReferenceException:
+        Object reference not set to an instance of an object
+
+'
+      stacktrace: 'MovementStill.OnUnpause () (at Assets/Scripts/MovementStill.cs:63)
+
+        PauseMenu.DisplayWristUI
+        () (at Assets/Scripts/PauseMenu.cs:154)
+
+        PauseMenu.Start () (at Assets/Scripts/PauseMenu.cs:96)
+
+
+
+'
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 0
+      categories:
+      - Uncategorized
+      parentId: 1005
+      parentUniqueId: Playmode.dll/[Playmode][Minigame2Tests_P][suite]
+    - id: 1008
+      uniqueId: Playmode.dll/[Playmode][Minigame3Tests_P][suite]
+      name: Minigame3Tests_P
+      fullName: Minigame3Tests_P
+      resultStatus: 2
+      duration: 0.8162644
+      messages: One or more child tests had errors
+      output: 
+      stacktrace: 
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 1
+      categories: []
+      parentId: 1019
+      parentUniqueId: '[Playmode][D:/SeniorProject/Recent/mergetwo/tungsten_11c_vr_game-psb/tungsten11cVRgame/Library/ScriptAssemblies/Playmode.dll][suite]'
+    - id: 1009
+      uniqueId: Playmode.dll/Minigame3Tests_P/[Playmode][Minigame3Tests_P.TC039]
+      name: TC039
+      fullName: Minigame3Tests_P.TC039
+      resultStatus: 2
+      duration: 0.3187752
+      messages: 'Unhandled log message: ''[Exception] NullReferenceException: Object
+        reference not set to an instance of an object''. Use UnityEngine.TestTools.LogAssert.Expect'
+      output: '0
+
+        1
+
+        2
+
+        3
+
+        4
+
+        5
+
+        6
+
+        7
+
+        8
+
+        9
+
+        10
+
+        11
+
+        12
+
+        13
+
+        14
+
+        15
+
+        16
+
+        17
+
+        18
+
+        19
+
+        20
+
+        21
+
+        22
+
+        23
+
+        24
+
+        25
+
+        26
+
+        27
+
+        28
+
+        29
+
+        30
+
+        31
+
+        32
+
+        33
+
+        34
+
+        35
+
+        36
+
+        37
+
+        38
+
+        39
+
+        40
+
+        41
+
+        42
+
+        43
+
+        44
+
+        45
+
+        46
+
+        47
+
+        48
+
+        49
+
+        50
+
+        51
+
+        52
+
+        53
+
+        54
+
+        55
+
+        56
+
+        57
+
+        58
+
+        59
+
+        60
+
+        61
+
+        62
+
+        63
+
+        64
+
+        65
+
+        66
+
+        67
+
+        68
+
+        69
+
+        70
+
+        71
+
+        72
+
+        73
+
+        74
+
+        75
+
+        76
+
+        77
+
+        78
+
+        79
+
+        80
+
+        81
+
+        82
+
+        83
+
+        84
+
+        85
+
+        86
+
+        87
+
+        88
+
+        89
+
+        90
+
+        91
+
+        92
+
+        93
+
+        94
+
+        95
+
+        96
+
+        97
+
+        98
+
+        99
+
+        100
+
+        101
+
+        102
+
+        103
+
+        104
+
+        105
+
+        106
+
+        107
+
+        108
+
+        109
+
+        110
+
+        111
+
+        112
+
+        113
+
+        114
+
+        115
+
+        116
+
+        117
+
+        118
+
+        119
+
+        120
+
+        121
+
+        122
+
+        123
+
+        124
+
+        125
+
+        126
+
+        127
+
+        128
+
+        129
+
+        130
+
+        131
+
+        132
+
+        133
+
+        134
+
+        135
+
+        136
+
+        137
+
+        138
+
+        139
+
+        140
+
+        141
+
+        142
+
+        143
+
+        144
+
+        145
+
+        146
+
+        147
+
+        148
+
+        149
+
+        150
+
+        151
+
+        152
+
+        153
+
+        154
+
+        155
+
+        156
+
+        157
+
+        158
+
+        159
+
+        160
+
+        161
+
+        162
+
+        163
+
+        164
+
+        165
+
+        166
+
+        167
+
+        168
+
+        169
+
+        170
+
+        171
+
+        172
+
+        173
+
+        174
+
+        175
+
+        176
+
+        177
+
+        178
+
+        179
+
+        180
+
+        181
+
+        182
+
+        183
+
+        184
+
+        185
+
+        186
+
+        187
+
+        188
+
+        189
+
+        190
+
+        191
+
+        192
+
+        193
+
+        194
+
+        195
+
+        196
+
+        197
+
+        198
+
+        199
+
+        200
+
+        201
+
+        202
+
+        203
+
+        204
+
+        205
+
+        206
+
+        207
+
+        208
+
+        209
+
+        210
+
+        211
+
+        212
+
+        213
+
+        214
+
+        215
+
+        216
+
+        217
+
+        218
+
+        219
+
+        220
+
+        221
+
+        222
+
+        223
+
+        224
+
+        225
+
+        226
+
+        227
+
+        228
+
+        229
+
+        230
+
+        231
+
+        232
+
+        233
+
+        234
+
+        235
+
+        236
+
+        237
+
+        238
+
+        239
+
+        240
+
+        241
+
+        242
+
+        243
+
+        244
+
+        245
+
+        246
+
+        247
+
+        248
+
+        249
+
+        250
+
+        251
+
+        252
+
+        253
+
+        254
+
+        255
+
+        256
+
+        257
+
+        258
+
+        259
+
+        260
+
+        261
+
+        262
+
+        263
+
+        264
+
+        265
+
+        266
+
+        267
+
+        268
+
+        269
+
+        270
+
+        271
+
+        272
+
+        273
+
+        274
+
+        275
+
+        276
+
+        277
+
+        278
+
+        279
+
+        280
+
+        281
+
+        282
+
+        283
+
+        284
+
+        285
+
+        286
+
+        287
+
+        288
+
+        289
+
+        290
+
+        291
+
+        292
+
+        293
+
+        294
+
+        295
+
+        296
+
+        297
+
+        298
+
+        299
+
+        300
+
+        301
+
+        302
+
+        303
+
+        304
+
+        305
+
+        306
+
+        307
+
+        308
+
+        309
+
+        310
+
+        311
+
+        312
+
+        313
+
+        314
+
+        315
+
+        316
+
+        317
+
+        318
+
+        319
+
+        320
+
+        321
+
+        322
+
+        323
+
+        324
+
+        325
+
+        326
+
+        327
+
+        328
+
+        329
+
+        330
+
+        331
+
+        332
+
+        333
+
+        334
+
+        335
+
+        336
+
+        337
+
+        338
+
+        339
+
+        340
+
+        341
+
+        342
+
+        343
+
+        344
+
+        345
+
+        346
+
+        347
+
+        348
+
+        349
+
+        350
+
+        351
+
+        352
+
+        353
+
+        354
+
+        355
+
+        356
+
+        357
+
+        358
+
+        359
+
+        360
+
+        361
+
+        362
+
+        363
+
+        364
+
+        365
+
+        366
+
+        367
+
+        368
+
+        369
+
+        370
+
+        371
+
+        372
+
+        373
+
+        374
+
+        375
+
+        376
+
+        377
+
+        378
+
+        379
+
+        380
+
+        381
+
+        382
+
+        383
+
+        384
+
+        385
+
+        386
+
+        387
+
+        388
+
+        389
+
+        390
+
+        391
+
+        392
+
+        393
+
+        394
+
+        395
+
+        396
+
+        397
+
+        398
+
+        399
+
+        400
+
+        401
+
+        402
+
+        403
+
+        404
+
+        405
+
+        406
+
+        407
+
+        408
+
+        409
+
+        410
+
+        411
+
+        412
+
+        413
+
+        414
+
+        415
+
+        416
+
+        417
+
+        418
+
+        419
+
+        420
+
+        421
+
+        422
+
+        423
+
+        424
+
+        425
+
+        426
+
+        427
+
+        428
+
+        429
+
+        430
+
+        431
+
+        432
+
+        433
+
+        434
+
+        435
+
+        436
+
+        437
+
+        438
+
+        439
+
+        440
+
+        441
+
+        442
+
+        443
+
+        444
+
+        445
+
+        446
+
+        447
+
+        448
+
+        449
+
+        450
+
+        451
+
+        452
+
+        453
+
+        454
+
+        455
+
+        456
+
+        457
+
+        458
+
+        459
+
+        460
+
+        461
+
+        462
+
+        463
+
+        464
+
+        465
+
+        466
+
+        467
+
+        468
+
+        469
+
+        470
+
+        471
+
+        472
+
+        473
+
+        474
+
+        475
+
+        476
+
+        477
+
+        478
+
+        479
+
+        480
+
+        481
+
+        482
+
+        483
+
+        484
+
+        485
+
+        486
+
+        487
+
+        488
+
+        489
+
+        490
+
+        491
+
+        492
+
+        493
+
+        494
+
+        495
+
+        496
+
+        497
+
+        498
+
+        499
+
+        NullReferenceException:
+        Object reference not set to an instance of an object
+
+'
+      stacktrace: 'MovementStill.OnUnpause () (at Assets/Scripts/MovementStill.cs:63)
+
+        PauseMenu.DisplayWristUI
+        () (at Assets/Scripts/PauseMenu.cs:154)
+
+        PauseMenu.Start () (at Assets/Scripts/PauseMenu.cs:96)
+
+
+
+'
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 0
+      categories:
+      - Uncategorized
+      parentId: 1008
+      parentUniqueId: Playmode.dll/[Playmode][Minigame3Tests_P][suite]
+    - id: 1010
+      uniqueId: Playmode.dll/Minigame3Tests_P/[Playmode][Minigame3Tests_P.TC041]
+      name: TC041
+      fullName: Minigame3Tests_P.TC041
+      resultStatus: 2
+      duration: 0.2450138
+      messages: 'Unhandled log message: ''[Exception] NullReferenceException: Object
+        reference not set to an instance of an object''. Use UnityEngine.TestTools.LogAssert.Expect'
+      output: '0
+
+        1
+
+        2
+
+        3
+
+        4
+
+        5
+
+        6
+
+        7
+
+        8
+
+        9
+
+        10
+
+        11
+
+        12
+
+        13
+
+        14
+
+        15
+
+        16
+
+        17
+
+        18
+
+        19
+
+        20
+
+        21
+
+        22
+
+        23
+
+        24
+
+        25
+
+        26
+
+        27
+
+        28
+
+        29
+
+        30
+
+        31
+
+        32
+
+        33
+
+        34
+
+        35
+
+        36
+
+        37
+
+        38
+
+        39
+
+        40
+
+        41
+
+        42
+
+        43
+
+        44
+
+        45
+
+        46
+
+        47
+
+        48
+
+        49
+
+        50
+
+        51
+
+        52
+
+        53
+
+        54
+
+        55
+
+        56
+
+        57
+
+        58
+
+        59
+
+        60
+
+        61
+
+        62
+
+        63
+
+        64
+
+        65
+
+        66
+
+        67
+
+        68
+
+        69
+
+        70
+
+        71
+
+        72
+
+        73
+
+        74
+
+        75
+
+        76
+
+        77
+
+        78
+
+        79
+
+        80
+
+        81
+
+        82
+
+        83
+
+        84
+
+        85
+
+        86
+
+        87
+
+        88
+
+        89
+
+        90
+
+        91
+
+        92
+
+        93
+
+        94
+
+        95
+
+        96
+
+        97
+
+        98
+
+        99
+
+        100
+
+        101
+
+        102
+
+        103
+
+        104
+
+        105
+
+        106
+
+        107
+
+        108
+
+        109
+
+        110
+
+        111
+
+        112
+
+        113
+
+        114
+
+        115
+
+        116
+
+        117
+
+        118
+
+        119
+
+        120
+
+        121
+
+        122
+
+        123
+
+        124
+
+        125
+
+        126
+
+        127
+
+        128
+
+        129
+
+        130
+
+        131
+
+        132
+
+        133
+
+        134
+
+        135
+
+        136
+
+        137
+
+        138
+
+        139
+
+        140
+
+        141
+
+        142
+
+        143
+
+        144
+
+        145
+
+        146
+
+        147
+
+        148
+
+        149
+
+        150
+
+        151
+
+        152
+
+        153
+
+        154
+
+        155
+
+        156
+
+        157
+
+        158
+
+        159
+
+        160
+
+        161
+
+        162
+
+        163
+
+        164
+
+        165
+
+        166
+
+        167
+
+        168
+
+        169
+
+        170
+
+        171
+
+        172
+
+        173
+
+        174
+
+        175
+
+        176
+
+        177
+
+        178
+
+        179
+
+        180
+
+        181
+
+        182
+
+        183
+
+        184
+
+        185
+
+        186
+
+        187
+
+        188
+
+        189
+
+        190
+
+        191
+
+        192
+
+        193
+
+        194
+
+        195
+
+        196
+
+        197
+
+        198
+
+        199
+
+        200
+
+        201
+
+        202
+
+        203
+
+        204
+
+        205
+
+        206
+
+        207
+
+        208
+
+        209
+
+        210
+
+        211
+
+        212
+
+        213
+
+        214
+
+        215
+
+        216
+
+        217
+
+        218
+
+        219
+
+        220
+
+        221
+
+        222
+
+        223
+
+        224
+
+        225
+
+        226
+
+        227
+
+        228
+
+        229
+
+        230
+
+        231
+
+        232
+
+        233
+
+        234
+
+        235
+
+        236
+
+        237
+
+        238
+
+        239
+
+        240
+
+        241
+
+        242
+
+        243
+
+        244
+
+        245
+
+        246
+
+        247
+
+        248
+
+        249
+
+        250
+
+        251
+
+        252
+
+        253
+
+        254
+
+        255
+
+        256
+
+        257
+
+        258
+
+        259
+
+        260
+
+        261
+
+        262
+
+        263
+
+        264
+
+        265
+
+        266
+
+        267
+
+        268
+
+        269
+
+        270
+
+        271
+
+        272
+
+        273
+
+        274
+
+        275
+
+        276
+
+        277
+
+        278
+
+        279
+
+        280
+
+        281
+
+        282
+
+        283
+
+        284
+
+        285
+
+        286
+
+        287
+
+        288
+
+        289
+
+        290
+
+        291
+
+        292
+
+        293
+
+        294
+
+        295
+
+        296
+
+        297
+
+        298
+
+        299
+
+        300
+
+        301
+
+        302
+
+        303
+
+        304
+
+        305
+
+        306
+
+        307
+
+        308
+
+        309
+
+        310
+
+        311
+
+        312
+
+        313
+
+        314
+
+        315
+
+        316
+
+        317
+
+        318
+
+        319
+
+        320
+
+        321
+
+        322
+
+        323
+
+        324
+
+        325
+
+        326
+
+        327
+
+        328
+
+        329
+
+        330
+
+        331
+
+        332
+
+        333
+
+        334
+
+        335
+
+        336
+
+        337
+
+        338
+
+        339
+
+        340
+
+        341
+
+        342
+
+        343
+
+        344
+
+        345
+
+        346
+
+        347
+
+        348
+
+        349
+
+        350
+
+        351
+
+        352
+
+        353
+
+        354
+
+        355
+
+        356
+
+        357
+
+        358
+
+        359
+
+        360
+
+        361
+
+        362
+
+        363
+
+        364
+
+        365
+
+        366
+
+        367
+
+        368
+
+        369
+
+        370
+
+        371
+
+        372
+
+        373
+
+        374
+
+        375
+
+        376
+
+        377
+
+        378
+
+        379
+
+        380
+
+        381
+
+        382
+
+        383
+
+        384
+
+        385
+
+        386
+
+        387
+
+        388
+
+        389
+
+        390
+
+        391
+
+        392
+
+        393
+
+        394
+
+        395
+
+        396
+
+        397
+
+        398
+
+        399
+
+        400
+
+        401
+
+        402
+
+        403
+
+        404
+
+        405
+
+        406
+
+        407
+
+        408
+
+        409
+
+        410
+
+        411
+
+        412
+
+        413
+
+        414
+
+        415
+
+        416
+
+        417
+
+        418
+
+        419
+
+        420
+
+        421
+
+        422
+
+        423
+
+        424
+
+        425
+
+        426
+
+        427
+
+        428
+
+        429
+
+        430
+
+        431
+
+        432
+
+        433
+
+        434
+
+        435
+
+        436
+
+        437
+
+        438
+
+        439
+
+        440
+
+        441
+
+        442
+
+        443
+
+        444
+
+        445
+
+        446
+
+        447
+
+        448
+
+        449
+
+        450
+
+        451
+
+        452
+
+        453
+
+        454
+
+        455
+
+        456
+
+        457
+
+        458
+
+        459
+
+        460
+
+        461
+
+        462
+
+        463
+
+        464
+
+        465
+
+        466
+
+        467
+
+        468
+
+        469
+
+        470
+
+        471
+
+        472
+
+        473
+
+        474
+
+        475
+
+        476
+
+        477
+
+        478
+
+        479
+
+        480
+
+        481
+
+        482
+
+        483
+
+        484
+
+        485
+
+        486
+
+        487
+
+        488
+
+        489
+
+        490
+
+        491
+
+        492
+
+        493
+
+        494
+
+        495
+
+        496
+
+        497
+
+        498
+
+        499
+
+        NullReferenceException:
+        Object reference not set to an instance of an object
+
+'
+      stacktrace: 'MovementStill.OnUnpause () (at Assets/Scripts/MovementStill.cs:63)
+
+        PauseMenu.DisplayWristUI
+        () (at Assets/Scripts/PauseMenu.cs:154)
+
+        PauseMenu.Start () (at Assets/Scripts/PauseMenu.cs:96)
+
+
+
+'
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 0
+      categories:
+      - Uncategorized
+      parentId: 1008
+      parentUniqueId: Playmode.dll/[Playmode][Minigame3Tests_P][suite]
+    - id: 1011
+      uniqueId: Playmode.dll/Minigame3Tests_P/[Playmode][Minigame3Tests_P.TC042]
+      name: TC042
+      fullName: Minigame3Tests_P.TC042
+      resultStatus: 2
+      duration: 0.2409816
+      messages: 'Unhandled log message: ''[Exception] NullReferenceException: Object
+        reference not set to an instance of an object''. Use UnityEngine.TestTools.LogAssert.Expect'
+      output: '0
+
+        1
+
+        2
+
+        3
+
+        4
+
+        5
+
+        6
+
+        7
+
+        8
+
+        9
+
+        10
+
+        11
+
+        12
+
+        13
+
+        14
+
+        15
+
+        16
+
+        17
+
+        18
+
+        19
+
+        20
+
+        21
+
+        22
+
+        23
+
+        24
+
+        25
+
+        26
+
+        27
+
+        28
+
+        29
+
+        30
+
+        31
+
+        32
+
+        33
+
+        34
+
+        35
+
+        36
+
+        37
+
+        38
+
+        39
+
+        40
+
+        41
+
+        42
+
+        43
+
+        44
+
+        45
+
+        46
+
+        47
+
+        48
+
+        49
+
+        50
+
+        51
+
+        52
+
+        53
+
+        54
+
+        55
+
+        56
+
+        57
+
+        58
+
+        59
+
+        60
+
+        61
+
+        62
+
+        63
+
+        64
+
+        65
+
+        66
+
+        67
+
+        68
+
+        69
+
+        70
+
+        71
+
+        72
+
+        73
+
+        74
+
+        75
+
+        76
+
+        77
+
+        78
+
+        79
+
+        80
+
+        81
+
+        82
+
+        83
+
+        84
+
+        85
+
+        86
+
+        87
+
+        88
+
+        89
+
+        90
+
+        91
+
+        92
+
+        93
+
+        94
+
+        95
+
+        96
+
+        97
+
+        98
+
+        99
+
+        100
+
+        101
+
+        102
+
+        103
+
+        104
+
+        105
+
+        106
+
+        107
+
+        108
+
+        109
+
+        110
+
+        111
+
+        112
+
+        113
+
+        114
+
+        115
+
+        116
+
+        117
+
+        118
+
+        119
+
+        120
+
+        121
+
+        122
+
+        123
+
+        124
+
+        125
+
+        126
+
+        127
+
+        128
+
+        129
+
+        130
+
+        131
+
+        132
+
+        133
+
+        134
+
+        135
+
+        136
+
+        137
+
+        138
+
+        139
+
+        140
+
+        141
+
+        142
+
+        143
+
+        144
+
+        145
+
+        146
+
+        147
+
+        148
+
+        149
+
+        150
+
+        151
+
+        152
+
+        153
+
+        154
+
+        155
+
+        156
+
+        157
+
+        158
+
+        159
+
+        160
+
+        161
+
+        162
+
+        163
+
+        164
+
+        165
+
+        166
+
+        167
+
+        168
+
+        169
+
+        170
+
+        171
+
+        172
+
+        173
+
+        174
+
+        175
+
+        176
+
+        177
+
+        178
+
+        179
+
+        180
+
+        181
+
+        182
+
+        183
+
+        184
+
+        185
+
+        186
+
+        187
+
+        188
+
+        189
+
+        190
+
+        191
+
+        192
+
+        193
+
+        194
+
+        195
+
+        196
+
+        197
+
+        198
+
+        199
+
+        200
+
+        201
+
+        202
+
+        203
+
+        204
+
+        205
+
+        206
+
+        207
+
+        208
+
+        209
+
+        210
+
+        211
+
+        212
+
+        213
+
+        214
+
+        215
+
+        216
+
+        217
+
+        218
+
+        219
+
+        220
+
+        221
+
+        222
+
+        223
+
+        224
+
+        225
+
+        226
+
+        227
+
+        228
+
+        229
+
+        230
+
+        231
+
+        232
+
+        233
+
+        234
+
+        235
+
+        236
+
+        237
+
+        238
+
+        239
+
+        240
+
+        241
+
+        242
+
+        243
+
+        244
+
+        245
+
+        246
+
+        247
+
+        248
+
+        249
+
+        250
+
+        251
+
+        252
+
+        253
+
+        254
+
+        255
+
+        256
+
+        257
+
+        258
+
+        259
+
+        260
+
+        261
+
+        262
+
+        263
+
+        264
+
+        265
+
+        266
+
+        267
+
+        268
+
+        269
+
+        270
+
+        271
+
+        272
+
+        273
+
+        274
+
+        275
+
+        276
+
+        277
+
+        278
+
+        279
+
+        280
+
+        281
+
+        282
+
+        283
+
+        284
+
+        285
+
+        286
+
+        287
+
+        288
+
+        289
+
+        290
+
+        291
+
+        292
+
+        293
+
+        294
+
+        295
+
+        296
+
+        297
+
+        298
+
+        299
+
+        300
+
+        301
+
+        302
+
+        303
+
+        304
+
+        305
+
+        306
+
+        307
+
+        308
+
+        309
+
+        310
+
+        311
+
+        312
+
+        313
+
+        314
+
+        315
+
+        316
+
+        317
+
+        318
+
+        319
+
+        320
+
+        321
+
+        322
+
+        323
+
+        324
+
+        325
+
+        326
+
+        327
+
+        328
+
+        329
+
+        330
+
+        331
+
+        332
+
+        333
+
+        334
+
+        335
+
+        336
+
+        337
+
+        338
+
+        339
+
+        340
+
+        341
+
+        342
+
+        343
+
+        344
+
+        345
+
+        346
+
+        347
+
+        348
+
+        349
+
+        350
+
+        351
+
+        352
+
+        353
+
+        354
+
+        355
+
+        356
+
+        357
+
+        358
+
+        359
+
+        360
+
+        361
+
+        362
+
+        363
+
+        364
+
+        365
+
+        366
+
+        367
+
+        368
+
+        369
+
+        370
+
+        371
+
+        372
+
+        373
+
+        374
+
+        375
+
+        376
+
+        377
+
+        378
+
+        379
+
+        380
+
+        381
+
+        382
+
+        383
+
+        384
+
+        385
+
+        386
+
+        387
+
+        388
+
+        389
+
+        390
+
+        391
+
+        392
+
+        393
+
+        394
+
+        395
+
+        396
+
+        397
+
+        398
+
+        399
+
+        400
+
+        401
+
+        402
+
+        403
+
+        404
+
+        405
+
+        406
+
+        407
+
+        408
+
+        409
+
+        410
+
+        411
+
+        412
+
+        413
+
+        414
+
+        415
+
+        416
+
+        417
+
+        418
+
+        419
+
+        420
+
+        421
+
+        422
+
+        423
+
+        424
+
+        425
+
+        426
+
+        427
+
+        428
+
+        429
+
+        430
+
+        431
+
+        432
+
+        433
+
+        434
+
+        435
+
+        436
+
+        437
+
+        438
+
+        439
+
+        440
+
+        441
+
+        442
+
+        443
+
+        444
+
+        445
+
+        446
+
+        447
+
+        448
+
+        449
+
+        450
+
+        451
+
+        452
+
+        453
+
+        454
+
+        455
+
+        456
+
+        457
+
+        458
+
+        459
+
+        460
+
+        461
+
+        462
+
+        463
+
+        464
+
+        465
+
+        466
+
+        467
+
+        468
+
+        469
+
+        470
+
+        471
+
+        472
+
+        473
+
+        474
+
+        475
+
+        476
+
+        477
+
+        478
+
+        479
+
+        480
+
+        481
+
+        482
+
+        483
+
+        484
+
+        485
+
+        486
+
+        487
+
+        488
+
+        489
+
+        490
+
+        491
+
+        492
+
+        493
+
+        494
+
+        495
+
+        496
+
+        497
+
+        498
+
+        499
+
+        NullReferenceException:
+        Object reference not set to an instance of an object
+
+'
+      stacktrace: 'MovementStill.OnUnpause () (at Assets/Scripts/MovementStill.cs:63)
+
+        PauseMenu.DisplayWristUI
+        () (at Assets/Scripts/PauseMenu.cs:154)
+
+        PauseMenu.Start () (at Assets/Scripts/PauseMenu.cs:96)
+
+
+
+'
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 0
+      categories:
+      - Uncategorized
+      parentId: 1008
+      parentUniqueId: Playmode.dll/[Playmode][Minigame3Tests_P][suite]
+    - id: 1012
+      uniqueId: Playmode.dll/[Playmode][PauseTest][suite]
+      name: PauseTest
+      fullName: PauseTest
+      resultStatus: 2
+      duration: 2.2191756
+      messages: One or more child tests had errors
+      output: 
+      stacktrace: 
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 1
+      categories: []
+      parentId: 1019
+      parentUniqueId: '[Playmode][D:/SeniorProject/Recent/mergetwo/tungsten_11c_vr_game-psb/tungsten11cVRgame/Library/ScriptAssemblies/Playmode.dll][suite]'
+    - id: 1013
+      uniqueId: Playmode.dll/PauseTest/[Playmode][PauseTest.TC018]
+      name: TC018
+      fullName: PauseTest.TC018
+      resultStatus: 2
+      duration: 2.2063365
+      messages: "  Expected: 150.0f\r\n  But was:  148.894394f\r\n"
+      output: '0
+
+        1
+
+        2
+
+        3
+
+        4
+
+        5
+
+        6
+
+        7
+
+        8
+
+        9
+
+        10
+
+        11
+
+        12
+
+        13
+
+        14
+
+        15
+
+        16
+
+        17
+
+        18
+
+        19
+
+        20
+
+        21
+
+        22
+
+        23
+
+        24
+
+        25
+
+        26
+
+        27
+
+        28
+
+        29
+
+        30
+
+        31
+
+        32
+
+        33
+
+        34
+
+        35
+
+        36
+
+        37
+
+        38
+
+        39
+
+        40
+
+        41
+
+        42
+
+        43
+
+        44
+
+        45
+
+        46
+
+        47
+
+        48
+
+        49
+
+        50
+
+        51
+
+        52
+
+        53
+
+        54
+
+        55
+
+        56
+
+        57
+
+        58
+
+        59
+
+        60
+
+        61
+
+        62
+
+        63
+
+        64
+
+        65
+
+        66
+
+        67
+
+        68
+
+        69
+
+        70
+
+        71
+
+        72
+
+        73
+
+        74
+
+        75
+
+        76
+
+        77
+
+        78
+
+        79
+
+        80
+
+        81
+
+        82
+
+        83
+
+        84
+
+        85
+
+        86
+
+        87
+
+        88
+
+        89
+
+        90
+
+        91
+
+        92
+
+        93
+
+        94
+
+        95
+
+        96
+
+        97
+
+        98
+
+        99
+
+        100
+
+        101
+
+        102
+
+        103
+
+        104
+
+        105
+
+        106
+
+        107
+
+        108
+
+        109
+
+        110
+
+        111
+
+        112
+
+        113
+
+        114
+
+        115
+
+        116
+
+        117
+
+        118
+
+        119
+
+        120
+
+        121
+
+        122
+
+        123
+
+        124
+
+        125
+
+        126
+
+        127
+
+        128
+
+        129
+
+        130
+
+        131
+
+        132
+
+        133
+
+        134
+
+        135
+
+        136
+
+        137
+
+        138
+
+        139
+
+        140
+
+        141
+
+        142
+
+        143
+
+        144
+
+        145
+
+        146
+
+        147
+
+        148
+
+        149
+
+        150
+
+        151
+
+        152
+
+        153
+
+        154
+
+        155
+
+        156
+
+        157
+
+        158
+
+        159
+
+        160
+
+        161
+
+        162
+
+        163
+
+        164
+
+        165
+
+        166
+
+        167
+
+        168
+
+        169
+
+        170
+
+        171
+
+        172
+
+        173
+
+        174
+
+        175
+
+        176
+
+        177
+
+        178
+
+        179
+
+        180
+
+        181
+
+        182
+
+        183
+
+        184
+
+        185
+
+        186
+
+        187
+
+        188
+
+        189
+
+        190
+
+        191
+
+        192
+
+        193
+
+        194
+
+        195
+
+        196
+
+        197
+
+        198
+
+        199
+
+        200
+
+        201
+
+        202
+
+        203
+
+        204
+
+        205
+
+        206
+
+        207
+
+        208
+
+        209
+
+        210
+
+        211
+
+        212
+
+        213
+
+        214
+
+        215
+
+        216
+
+        217
+
+        218
+
+        219
+
+        220
+
+        221
+
+        222
+
+        223
+
+        224
+
+        225
+
+        226
+
+        227
+
+        228
+
+        229
+
+        230
+
+        231
+
+        232
+
+        233
+
+        234
+
+        235
+
+        236
+
+        237
+
+        238
+
+        239
+
+        240
+
+        241
+
+        242
+
+        243
+
+        244
+
+        245
+
+        246
+
+        247
+
+        248
+
+        249
+
+        250
+
+        251
+
+        252
+
+        253
+
+        254
+
+        255
+
+        256
+
+        257
+
+        258
+
+        259
+
+        260
+
+        261
+
+        262
+
+        263
+
+        264
+
+        265
+
+        266
+
+        267
+
+        268
+
+        269
+
+        270
+
+        271
+
+        272
+
+        273
+
+        274
+
+        275
+
+        276
+
+        277
+
+        278
+
+        279
+
+        280
+
+        281
+
+        282
+
+        283
+
+        284
+
+        285
+
+        286
+
+        287
+
+        288
+
+        289
+
+        290
+
+        291
+
+        292
+
+        293
+
+        294
+
+        295
+
+        296
+
+        297
+
+        298
+
+        299
+
+        300
+
+        301
+
+        302
+
+        303
+
+        304
+
+        305
+
+        306
+
+        307
+
+        308
+
+        309
+
+        310
+
+        311
+
+        312
+
+        313
+
+        314
+
+        315
+
+        316
+
+        317
+
+        318
+
+        319
+
+        320
+
+        321
+
+        322
+
+        323
+
+        324
+
+        325
+
+        326
+
+        327
+
+        328
+
+        329
+
+        330
+
+        331
+
+        332
+
+        333
+
+        334
+
+        335
+
+        336
+
+        337
+
+        338
+
+        339
+
+        340
+
+        341
+
+        342
+
+        343
+
+        344
+
+        345
+
+        346
+
+        347
+
+        348
+
+        349
+
+        350
+
+        351
+
+        352
+
+        353
+
+        354
+
+        355
+
+        356
+
+        357
+
+        358
+
+        359
+
+        360
+
+        361
+
+        362
+
+        363
+
+        364
+
+        365
+
+        366
+
+        367
+
+        368
+
+        369
+
+        370
+
+        371
+
+        372
+
+        373
+
+        374
+
+        375
+
+        376
+
+        377
+
+        378
+
+        379
+
+        380
+
+        381
+
+        382
+
+        383
+
+        384
+
+        385
+
+        386
+
+        387
+
+        388
+
+        389
+
+        390
+
+        391
+
+        392
+
+        393
+
+        394
+
+        395
+
+        396
+
+        397
+
+        398
+
+        399
+
+        400
+
+        401
+
+        402
+
+        403
+
+        404
+
+        405
+
+        406
+
+        407
+
+        408
+
+        409
+
+        410
+
+        411
+
+        412
+
+        413
+
+        414
+
+        415
+
+        416
+
+        417
+
+        418
+
+        419
+
+        420
+
+        421
+
+        422
+
+        423
+
+        424
+
+        425
+
+        426
+
+        427
+
+        428
+
+        429
+
+        430
+
+        431
+
+        432
+
+        433
+
+        434
+
+        435
+
+        436
+
+        437
+
+        438
+
+        439
+
+        440
+
+        441
+
+        442
+
+        443
+
+        444
+
+        445
+
+        446
+
+        447
+
+        448
+
+        449
+
+        450
+
+        451
+
+        452
+
+        453
+
+        454
+
+        455
+
+        456
+
+        457
+
+        458
+
+        459
+
+        460
+
+        461
+
+        462
+
+        463
+
+        464
+
+        465
+
+        466
+
+        467
+
+        468
+
+        469
+
+        470
+
+        471
+
+        472
+
+        473
+
+        474
+
+        475
+
+        476
+
+        477
+
+        478
+
+        479
+
+        480
+
+        481
+
+        482
+
+        483
+
+        484
+
+        485
+
+        486
+
+        487
+
+        488
+
+        489
+
+        490
+
+        491
+
+        492
+
+        493
+
+        494
+
+        495
+
+        496
+
+        497
+
+        498
+
+        499
+
+'
+      stacktrace: 'at PauseTest+<TC018>d__1.MoveNext () [0x00035] in D:\SeniorProject\final\tungsten_11c_vr_game-psb\tungsten11cVRgame\Assets\Tests\Playmode\PauseTests_P.cs:35
+
+        at
+        UnityEngine.TestTools.TestEnumerator+<Execute>d__7.MoveNext () [0x0003a]
+        in .\Library\PackageCache\com.unity.test-framework@1.1.33\UnityEngine.TestRunner\NUnitExtensions\Attributes\TestEnumerator.cs:46
+
+'
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 0
+      categories:
+      - Uncategorized
+      parentId: 1012
+      parentUniqueId: Playmode.dll/[Playmode][PauseTest][suite]
+    - id: 1014
+      uniqueId: Playmode.dll/[Playmode][TextNarrationTests_P][suite]
+      name: TextNarrationTests_P
+      fullName: TextNarrationTests_P
+      resultStatus: 1
+      duration: 14.775846
+      messages: 
+      output: '0
+
+        1
+
+        2
+
+        3
+
+        4
+
+        5
+
+        6
+
+        7
+
+        8
+
+        9
+
+        10
+
+        11
+
+        12
+
+        13
+
+        14
+
+        15
+
+        16
+
+        17
+
+        18
+
+        19
+
+        20
+
+        21
+
+        22
+
+        23
+
+        24
+
+        25
+
+        26
+
+        27
+
+        28
+
+        29
+
+        30
+
+        31
+
+        32
+
+        33
+
+        34
+
+        35
+
+        36
+
+        37
+
+        38
+
+        39
+
+        40
+
+        41
+
+        42
+
+        43
+
+        44
+
+        45
+
+        46
+
+        47
+
+        48
+
+        49
+
+        50
+
+        51
+
+        52
+
+        53
+
+        54
+
+        55
+
+        56
+
+        57
+
+        58
+
+        59
+
+        60
+
+        61
+
+        62
+
+        63
+
+        64
+
+        65
+
+        66
+
+        67
+
+        68
+
+        69
+
+        70
+
+        71
+
+        72
+
+        73
+
+        74
+
+        75
+
+        76
+
+        77
+
+        78
+
+        79
+
+        80
+
+        81
+
+        82
+
+        83
+
+        84
+
+        85
+
+        86
+
+        87
+
+        88
+
+        89
+
+        90
+
+        91
+
+        92
+
+        93
+
+        94
+
+        95
+
+        96
+
+        97
+
+        98
+
+        99
+
+        100
+
+        101
+
+        102
+
+        103
+
+        104
+
+        105
+
+        106
+
+        107
+
+        108
+
+        109
+
+        110
+
+        111
+
+        112
+
+        113
+
+        114
+
+        115
+
+        116
+
+        117
+
+        118
+
+        119
+
+        120
+
+        121
+
+        122
+
+        123
+
+        124
+
+        125
+
+        126
+
+        127
+
+        128
+
+        129
+
+        130
+
+        131
+
+        132
+
+        133
+
+        134
+
+        135
+
+        136
+
+        137
+
+        138
+
+        139
+
+        140
+
+        141
+
+        142
+
+        143
+
+        144
+
+        145
+
+        146
+
+        147
+
+        148
+
+        149
+
+        150
+
+        151
+
+        152
+
+        153
+
+        154
+
+        155
+
+        156
+
+        157
+
+        158
+
+        159
+
+        160
+
+        161
+
+        162
+
+        163
+
+        164
+
+        165
+
+        166
+
+        167
+
+        168
+
+        169
+
+        170
+
+        171
+
+        172
+
+        173
+
+        174
+
+        175
+
+        176
+
+        177
+
+        178
+
+        179
+
+        180
+
+        181
+
+        182
+
+        183
+
+        184
+
+        185
+
+        186
+
+        187
+
+        188
+
+        189
+
+        190
+
+        191
+
+        192
+
+        193
+
+        194
+
+        195
+
+        196
+
+        197
+
+        198
+
+        199
+
+        200
+
+        201
+
+        202
+
+        203
+
+        204
+
+        205
+
+        206
+
+        207
+
+        208
+
+        209
+
+        210
+
+        211
+
+        212
+
+        213
+
+        214
+
+        215
+
+        216
+
+        217
+
+        218
+
+        219
+
+        220
+
+        221
+
+        222
+
+        223
+
+        224
+
+        225
+
+        226
+
+        227
+
+        228
+
+        229
+
+        230
+
+        231
+
+        232
+
+        233
+
+        234
+
+        235
+
+        236
+
+        237
+
+        238
+
+        239
+
+        240
+
+        241
+
+        242
+
+        243
+
+        244
+
+        245
+
+        246
+
+        247
+
+        248
+
+        249
+
+        250
+
+        251
+
+        252
+
+        253
+
+        254
+
+        255
+
+        256
+
+        257
+
+        258
+
+        259
+
+        260
+
+        261
+
+        262
+
+        263
+
+        264
+
+        265
+
+        266
+
+        267
+
+        268
+
+        269
+
+        270
+
+        271
+
+        272
+
+        273
+
+        274
+
+        275
+
+        276
+
+        277
+
+        278
+
+        279
+
+        280
+
+        281
+
+        282
+
+        283
+
+        284
+
+        285
+
+        286
+
+        287
+
+        288
+
+        289
+
+        290
+
+        291
+
+        292
+
+        293
+
+        294
+
+        295
+
+        296
+
+        297
+
+        298
+
+        299
+
+        300
+
+        301
+
+        302
+
+        303
+
+        304
+
+        305
+
+        306
+
+        307
+
+        308
+
+        309
+
+        310
+
+        311
+
+        312
+
+        313
+
+        314
+
+        315
+
+        316
+
+        317
+
+        318
+
+        319
+
+        320
+
+        321
+
+        322
+
+        323
+
+        324
+
+        325
+
+        326
+
+        327
+
+        328
+
+        329
+
+        330
+
+        331
+
+        332
+
+        333
+
+        334
+
+        335
+
+        336
+
+        337
+
+        338
+
+        339
+
+        340
+
+        341
+
+        342
+
+        343
+
+        344
+
+        345
+
+        346
+
+        347
+
+        348
+
+        349
+
+        350
+
+        351
+
+        352
+
+        353
+
+        354
+
+        355
+
+        356
+
+        357
+
+        358
+
+        359
+
+        360
+
+        361
+
+        362
+
+        363
+
+        364
+
+        365
+
+        366
+
+        367
+
+        368
+
+        369
+
+        370
+
+        371
+
+        372
+
+        373
+
+        374
+
+        375
+
+        376
+
+        377
+
+        378
+
+        379
+
+        380
+
+        381
+
+        382
+
+        383
+
+        384
+
+        385
+
+        386
+
+        387
+
+        388
+
+        389
+
+        390
+
+        391
+
+        392
+
+        393
+
+        394
+
+        395
+
+        396
+
+        397
+
+        398
+
+        399
+
+        400
+
+        401
+
+        402
+
+        403
+
+        404
+
+        405
+
+        406
+
+        407
+
+        408
+
+        409
+
+        410
+
+        411
+
+        412
+
+        413
+
+        414
+
+        415
+
+        416
+
+        417
+
+        418
+
+        419
+
+        420
+
+        421
+
+        422
+
+        423
+
+        424
+
+        425
+
+        426
+
+        427
+
+        428
+
+        429
+
+        430
+
+        431
+
+        432
+
+        433
+
+        434
+
+        435
+
+        436
+
+        437
+
+        438
+
+        439
+
+        440
+
+        441
+
+        442
+
+        443
+
+        444
+
+        445
+
+        446
+
+        447
+
+        448
+
+        449
+
+        450
+
+        451
+
+        452
+
+        453
+
+        454
+
+        455
+
+        456
+
+        457
+
+        458
+
+        459
+
+        460
+
+        461
+
+        462
+
+        463
+
+        464
+
+        465
+
+        466
+
+        467
+
+        468
+
+        469
+
+        470
+
+        471
+
+        472
+
+        473
+
+        474
+
+        475
+
+        476
+
+        477
+
+        478
+
+        479
+
+        480
+
+        481
+
+        482
+
+        483
+
+        484
+
+        485
+
+        486
+
+        487
+
+        488
+
+        489
+
+        490
+
+        491
+
+        492
+
+        493
+
+        494
+
+        495
+
+        496
+
+        497
+
+        498
+
+        499
+
+'
+      stacktrace: 
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 1
+      categories: []
+      parentId: 1019
+      parentUniqueId: '[Playmode][D:/SeniorProject/Recent/mergetwo/tungsten_11c_vr_game-psb/tungsten11cVRgame/Library/ScriptAssemblies/Playmode.dll][suite]'
+    - id: 1015
+      uniqueId: Playmode.dll/TextNarrationTests_P/[Playmode][TextNarrationTests_P.TC054]
+      name: TC054
+      fullName: TextNarrationTests_P.TC054
+      resultStatus: 1
+      duration: 6.9973993
+      messages: 
+      output: '0
+
+        1
+
+        2
+
+        3
+
+        4
+
+        5
+
+        6
+
+        7
+
+        8
+
+        9
+
+        10
+
+        11
+
+        12
+
+        13
+
+        14
+
+        15
+
+        16
+
+        17
+
+        18
+
+        19
+
+        20
+
+        21
+
+        22
+
+        23
+
+        24
+
+        25
+
+        26
+
+        27
+
+        28
+
+        29
+
+        30
+
+        31
+
+        32
+
+        33
+
+        34
+
+        35
+
+        36
+
+        37
+
+        38
+
+        39
+
+        40
+
+        41
+
+        42
+
+        43
+
+        44
+
+        45
+
+        46
+
+        47
+
+        48
+
+        49
+
+        50
+
+        51
+
+        52
+
+        53
+
+        54
+
+        55
+
+        56
+
+        57
+
+        58
+
+        59
+
+        60
+
+        61
+
+        62
+
+        63
+
+        64
+
+        65
+
+        66
+
+        67
+
+        68
+
+        69
+
+        70
+
+        71
+
+        72
+
+        73
+
+        74
+
+        75
+
+        76
+
+        77
+
+        78
+
+        79
+
+        80
+
+        81
+
+        82
+
+        83
+
+        84
+
+        85
+
+        86
+
+        87
+
+        88
+
+        89
+
+        90
+
+        91
+
+        92
+
+        93
+
+        94
+
+        95
+
+        96
+
+        97
+
+        98
+
+        99
+
+        100
+
+        101
+
+        102
+
+        103
+
+        104
+
+        105
+
+        106
+
+        107
+
+        108
+
+        109
+
+        110
+
+        111
+
+        112
+
+        113
+
+        114
+
+        115
+
+        116
+
+        117
+
+        118
+
+        119
+
+        120
+
+        121
+
+        122
+
+        123
+
+        124
+
+        125
+
+        126
+
+        127
+
+        128
+
+        129
+
+        130
+
+        131
+
+        132
+
+        133
+
+        134
+
+        135
+
+        136
+
+        137
+
+        138
+
+        139
+
+        140
+
+        141
+
+        142
+
+        143
+
+        144
+
+        145
+
+        146
+
+        147
+
+        148
+
+        149
+
+        150
+
+        151
+
+        152
+
+        153
+
+        154
+
+        155
+
+        156
+
+        157
+
+        158
+
+        159
+
+        160
+
+        161
+
+        162
+
+        163
+
+        164
+
+        165
+
+        166
+
+        167
+
+        168
+
+        169
+
+        170
+
+        171
+
+        172
+
+        173
+
+        174
+
+        175
+
+        176
+
+        177
+
+        178
+
+        179
+
+        180
+
+        181
+
+        182
+
+        183
+
+        184
+
+        185
+
+        186
+
+        187
+
+        188
+
+        189
+
+        190
+
+        191
+
+        192
+
+        193
+
+        194
+
+        195
+
+        196
+
+        197
+
+        198
+
+        199
+
+        200
+
+        201
+
+        202
+
+        203
+
+        204
+
+        205
+
+        206
+
+        207
+
+        208
+
+        209
+
+        210
+
+        211
+
+        212
+
+        213
+
+        214
+
+        215
+
+        216
+
+        217
+
+        218
+
+        219
+
+        220
+
+        221
+
+        222
+
+        223
+
+        224
+
+        225
+
+        226
+
+        227
+
+        228
+
+        229
+
+        230
+
+        231
+
+        232
+
+        233
+
+        234
+
+        235
+
+        236
+
+        237
+
+        238
+
+        239
+
+        240
+
+        241
+
+        242
+
+        243
+
+        244
+
+        245
+
+        246
+
+        247
+
+        248
+
+        249
+
+        250
+
+        251
+
+        252
+
+        253
+
+        254
+
+        255
+
+        256
+
+        257
+
+        258
+
+        259
+
+        260
+
+        261
+
+        262
+
+        263
+
+        264
+
+        265
+
+        266
+
+        267
+
+        268
+
+        269
+
+        270
+
+        271
+
+        272
+
+        273
+
+        274
+
+        275
+
+        276
+
+        277
+
+        278
+
+        279
+
+        280
+
+        281
+
+        282
+
+        283
+
+        284
+
+        285
+
+        286
+
+        287
+
+        288
+
+        289
+
+        290
+
+        291
+
+        292
+
+        293
+
+        294
+
+        295
+
+        296
+
+        297
+
+        298
+
+        299
+
+        300
+
+        301
+
+        302
+
+        303
+
+        304
+
+        305
+
+        306
+
+        307
+
+        308
+
+        309
+
+        310
+
+        311
+
+        312
+
+        313
+
+        314
+
+        315
+
+        316
+
+        317
+
+        318
+
+        319
+
+        320
+
+        321
+
+        322
+
+        323
+
+        324
+
+        325
+
+        326
+
+        327
+
+        328
+
+        329
+
+        330
+
+        331
+
+        332
+
+        333
+
+        334
+
+        335
+
+        336
+
+        337
+
+        338
+
+        339
+
+        340
+
+        341
+
+        342
+
+        343
+
+        344
+
+        345
+
+        346
+
+        347
+
+        348
+
+        349
+
+        350
+
+        351
+
+        352
+
+        353
+
+        354
+
+        355
+
+        356
+
+        357
+
+        358
+
+        359
+
+        360
+
+        361
+
+        362
+
+        363
+
+        364
+
+        365
+
+        366
+
+        367
+
+        368
+
+        369
+
+        370
+
+        371
+
+        372
+
+        373
+
+        374
+
+        375
+
+        376
+
+        377
+
+        378
+
+        379
+
+        380
+
+        381
+
+        382
+
+        383
+
+        384
+
+        385
+
+        386
+
+        387
+
+        388
+
+        389
+
+        390
+
+        391
+
+        392
+
+        393
+
+        394
+
+        395
+
+        396
+
+        397
+
+        398
+
+        399
+
+        400
+
+        401
+
+        402
+
+        403
+
+        404
+
+        405
+
+        406
+
+        407
+
+        408
+
+        409
+
+        410
+
+        411
+
+        412
+
+        413
+
+        414
+
+        415
+
+        416
+
+        417
+
+        418
+
+        419
+
+        420
+
+        421
+
+        422
+
+        423
+
+        424
+
+        425
+
+        426
+
+        427
+
+        428
+
+        429
+
+        430
+
+        431
+
+        432
+
+        433
+
+        434
+
+        435
+
+        436
+
+        437
+
+        438
+
+        439
+
+        440
+
+        441
+
+        442
+
+        443
+
+        444
+
+        445
+
+        446
+
+        447
+
+        448
+
+        449
+
+        450
+
+        451
+
+        452
+
+        453
+
+        454
+
+        455
+
+        456
+
+        457
+
+        458
+
+        459
+
+        460
+
+        461
+
+        462
+
+        463
+
+        464
+
+        465
+
+        466
+
+        467
+
+        468
+
+        469
+
+        470
+
+        471
+
+        472
+
+        473
+
+        474
+
+        475
+
+        476
+
+        477
+
+        478
+
+        479
+
+        480
+
+        481
+
+        482
+
+        483
+
+        484
+
+        485
+
+        486
+
+        487
+
+        488
+
+        489
+
+        490
+
+        491
+
+        492
+
+        493
+
+        494
+
+        495
+
+        496
+
+        497
+
+        498
+
+        499
+
+'
+      stacktrace: 
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 0
+      categories:
+      - Uncategorized
+      parentId: 1014
+      parentUniqueId: Playmode.dll/[Playmode][TextNarrationTests_P][suite]
+    - id: 1016
+      uniqueId: Playmode.dll/TextNarrationTests_P/[Playmode][TextNarrationTests_P.TC055]
+      name: TC055
+      fullName: TextNarrationTests_P.TC055
+      resultStatus: 1
+      duration: 6.8863873
+      messages: 
+      output: '0
+
+        1
+
+        2
+
+        3
+
+        4
+
+        5
+
+        6
+
+        7
+
+        8
+
+        9
+
+        10
+
+        11
+
+        12
+
+        13
+
+        14
+
+        15
+
+        16
+
+        17
+
+        18
+
+        19
+
+        20
+
+        21
+
+        22
+
+        23
+
+        24
+
+        25
+
+        26
+
+        27
+
+        28
+
+        29
+
+        30
+
+        31
+
+        32
+
+        33
+
+        34
+
+        35
+
+        36
+
+        37
+
+        38
+
+        39
+
+        40
+
+        41
+
+        42
+
+        43
+
+        44
+
+        45
+
+        46
+
+        47
+
+        48
+
+        49
+
+        50
+
+        51
+
+        52
+
+        53
+
+        54
+
+        55
+
+        56
+
+        57
+
+        58
+
+        59
+
+        60
+
+        61
+
+        62
+
+        63
+
+        64
+
+        65
+
+        66
+
+        67
+
+        68
+
+        69
+
+        70
+
+        71
+
+        72
+
+        73
+
+        74
+
+        75
+
+        76
+
+        77
+
+        78
+
+        79
+
+        80
+
+        81
+
+        82
+
+        83
+
+        84
+
+        85
+
+        86
+
+        87
+
+        88
+
+        89
+
+        90
+
+        91
+
+        92
+
+        93
+
+        94
+
+        95
+
+        96
+
+        97
+
+        98
+
+        99
+
+        100
+
+        101
+
+        102
+
+        103
+
+        104
+
+        105
+
+        106
+
+        107
+
+        108
+
+        109
+
+        110
+
+        111
+
+        112
+
+        113
+
+        114
+
+        115
+
+        116
+
+        117
+
+        118
+
+        119
+
+        120
+
+        121
+
+        122
+
+        123
+
+        124
+
+        125
+
+        126
+
+        127
+
+        128
+
+        129
+
+        130
+
+        131
+
+        132
+
+        133
+
+        134
+
+        135
+
+        136
+
+        137
+
+        138
+
+        139
+
+        140
+
+        141
+
+        142
+
+        143
+
+        144
+
+        145
+
+        146
+
+        147
+
+        148
+
+        149
+
+        150
+
+        151
+
+        152
+
+        153
+
+        154
+
+        155
+
+        156
+
+        157
+
+        158
+
+        159
+
+        160
+
+        161
+
+        162
+
+        163
+
+        164
+
+        165
+
+        166
+
+        167
+
+        168
+
+        169
+
+        170
+
+        171
+
+        172
+
+        173
+
+        174
+
+        175
+
+        176
+
+        177
+
+        178
+
+        179
+
+        180
+
+        181
+
+        182
+
+        183
+
+        184
+
+        185
+
+        186
+
+        187
+
+        188
+
+        189
+
+        190
+
+        191
+
+        192
+
+        193
+
+        194
+
+        195
+
+        196
+
+        197
+
+        198
+
+        199
+
+        200
+
+        201
+
+        202
+
+        203
+
+        204
+
+        205
+
+        206
+
+        207
+
+        208
+
+        209
+
+        210
+
+        211
+
+        212
+
+        213
+
+        214
+
+        215
+
+        216
+
+        217
+
+        218
+
+        219
+
+        220
+
+        221
+
+        222
+
+        223
+
+        224
+
+        225
+
+        226
+
+        227
+
+        228
+
+        229
+
+        230
+
+        231
+
+        232
+
+        233
+
+        234
+
+        235
+
+        236
+
+        237
+
+        238
+
+        239
+
+        240
+
+        241
+
+        242
+
+        243
+
+        244
+
+        245
+
+        246
+
+        247
+
+        248
+
+        249
+
+        250
+
+        251
+
+        252
+
+        253
+
+        254
+
+        255
+
+        256
+
+        257
+
+        258
+
+        259
+
+        260
+
+        261
+
+        262
+
+        263
+
+        264
+
+        265
+
+        266
+
+        267
+
+        268
+
+        269
+
+        270
+
+        271
+
+        272
+
+        273
+
+        274
+
+        275
+
+        276
+
+        277
+
+        278
+
+        279
+
+        280
+
+        281
+
+        282
+
+        283
+
+        284
+
+        285
+
+        286
+
+        287
+
+        288
+
+        289
+
+        290
+
+        291
+
+        292
+
+        293
+
+        294
+
+        295
+
+        296
+
+        297
+
+        298
+
+        299
+
+        300
+
+        301
+
+        302
+
+        303
+
+        304
+
+        305
+
+        306
+
+        307
+
+        308
+
+        309
+
+        310
+
+        311
+
+        312
+
+        313
+
+        314
+
+        315
+
+        316
+
+        317
+
+        318
+
+        319
+
+        320
+
+        321
+
+        322
+
+        323
+
+        324
+
+        325
+
+        326
+
+        327
+
+        328
+
+        329
+
+        330
+
+        331
+
+        332
+
+        333
+
+        334
+
+        335
+
+        336
+
+        337
+
+        338
+
+        339
+
+        340
+
+        341
+
+        342
+
+        343
+
+        344
+
+        345
+
+        346
+
+        347
+
+        348
+
+        349
+
+        350
+
+        351
+
+        352
+
+        353
+
+        354
+
+        355
+
+        356
+
+        357
+
+        358
+
+        359
+
+        360
+
+        361
+
+        362
+
+        363
+
+        364
+
+        365
+
+        366
+
+        367
+
+        368
+
+        369
+
+        370
+
+        371
+
+        372
+
+        373
+
+        374
+
+        375
+
+        376
+
+        377
+
+        378
+
+        379
+
+        380
+
+        381
+
+        382
+
+        383
+
+        384
+
+        385
+
+        386
+
+        387
+
+        388
+
+        389
+
+        390
+
+        391
+
+        392
+
+        393
+
+        394
+
+        395
+
+        396
+
+        397
+
+        398
+
+        399
+
+        400
+
+        401
+
+        402
+
+        403
+
+        404
+
+        405
+
+        406
+
+        407
+
+        408
+
+        409
+
+        410
+
+        411
+
+        412
+
+        413
+
+        414
+
+        415
+
+        416
+
+        417
+
+        418
+
+        419
+
+        420
+
+        421
+
+        422
+
+        423
+
+        424
+
+        425
+
+        426
+
+        427
+
+        428
+
+        429
+
+        430
+
+        431
+
+        432
+
+        433
+
+        434
+
+        435
+
+        436
+
+        437
+
+        438
+
+        439
+
+        440
+
+        441
+
+        442
+
+        443
+
+        444
+
+        445
+
+        446
+
+        447
+
+        448
+
+        449
+
+        450
+
+        451
+
+        452
+
+        453
+
+        454
+
+        455
+
+        456
+
+        457
+
+        458
+
+        459
+
+        460
+
+        461
+
+        462
+
+        463
+
+        464
+
+        465
+
+        466
+
+        467
+
+        468
+
+        469
+
+        470
+
+        471
+
+        472
+
+        473
+
+        474
+
+        475
+
+        476
+
+        477
+
+        478
+
+        479
+
+        480
+
+        481
+
+        482
+
+        483
+
+        484
+
+        485
+
+        486
+
+        487
+
+        488
+
+        489
+
+        490
+
+        491
+
+        492
+
+        493
+
+        494
+
+        495
+
+        496
+
+        497
+
+        498
+
+        499
+
+'
+      stacktrace: 
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 0
+      categories:
+      - Uncategorized
+      parentId: 1014
+      parentUniqueId: Playmode.dll/[Playmode][TextNarrationTests_P][suite]
+    - id: 1017
+      uniqueId: Playmode.dll/[Playmode][TimerTests_P][suite]
+      name: TimerTests_P
+      fullName: TimerTests_P
+      resultStatus: 2
+      duration: 3.8738077
+      messages: One or more child tests had errors
+      output: 
+      stacktrace: 
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 1
+      categories: []
+      parentId: 1019
+      parentUniqueId: '[Playmode][D:/SeniorProject/Recent/mergetwo/tungsten_11c_vr_game-psb/tungsten11cVRgame/Library/ScriptAssemblies/Playmode.dll][suite]'
+    - id: 1018
+      uniqueId: Playmode.dll/TimerTests_P/[Playmode][TimerTests_P.TC025]
+      name: TC025
+      fullName: TimerTests_P.TC025
+      resultStatus: 2
+      duration: 3.8587463
+      messages: "  timer not decreasing properly\r\n  Expected: 147.0f\r\n  But was: 
+        134.0f\r\n"
+      output: '0
+
+        1
+
+        2
+
+        3
+
+        4
+
+        5
+
+        6
+
+        7
+
+        8
+
+        9
+
+        10
+
+        11
+
+        12
+
+        13
+
+        14
+
+        15
+
+        16
+
+        17
+
+        18
+
+        19
+
+        20
+
+        21
+
+        22
+
+        23
+
+        24
+
+        25
+
+        26
+
+        27
+
+        28
+
+        29
+
+        30
+
+        31
+
+        32
+
+        33
+
+        34
+
+        35
+
+        36
+
+        37
+
+        38
+
+        39
+
+        40
+
+        41
+
+        42
+
+        43
+
+        44
+
+        45
+
+        46
+
+        47
+
+        48
+
+        49
+
+        50
+
+        51
+
+        52
+
+        53
+
+        54
+
+        55
+
+        56
+
+        57
+
+        58
+
+        59
+
+        60
+
+        61
+
+        62
+
+        63
+
+        64
+
+        65
+
+        66
+
+        67
+
+        68
+
+        69
+
+        70
+
+        71
+
+        72
+
+        73
+
+        74
+
+        75
+
+        76
+
+        77
+
+        78
+
+        79
+
+        80
+
+        81
+
+        82
+
+        83
+
+        84
+
+        85
+
+        86
+
+        87
+
+        88
+
+        89
+
+        90
+
+        91
+
+        92
+
+        93
+
+        94
+
+        95
+
+        96
+
+        97
+
+        98
+
+        99
+
+        100
+
+        101
+
+        102
+
+        103
+
+        104
+
+        105
+
+        106
+
+        107
+
+        108
+
+        109
+
+        110
+
+        111
+
+        112
+
+        113
+
+        114
+
+        115
+
+        116
+
+        117
+
+        118
+
+        119
+
+        120
+
+        121
+
+        122
+
+        123
+
+        124
+
+        125
+
+        126
+
+        127
+
+        128
+
+        129
+
+        130
+
+        131
+
+        132
+
+        133
+
+        134
+
+        135
+
+        136
+
+        137
+
+        138
+
+        139
+
+        140
+
+        141
+
+        142
+
+        143
+
+        144
+
+        145
+
+        146
+
+        147
+
+        148
+
+        149
+
+        150
+
+        151
+
+        152
+
+        153
+
+        154
+
+        155
+
+        156
+
+        157
+
+        158
+
+        159
+
+        160
+
+        161
+
+        162
+
+        163
+
+        164
+
+        165
+
+        166
+
+        167
+
+        168
+
+        169
+
+        170
+
+        171
+
+        172
+
+        173
+
+        174
+
+        175
+
+        176
+
+        177
+
+        178
+
+        179
+
+        180
+
+        181
+
+        182
+
+        183
+
+        184
+
+        185
+
+        186
+
+        187
+
+        188
+
+        189
+
+        190
+
+        191
+
+        192
+
+        193
+
+        194
+
+        195
+
+        196
+
+        197
+
+        198
+
+        199
+
+        200
+
+        201
+
+        202
+
+        203
+
+        204
+
+        205
+
+        206
+
+        207
+
+        208
+
+        209
+
+        210
+
+        211
+
+        212
+
+        213
+
+        214
+
+        215
+
+        216
+
+        217
+
+        218
+
+        219
+
+        220
+
+        221
+
+        222
+
+        223
+
+        224
+
+        225
+
+        226
+
+        227
+
+        228
+
+        229
+
+        230
+
+        231
+
+        232
+
+        233
+
+        234
+
+        235
+
+        236
+
+        237
+
+        238
+
+        239
+
+        240
+
+        241
+
+        242
+
+        243
+
+        244
+
+        245
+
+        246
+
+        247
+
+        248
+
+        249
+
+        250
+
+        251
+
+        252
+
+        253
+
+        254
+
+        255
+
+        256
+
+        257
+
+        258
+
+        259
+
+        260
+
+        261
+
+        262
+
+        263
+
+        264
+
+        265
+
+        266
+
+        267
+
+        268
+
+        269
+
+        270
+
+        271
+
+        272
+
+        273
+
+        274
+
+        275
+
+        276
+
+        277
+
+        278
+
+        279
+
+        280
+
+        281
+
+        282
+
+        283
+
+        284
+
+        285
+
+        286
+
+        287
+
+        288
+
+        289
+
+        290
+
+        291
+
+        292
+
+        293
+
+        294
+
+        295
+
+        296
+
+        297
+
+        298
+
+        299
+
+        300
+
+        301
+
+        302
+
+        303
+
+        304
+
+        305
+
+        306
+
+        307
+
+        308
+
+        309
+
+        310
+
+        311
+
+        312
+
+        313
+
+        314
+
+        315
+
+        316
+
+        317
+
+        318
+
+        319
+
+        320
+
+        321
+
+        322
+
+        323
+
+        324
+
+        325
+
+        326
+
+        327
+
+        328
+
+        329
+
+        330
+
+        331
+
+        332
+
+        333
+
+        334
+
+        335
+
+        336
+
+        337
+
+        338
+
+        339
+
+        340
+
+        341
+
+        342
+
+        343
+
+        344
+
+        345
+
+        346
+
+        347
+
+        348
+
+        349
+
+        350
+
+        351
+
+        352
+
+        353
+
+        354
+
+        355
+
+        356
+
+        357
+
+        358
+
+        359
+
+        360
+
+        361
+
+        362
+
+        363
+
+        364
+
+        365
+
+        366
+
+        367
+
+        368
+
+        369
+
+        370
+
+        371
+
+        372
+
+        373
+
+        374
+
+        375
+
+        376
+
+        377
+
+        378
+
+        379
+
+        380
+
+        381
+
+        382
+
+        383
+
+        384
+
+        385
+
+        386
+
+        387
+
+        388
+
+        389
+
+        390
+
+        391
+
+        392
+
+        393
+
+        394
+
+        395
+
+        396
+
+        397
+
+        398
+
+        399
+
+        400
+
+        401
+
+        402
+
+        403
+
+        404
+
+        405
+
+        406
+
+        407
+
+        408
+
+        409
+
+        410
+
+        411
+
+        412
+
+        413
+
+        414
+
+        415
+
+        416
+
+        417
+
+        418
+
+        419
+
+        420
+
+        421
+
+        422
+
+        423
+
+        424
+
+        425
+
+        426
+
+        427
+
+        428
+
+        429
+
+        430
+
+        431
+
+        432
+
+        433
+
+        434
+
+        435
+
+        436
+
+        437
+
+        438
+
+        439
+
+        440
+
+        441
+
+        442
+
+        443
+
+        444
+
+        445
+
+        446
+
+        447
+
+        448
+
+        449
+
+        450
+
+        451
+
+        452
+
+        453
+
+        454
+
+        455
+
+        456
+
+        457
+
+        458
+
+        459
+
+        460
+
+        461
+
+        462
+
+        463
+
+        464
+
+        465
+
+        466
+
+        467
+
+        468
+
+        469
+
+        470
+
+        471
+
+        472
+
+        473
+
+        474
+
+        475
+
+        476
+
+        477
+
+        478
+
+        479
+
+        480
+
+        481
+
+        482
+
+        483
+
+        484
+
+        485
+
+        486
+
+        487
+
+        488
+
+        489
+
+        490
+
+        491
+
+        492
+
+        493
+
+        494
+
+        495
+
+        496
+
+        497
+
+        498
+
+        499
+
+'
+      stacktrace: 'at TimerTests_P+<TC025>d__1.MoveNext () [0x00042] in D:\SeniorProject\final\tungsten_11c_vr_game-psb\tungsten11cVRgame\Assets\Tests\Playmode\TimerTests_P.cs:31
+
+        at
+        UnityEngine.TestTools.TestEnumerator+<Execute>d__7.MoveNext () [0x0003a]
+        in .\Library\PackageCache\com.unity.test-framework@1.1.33\UnityEngine.TestRunner\NUnitExtensions\Attributes\TestEnumerator.cs:46
+
+'
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 0
+      categories:
+      - Uncategorized
+      parentId: 1017
+      parentUniqueId: Playmode.dll/[Playmode][TimerTests_P][suite]
+    m_ResultText: 'TC030 (0.459s)
+
+      ---
+
+      Unhandled log message: ''[Exception]
+      NullReferenceException: Object reference not set to an instance of an object''.
+      Use UnityEngine.TestTools.LogAssert.Expect
+
+      ---
+
+      MovementStill.OnUnpause
+      () (at Assets/Scripts/MovementStill.cs:63)
+
+      PauseMenu.DisplayWristUI
+      () (at Assets/Scripts/PauseMenu.cs:154)
+
+      PauseMenu.Start () (at Assets/Scripts/PauseMenu.cs:96)
+
+      ---
+
+      0
+
+      1
+
+      2
+
+      3
+
+      4
+
+      5
+
+      6
+
+      7
+
+      8
+
+      9
+
+      10
+
+      11
+
+      12
+
+      13
+
+      14
+
+      15
+
+      16
+
+      17
+
+      18
+
+      19
+
+      20
+
+      21
+
+      22
+
+      23
+
+      24
+
+      25
+
+      26
+
+      27
+
+      28
+
+      29
+
+      30
+
+      31
+
+      32
+
+      33
+
+      34
+
+      35
+
+      36
+
+      37
+
+      38
+
+      39
+
+      40
+
+      41
+
+      42
+
+      43
+
+      44
+
+      45
+
+      46
+
+      47
+
+      48
+
+      49
+
+      50
+
+      51
+
+      52
+
+      53
+
+      54
+
+      55
+
+      56
+
+      57
+
+      58
+
+      59
+
+      60
+
+      61
+
+      62
+
+      63
+
+      64
+
+      65
+
+      66
+
+      67
+
+      68
+
+      69
+
+      70
+
+      71
+
+      72
+
+      73
+
+      74
+
+      75
+
+      76
+
+      77
+
+      78
+
+      79
+
+      80
+
+      81
+
+      82
+
+      83
+
+      84
+
+      85
+
+      86
+
+      87
+
+      88
+
+      89
+
+      90
+
+      91
+
+      92
+
+      93
+
+      94
+
+      95
+
+      96
+
+      97
+
+      98
+
+      99
+
+      100
+
+      101
+
+      102
+
+      103
+
+      104
+
+      105
+
+      106
+
+      107
+
+      108
+
+      109
+
+      110
+
+      111
+
+      112
+
+      113
+
+      114
+
+      115
+
+      116
+
+      117
+
+      118
+
+      119
+
+      120
+
+      121
+
+      122
+
+      123
+
+      124
+
+      125
+
+      126
+
+      127
+
+      128
+
+      129
+
+      130
+
+      131
+
+      132
+
+      133
+
+      134
+
+      135
+
+      136
+
+      137
+
+      138
+
+      139
+
+      140
+
+      141
+
+      142
+
+      143
+
+      144
+
+      145
+
+      146
+
+      147
+
+      148
+
+      149
+
+      150
+
+      151
+
+      152
+
+      153
+
+      154
+
+      155
+
+      156
+
+      157
+
+      158
+
+      159
+
+      160
+
+      161
+
+      162
+
+      163
+
+      164
+
+      165
+
+      166
+
+      167
+
+      168
+
+      169
+
+      170
+
+      171
+
+      172
+
+      173
+
+      174
+
+      175
+
+      176
+
+      177
+
+      178
+
+      179
+
+      180
+
+      181
+
+      182
+
+      183
+
+      184
+
+      185
+
+      186
+
+      187
+
+      188
+
+      189
+
+      190
+
+      191
+
+      192
+
+      193
+
+      194
+
+      195
+
+      196
+
+      197
+
+      198
+
+      199
+
+      200
+
+      201
+
+      202
+
+      203
+
+      204
+
+      205
+
+      206
+
+      207
+
+      208
+
+      209
+
+      210
+
+      211
+
+      212
+
+      213
+
+      214
+
+      215
+
+      216
+
+      217
+
+      218
+
+      219
+
+      220
+
+      221
+
+      222
+
+      223
+
+      224
+
+      225
+
+      226
+
+      227
+
+      228
+
+      229
+
+      230
+
+      231
+
+      232
+
+      233
+
+      234
+
+      235
+
+      236
+
+      237
+
+      238
+
+      239
+
+      240
+
+      241
+
+      242
+
+      243
+
+      244
+
+      245
+
+      246
+
+      247
+
+      248
+
+      249
+
+      250
+
+      251
+
+      252
+
+      253
+
+      254
+
+      255
+
+      256
+
+      257
+
+      258
+
+      259
+
+      260
+
+      261
+
+      262
+
+      263
+
+      264
+
+      265
+
+      266
+
+      267
+
+      268
+
+      269
+
+      270
+
+      271
+
+      272
+
+      273
+
+      274
+
+      275
+
+      276
+
+      277
+
+      278
+
+      279
+
+      280
+
+      281
+
+      282
+
+      283
+
+      284
+
+      285
+
+      286
+
+      287
+
+      288
+
+      289
+
+      290
+
+      291
+
+      292
+
+      293
+
+      294
+
+      295
+
+      296
+
+      297
+
+      298
+
+      299
+
+      300
+
+      301
+
+      302
+
+      303
+
+      304
+
+      305
+
+      306
+
+      307
+
+      308
+
+      309
+
+      310
+
+      311
+
+      312
+
+      313
+
+      314
+
+      315
+
+      316
+
+      317
+
+      318
+
+      319
+
+      320
+
+      321
+
+      322
+
+      323
+
+      324
+
+      325
+
+      326
+
+      327
+
+      328
+
+      329
+
+      330
+
+      331
+
+      332
+
+      333
+
+      334
+
+      335
+
+      336
+
+      337
+
+      338
+
+      339
+
+      340
+
+      341
+
+      342
+
+      343
+
+      344
+
+      345
+
+      346
+
+      347
+
+      348
+
+      349
+
+      350
+
+      351
+
+      352
+
+      353
+
+      354
+
+      355
+
+      356
+
+      357
+
+      358
+
+      359
+
+      360
+
+      361
+
+      362
+
+      363
+
+      364
+
+      365
+
+      366
+
+      367
+
+      368
+
+      369
+
+      370
+
+      371
+
+      372
+
+      373
+
+      374
+
+      375
+
+      376
+
+      377
+
+      378
+
+      379
+
+      380
+
+      381
+
+      382
+
+      383
+
+      384
+
+      385
+
+      386
+
+      387
+
+      388
+
+      389
+
+      390
+
+      391
+
+      392
+
+      393
+
+      394
+
+      395
+
+      396
+
+      397
+
+      398
+
+      399
+
+      400
+
+      401
+
+      402
+
+      403
+
+      404
+
+      405
+
+      406
+
+      407
+
+      408
+
+      409
+
+      410
+
+      411
+
+      412
+
+      413
+
+      414
+
+      415
+
+      416
+
+      417
+
+      418
+
+      419
+
+      420
+
+      421
+
+      422
+
+      423
+
+      424
+
+      425
+
+      426
+
+      427
+
+      428
+
+      429
+
+      430
+
+      431
+
+      432
+
+      433
+
+      434
+
+      435
+
+      436
+
+      437
+
+      438
+
+      439
+
+      440
+
+      441
+
+      442
+
+      443
+
+      444
+
+      445
+
+      446
+
+      447
+
+      448
+
+      449
+
+      450
+
+      451
+
+      452
+
+      453
+
+      454
+
+      455
+
+      456
+
+      457
+
+      458
+
+      459
+
+      460
+
+      461
+
+      462
+
+      463
+
+      464
+
+      465
+
+      466
+
+      467
+
+      468
+
+      469
+
+      470
+
+      471
+
+      472
+
+      473
+
+      474
+
+      475
+
+      476
+
+      477
+
+      478
+
+      479
+
+      480
+
+      481
+
+      482
+
+      483
+
+      484
+
+      485
+
+      486
+
+      487
+
+      488
+
+      489
+
+      490
+
+      491
+
+      492
+
+      493
+
+      494
+
+      495
+
+      496
+
+      497
+
+      498
+
+      499
+
+      NullReferenceException:
+      Object reference not set to an instance of an object'
+    m_ResultStacktrace: 'MovementStill.OnUnpause () (at Assets/Scripts/MovementStill.cs:63)
+
+      PauseMenu.DisplayWristUI
+      () (at Assets/Scripts/PauseMenu.cs:154)
+
+      PauseMenu.Start () (at Assets/Scripts/PauseMenu.cs:96)
+
+
+
+'
+    m_TestListState:
+      scrollPos: {x: 0, y: 0}
+      m_SelectedIDs: c2e61b3d
+      m_LastClickedID: 1025238722
+      m_ExpandedIDs: f59a679989f19e9954a05db0823ea1e9a6dee4eea1f89ef2872d330d9c98e92525b900269d342e45e7429750eb716362ddff8b6cffffff7f
+      m_RenameOverlay:
+        m_UserAcceptedRename: 0
+        m_Name: 
+        m_OriginalName: 
+        m_EditFieldRect:
+          serializedVersion: 2
+          x: 0
+          y: 0
+          width: 0
+          height: 0
+        m_UserData: 0
+        m_IsWaitingForDelay: 0
+        m_IsRenaming: 0
+        m_OriginalEventType: 11
+        m_IsRenamingFilename: 0
+        m_ClientGUIView: {fileID: 0}
+      m_SearchString: 
+    m_TestRunnerUIFilter:
+      PassedHidden: 0
+      FailedHidden: 0
+      NotRunHidden: 0
+      m_SearchString: 
+      selectedCategoryMask: 0
+      availableCategories:
+      - Uncategorized
+    m_SelectedOption: 0
+  m_EditModeTestListGUI:
+    m_Window: {fileID: 23}
+    m_NewResultList:
+    - id: 1000
+      uniqueId: '[tungsten11cVRgame][suite]'
+      name: tungsten11cVRgame
+      fullName: tungsten11cVRgame
+      resultStatus: 2
+      duration: 0.0116742
+      messages: One or more child tests had errors
+      output: 
+      stacktrace: 
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 1
+      categories: []
+      parentId: 
+      parentUniqueId: 
+    - id: 1071
+      uniqueId: '[Editmode][D:/SeniorProject/final/tungsten_11c_vr_game-psb/tungsten11cVRgame/Library/ScriptAssemblies/Editmode.dll][suite]'
+      name: Editmode.dll
+      fullName: D:/SeniorProject/final/tungsten_11c_vr_game-psb/tungsten11cVRgame/Library/ScriptAssemblies/Editmode.dll
+      resultStatus: 2
+      duration: 0.0017751
+      messages: One or more child tests had errors
+      output: 
+      stacktrace: 
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 1
+      categories: []
+      parentId: 1066
+      parentUniqueId: '[tungsten11cVRgame][suite]'
+    - id: 1067
+      uniqueId: Editmode.dll/[Editmode][TimerTest_E][suite]
+      name: TimerTest_E
+      fullName: TimerTest_E
+      resultStatus: 2
+      duration: 0.0014111
+      messages: One or more child tests had errors
+      output: 
+      stacktrace: 
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 1
+      categories: []
+      parentId: 1071
+      parentUniqueId: '[Editmode][D:/SeniorProject/final/tungsten_11c_vr_game-psb/tungsten11cVRgame/Library/ScriptAssemblies/Editmode.dll][suite]'
+    - id: 1068
+      uniqueId: Editmode.dll/TimerTest_E/[Editmode][TimerTest_E.TC020]
+      name: TC020
+      fullName: TimerTest_E.TC020
+      resultStatus: 1
+      duration: 0.0001242
+      messages: 
+      output: 
+      stacktrace: 
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 0
+      categories:
+      - Uncategorized
+      parentId: 1067
+      parentUniqueId: Editmode.dll/[Editmode][TimerTest_E][suite]
+    - id: 1069
+      uniqueId: Editmode.dll/TimerTest_E/[Editmode][TimerTest_E.TC022]
+      name: TC022
+      fullName: TimerTest_E.TC022
+      resultStatus: 2
+      duration: 0.0004352
+      messages: "  Expected: 150.0f\r\n  But was:  600.0f\r\n"
+      output: 
+      stacktrace: 'at TimerTest_E.TC022 () [0x0000f] in D:\SeniorProject\final\tungsten_11c_vr_game-psb\tungsten11cVRgame\Assets\Tests\Editmode\TimerTest_E.cs:37
+
+'
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 0
+      categories:
+      - Uncategorized
+      parentId: 1067
+      parentUniqueId: Editmode.dll/[Editmode][TimerTest_E][suite]
+    - id: 1070
+      uniqueId: Editmode.dll/TimerTest_E/[Editmode][TimerTest_E.TC024]
+      name: TC024
+      fullName: TimerTest_E.TC024
+      resultStatus: 1
+      duration: 0.0000989
+      messages: 
+      output: 
+      stacktrace: 
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 0
+      categories:
+      - Uncategorized
+      parentId: 1067
+      parentUniqueId: Editmode.dll/[Editmode][TimerTest_E][suite]
+    m_ResultText: "TC022 (0.000s)\n---\nExpected: 150.0f\r\n  But was:  600.0f\n---\nat
+      TimerTest_E.TC022 () [0x0000f] in D:\\SeniorProject\\final\\tungsten_11c_vr_game-psb\\tungsten11cVRgame\\Assets\\Tests\\Editmode\\TimerTest_E.cs:37"
+    m_ResultStacktrace: 'at TimerTest_E.TC022 () [0x0000f] in D:\SeniorProject\final\tungsten_11c_vr_game-psb\tungsten11cVRgame\Assets\Tests\Editmode\TimerTest_E.cs:37
+
+'
+    m_TestListState:
+      scrollPos: {x: 0, y: 0}
+      m_SelectedIDs: 7bc48ecb
+      m_LastClickedID: -879836037
+      m_ExpandedIDs: 264606c481f37c17b4465c49eb716362ffffff7f
+      m_RenameOverlay:
+        m_UserAcceptedRename: 0
+        m_Name: 
+        m_OriginalName: 
+        m_EditFieldRect:
+          serializedVersion: 2
+          x: 0
+          y: 0
+          width: 0
+          height: 0
+        m_UserData: 0
+        m_IsWaitingForDelay: 0
+        m_IsRenaming: 0
+        m_OriginalEventType: 11
+        m_IsRenamingFilename: 0
+        m_ClientGUIView: {fileID: 0}
+      m_SearchString: 
+    m_TestRunnerUIFilter:
+      PassedHidden: 1
+      FailedHidden: 0
+      NotRunHidden: 0
+      m_SearchString: 
+      selectedCategoryMask: 0
+      availableCategories:
+      - Uncategorized
