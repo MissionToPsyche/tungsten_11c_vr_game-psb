@@ -1,0 +1,107 @@
+{
+    "name": "Custom Input Actions",
+    "maps": [
+        {
+            "name": "Menu",
+            "id": "2cd22d70-273d-4751-a46b-15fb24a54813",
+            "actions": [
+                {
+                    "name": "MenuPressed",
+                    "type": "Button",
+                    "id": "6ac7b300-5ba6-4254-86f0-76d25c654bda",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                },
+                {
+                    "name": "APressed",
+                    "type": "Button",
+                    "id": "3ce53ab5-12e1-48c3-944d-e7091e42d572",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                },
+                {
+                    "name": "YPressed",
+                    "type": "Button",
+                    "id": "bdf2186c-7598-450d-a7cc-e643ff9bfb80",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "69b7a368-17fc-42c1-8959-bdd41068921c",
+                    "path": "<OculusTouchController>{LeftHand}/primaryButton",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "MenuPressed",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "dfdf8f9c-0558-4f93-b0d2-9c82a9a2eb00",
+                    "path": "<ValveIndexController>{LeftHand}/primaryButton",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "MenuPressed",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "9dec2b74-88bc-4342-98ce-af111ce66d76",
+                    "path": "<OculusTouchController>{RightHand}/primaryButton",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "APressed",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "83ee9613-87b2-4f16-9934-b20eb296b31c",
+                    "path": "<ValveIndexController>{RightHand}/primaryButton",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "APressed",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "5a136ecd-e1b9-4541-98eb-569f96c1e84d",
+                    "path": "<OculusTouchController>{LeftHand}/secondaryButton",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "YPressed",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "39155a8c-07bd-44d6-8882-2938bebe70b9",
+                    "path": "<ValveIndexController>{LeftHand}/secondaryButton",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "YPressed",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}
