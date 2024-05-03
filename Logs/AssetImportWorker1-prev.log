@@ -1,0 +1,579 @@
+Using pre-set license
+Built from '2022.3/staging' branch; Version is '2022.3.8f1 (b5eafc012955) revision 11922172'; Using compiler version '192829333'; Build Type 'Release'
+OS: 'Windows 10  (10.0.19045) 64bit Core' Language: 'en' Physical Memory: 8034 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 1
+
+COMMAND LINE ARGUMENTS:
+D:\SeniorProject\2022.3.8f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker1
+-projectPath
+D:/SeniorProject/final/tungsten_11c_vr_game-psb/tungsten11cVRgame
+-logFile
+Logs/AssetImportWorker1.log
+-srvPort
+60772
+Successfully changed project path to: D:/SeniorProject/final/tungsten_11c_vr_game-psb/tungsten11cVRgame
+D:/SeniorProject/final/tungsten_11c_vr_game-psb/tungsten11cVRgame
+[UnityMemory] Configuration Parameters - Can be set up in boot.config
+    "memorysetup-bucket-allocator-granularity=16"
+    "memorysetup-bucket-allocator-bucket-count=8"
+    "memorysetup-bucket-allocator-block-size=33554432"
+    "memorysetup-bucket-allocator-block-count=8"
+    "memorysetup-main-allocator-block-size=16777216"
+    "memorysetup-thread-allocator-block-size=16777216"
+    "memorysetup-gfx-main-allocator-block-size=16777216"
+    "memorysetup-gfx-thread-allocator-block-size=16777216"
+    "memorysetup-cache-allocator-block-size=4194304"
+    "memorysetup-typetree-allocator-block-size=2097152"
+    "memorysetup-profiler-bucket-allocator-granularity=16"
+    "memorysetup-profiler-bucket-allocator-bucket-count=8"
+    "memorysetup-profiler-bucket-allocator-block-size=33554432"
+    "memorysetup-profiler-bucket-allocator-block-count=8"
+    "memorysetup-profiler-allocator-block-size=16777216"
+    "memorysetup-profiler-editor-allocator-block-size=1048576"
+    "memorysetup-temp-allocator-size-main=16777216"
+    "memorysetup-job-temp-allocator-block-size=2097152"
+    "memorysetup-job-temp-allocator-block-size-background=1048576"
+    "memorysetup-job-temp-allocator-reduction-small-platforms=262144"
+    "memorysetup-allocator-temp-initial-block-size-main=262144"
+    "memorysetup-allocator-temp-initial-block-size-worker=262144"
+    "memorysetup-temp-allocator-size-background-worker=32768"
+    "memorysetup-temp-allocator-size-job-worker=262144"
+    "memorysetup-temp-allocator-size-preload-manager=33554432"
+    "memorysetup-temp-allocator-size-nav-mesh-worker=65536"
+    "memorysetup-temp-allocator-size-audio-worker=65536"
+    "memorysetup-temp-allocator-size-cloud-worker=32768"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gfx=262144"
+Player connection [13688] Host "[IP] 192.168.234.1 [Port] 0 [Flags] 2 [Guid] 2526577775 [EditorId] 2526577775 [Version] 1048832 [Id] WindowsEditor(7,DESKTOP-8TMGO06) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined multi-casting on [225.0.0.222:54997]...
+
+Player connection [13688] Host "[IP] 192.168.234.1 [Port] 0 [Flags] 2 [Guid] 2526577775 [EditorId] 2526577775 [Version] 1048832 [Id] WindowsEditor(7,DESKTOP-8TMGO06) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined alternative multi-casting on [225.0.0.222:34997]...
+
+[Physics::Module] Initialized MultithreadedJobDispatcher with 11 workers.
+Refreshing native plugins compatible for Editor in 12.40 ms, found 12 plugins.
+Preloading 1 native plugins for Editor in 0.53 ms.
+Initialize engine version: 2022.3.8f1 (b5eafc012955)
+[Subsystems] Discovering subsystems at path D:/SeniorProject/2022.3.8f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path D:/SeniorProject/final/tungsten_11c_vr_game-psb/tungsten11cVRgame/Assets
+GfxDevice: creating device client; threaded=0; jobified=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce RTX 3080 (ID=0x2216)
+    Vendor:   NVIDIA
+    VRAM:     10067 MB
+    Driver:   31.0.15.3623
+Initialize mono
+Mono path[0] = 'D:/SeniorProject/2022.3.8f1/Editor/Data/Managed'
+Mono path[1] = 'D:/SeniorProject/2022.3.8f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32'
+Mono config path = 'D:/SeniorProject/2022.3.8f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56036
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: D:/SeniorProject/2022.3.8f1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: D:/SeniorProject/2022.3.8f1/Editor/Data/PlaybackEngines/MacStandaloneSupport/UnityEditor.OSXStandalone.Extensions.dll
+Register platform support module: D:/SeniorProject/2022.3.8f1/Editor/Data/PlaybackEngines/AndroidPlayer/UnityEditor.Android.Extensions.dll
+Register platform support module: D:/SeniorProject/2022.3.8f1/Editor/Data/PlaybackEngines/iOSSupport/UnityEditor.iOS.Extensions.dll
+Register platform support module: D:/SeniorProject/2022.3.8f1/Editor/Data/PlaybackEngines/AppleTVSupport/UnityEditor.AppleTV.Extensions.dll
+Register platform support module: D:/SeniorProject/2022.3.8f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Register platform support module: D:/SeniorProject/2022.3.8f1/Editor/Data/PlaybackEngines/LinuxStandaloneSupport/UnityEditor.LinuxStandalone.Extensions.dll
+Register platform support module: D:/SeniorProject/2022.3.8f1/Editor/Data/PlaybackEngines/MetroSupport/UnityEditor.UWP.Extensions.dll
+Registered in 0.008777 seconds.
+- Loaded All Assemblies, in  0.238 seconds
+Native extension for UWP target not found
+Native extension for LinuxStandalone target not found
+Native extension for WindowsStandalone target not found
+[usbmuxd] Start listen thread
+[usbmuxd] Listen thread started
+Native extension for AppleTV target not found
+[usbmuxd] Start listen thread
+[usbmuxd] Listen thread started
+Native extension for iOS target not found
+Native extension for Android target not found
+Android Extension - Scanning For ADB Devices 179 ms
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.396 seconds
+Domain Reload Profiling: 633ms
+	BeginReloadAssembly (70ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (0ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (1ms)
+	RebuildCommonClasses (22ms)
+	RebuildNativeTypeToScriptingClass (7ms)
+	initialDomainReloadingComplete (37ms)
+	LoadAllAssembliesAndSetupDomain (102ms)
+		LoadAssemblies (70ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (100ms)
+			TypeCache.Refresh (98ms)
+				TypeCache.ScanAssembly (89ms)
+			ScanForSourceGeneratedMonoScriptInfo (0ms)
+			ResolveRequiredComponents (0ms)
+	FinalizeReload (396ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (360ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (274ms)
+			SetLoadedEditorAssemblies (3ms)
+			RefreshPlugins (0ms)
+			BeforeProcessingInitializeOnLoad (2ms)
+			ProcessInitializeOnLoadAttributes (54ms)
+			ProcessInitializeOnLoadMethodAttributes (27ms)
+			AfterProcessingInitializeOnLoad (0ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (0ms)
+========================================================================
+Worker process is ready to serve import requests
+Begin MonoManager ReloadAssembly
+- Loaded All Assemblies, in  0.485 seconds
+Refreshing native plugins compatible for Editor in 5.72 ms, found 12 plugins.
+Native extension for UWP target not found
+Native extension for LinuxStandalone target not found
+Native extension for WindowsStandalone target not found
+Native extension for AppleTV target not found
+Native extension for iOS target not found
+Native extension for Android target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Package Manager log level set to [2]
+[Package Manager] Server::EnsureServerProcessIsRunning -- launch failed, reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] UpmClient::Send -- Unable to send message (not connected to UPM process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+[Package Manager] Server::EnsureServerProcessIsRunning -- launch failed, reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] UpmClient::Send -- Unable to send message (not connected to UPM process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation. ---> System.NullReferenceException: Object reference not set to an instance of an object
+  at Unity.XR.Oculus.OculusLoader.AssetPathToAbsolutePath (System.String assetPath) [0x0003d] in .\Library\PackageCache\com.unity.xr.oculus@4.0.0\Runtime\OculusLoader.cs:282 
+  at Unity.XR.Oculus.OculusLoader.EditorLoadOVRPlugin () [0x0007b] in .\Library\PackageCache\com.unity.xr.oculus@4.0.0\Runtime\OculusLoader.cs:267 
+  at (wrapper managed-to-native) System.Reflection.RuntimeMethodInfo.InternalInvoke(System.Reflection.RuntimeMethodInfo,object,object[],System.Exception&)
+  at System.Reflection.RuntimeMethodInfo.Invoke (System.Object obj, System.Reflection.BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x0006a] in <b89873cb176e44a995a4781c7487d410>:0 
+   --- End of inner exception stack trace ---
+  at System.Reflection.RuntimeMethodInfo.Invoke (System.Object obj, System.Reflection.BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x00083] in <b89873cb176e44a995a4781c7487d410>:0 
+  at System.Reflection.MethodBase.Invoke (System.Object obj, System.Object[] parameters) [0x00000] in <b89873cb176e44a995a4781c7487d410>:0 
+  at UnityEditor.EditorAssemblies.ProcessInitializeOnLoadMethodAttributes () [0x000a5] in <35c0e5f206594d2fa707969117964d70>:0 
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:LogError (object)
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadMethodAttributes ()
+
+Mono: successfully reloaded assembly
+[Package Manager] Server::EnsureServerProcessIsRunning -- launch failed, reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] UpmClient::Send -- Unable to send message (not connected to UPM process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+[Package Manager] Server::EnsureServerProcessIsRunning -- launch failed, reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] UpmClient::Send -- Unable to send message (not connected to UPM process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+- Finished resetting the current domain, in  0.548 seconds
+Domain Reload Profiling: 1033ms
+	BeginReloadAssembly (114ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (4ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (15ms)
+	RebuildCommonClasses (23ms)
+	RebuildNativeTypeToScriptingClass (7ms)
+	initialDomainReloadingComplete (25ms)
+	LoadAllAssembliesAndSetupDomain (315ms)
+		LoadAssemblies (232ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (156ms)
+			TypeCache.Refresh (128ms)
+				TypeCache.ScanAssembly (114ms)
+			ScanForSourceGeneratedMonoScriptInfo (19ms)
+			ResolveRequiredComponents (8ms)
+	FinalizeReload (549ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (419ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (29ms)
+			SetLoadedEditorAssemblies (2ms)
+			RefreshPlugins (0ms)
+			BeforeProcessingInitializeOnLoad (55ms)
+			ProcessInitializeOnLoadAttributes (259ms)
+			ProcessInitializeOnLoadMethodAttributes (72ms)
+			AfterProcessingInitializeOnLoad (2ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (7ms)
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.03 seconds
+Refreshing native plugins compatible for Editor in 6.89 ms, found 12 plugins.
+Preloading 1 native plugins for Editor in 0.04 ms.
+Unloading 6358 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 106 unused Assets / (408.4 KB). Loaded Objects now: 6853.
+Memory consumption went from 238.5 MB to 238.2 MB.
+Total: 2.997300 ms (FindLiveObjects: 0.302900 ms CreateObjectMapping: 0.172800 ms MarkObjects: 2.327000 ms  DeleteObjects: 0.194100 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:SearchIndexIgnoredProperties: e643bd26f0fe6173181afceb89e7c659 -> 
+  custom:AudioImporter_EditorPlatform: d09bf68614088b80899f8185d706f6e7 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 1494.067310 seconds.
+  path: Assets/Textures/UI/Pop_Ups_MG_One/1.png
+  artifactKey: Guid(0d0f53b589f7ea441b474e1df3997f67) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/UI/Pop_Ups_MG_One/1.png using Guid(0d0f53b589f7ea441b474e1df3997f67) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '552d764c33b10f5ceda14a1903b04832') in 0.125596 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000017 seconds.
+  path: Assets/Textures/UI/Pop_Ups_MG_One/2 1.png
+  artifactKey: Guid(2ed3998bf2a34a3498e46edf492dcde2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/UI/Pop_Ups_MG_One/2 1.png using Guid(2ed3998bf2a34a3498e46edf492dcde2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5d31f1902c654bd768c4ed96df9b19cc') in 0.040995 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000021 seconds.
+  path: Assets/Materials/SatalliteTextures/Materials/ArrayPanelTextures/Array_Color-Panel-3-bump_1.psd
+  artifactKey: Guid(a3d068bf9c97efa458824e97cf2ae785) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/SatalliteTextures/Materials/ArrayPanelTextures/Array_Color-Panel-3-bump_1.psd using Guid(a3d068bf9c97efa458824e97cf2ae785) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2df2368133a76b541407d8b3032960ec') in 0.054143 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000014 seconds.
+  path: Assets/Models/HandyHandPack/Textures/CombatGlove_Black_Albedo.png
+  artifactKey: Guid(1c905db8f0c7483468f0cae3cc261bfe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/HandyHandPack/Textures/CombatGlove_Black_Albedo.png using Guid(1c905db8f0c7483468f0cae3cc261bfe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b0958c5c74c743a03ba6c1760cc26059') in 0.063917 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000021 seconds.
+  path: Assets/Materials/SatalliteTextures/Materials/ArrayPanelTextures/Array_Color-Panel-2-bandf_1.psd
+  artifactKey: Guid(f4dfa58a9a4b9904cade31ee72d09ae5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/SatalliteTextures/Materials/ArrayPanelTextures/Array_Color-Panel-2-bandf_1.psd using Guid(f4dfa58a9a4b9904cade31ee72d09ae5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'aea23334e2d35fccb28502a528c07f30') in 0.055720 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000015 seconds.
+  path: Assets/Plugins/TextMesh Pro/Examples & Extras/Textures/Brushed Metal 3.jpg
+  artifactKey: Guid(f88677df267a41d6be1e7a6133e7d227) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/TextMesh Pro/Examples & Extras/Textures/Brushed Metal 3.jpg using Guid(f88677df267a41d6be1e7a6133e7d227) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f63a9262acf9bc88f6f37e58127226bd') in 0.043266 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000023 seconds.
+  path: Assets/Materials/SatalliteTextures/Materials/ArrayPanelTextures/Array_Color-Panel-2-bump.psd
+  artifactKey: Guid(4b8fc774a8370d34b9d061cd4816e010) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/SatalliteTextures/Materials/ArrayPanelTextures/Array_Color-Panel-2-bump.psd using Guid(4b8fc774a8370d34b9d061cd4816e010) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e89b7f02cdf19fad06446ae5bf63b2d0') in 0.060443 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000028 seconds.
+  path: Assets/Models/HandyHandPack/Textures/BoxingGlove_Shiny_MetallicSmoothness.tga
+  artifactKey: Guid(3f543cae95e6e2348a09ce845eb1e71e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/HandyHandPack/Textures/BoxingGlove_Shiny_MetallicSmoothness.tga using Guid(3f543cae95e6e2348a09ce845eb1e71e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4c053aa1d8afcfca6c314280ed184ceb') in 0.074617 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000019 seconds.
+  path: Assets/Materials/SatalliteTextures/Materials/ArrayPanelTextures/Array_Color-Panel-3-bandf.psd
+  artifactKey: Guid(ea862acf51032d644ab5add77fcda997) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/SatalliteTextures/Materials/ArrayPanelTextures/Array_Color-Panel-3-bandf.psd using Guid(ea862acf51032d644ab5add77fcda997) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '945bb859b1f851895d2303b646508146') in 0.063848 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000018 seconds.
+  path: Assets/Models/HandyHandPack/Textures/BoxingGlove_Albedo.png
+  artifactKey: Guid(24006734370f0154e8aec6efd6f0e0ac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/HandyHandPack/Textures/BoxingGlove_Albedo.png using Guid(24006734370f0154e8aec6efd6f0e0ac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7c057ac9cbec0de9a558a4fa13146a08') in 0.059517 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000017 seconds.
+  path: Assets/Models/HandyHandPack/Textures/CombatGlove_White_Albedo.png
+  artifactKey: Guid(4e4a3396aec495a4eb014a860c71c352) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/HandyHandPack/Textures/CombatGlove_White_Albedo.png using Guid(4e4a3396aec495a4eb014a860c71c352) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c1af5ab5d1b09b1142832e4ac8d08476') in 0.060216 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000045 seconds.
+  path: Assets/Textures/UI/MG_One_Instructions/4.png
+  artifactKey: Guid(0418c6c00bbc62c408f8edfb8a6a1db0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/UI/MG_One_Instructions/4.png using Guid(0418c6c00bbc62c408f8edfb8a6a1db0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9ddebe59c43b3ed91ac626d6d138efaf') in 0.044758 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000020 seconds.
+  path: Assets/Textures/UI/Pop_Ups_MG_One/2.png
+  artifactKey: Guid(88371893c4970ef45beb41fbc8ff9d0c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/UI/Pop_Ups_MG_One/2.png using Guid(88371893c4970ef45beb41fbc8ff9d0c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e2074794053363214fd38e0e9a20db73') in 0.036155 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000017 seconds.
+  path: Assets/Textures/Icons/appicon.png
+  artifactKey: Guid(0ba9d9525f290cf4886a2b3908371126) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/Icons/appicon.png using Guid(0ba9d9525f290cf4886a2b3908371126) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '686fd22c41865a987b5f00f8b7cf6ad1') in 0.028908 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000015 seconds.
+  path: Assets/Models/HandyHandPack/Textures/BasicHand_Light_MetallicSmoothness.png
+  artifactKey: Guid(aa894e3580fdd334a885997d81b382b9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/HandyHandPack/Textures/BasicHand_Light_MetallicSmoothness.png using Guid(aa894e3580fdd334a885997d81b382b9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '25bae42d1ddcc30a9289ae4f372b26e2') in 0.051140 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000028 seconds.
+  path: Assets/Textures/UI/MG_One_Instructions/5.png
+  artifactKey: Guid(69239c9b0d0bc9d4fa4f6535959de4aa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/UI/MG_One_Instructions/5.png using Guid(69239c9b0d0bc9d4fa4f6535959de4aa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '827f3028e0eb740cd0fe86c12bcaa3f2') in 0.047710 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000021 seconds.
+  path: Assets/Models/HandyHandPack/Textures/BoxingGlove_Black_Albedo.png
+  artifactKey: Guid(20aca9ec6bc9a004f8e18262770356d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/HandyHandPack/Textures/BoxingGlove_Black_Albedo.png using Guid(20aca9ec6bc9a004f8e18262770356d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'efd3b52815f40ab2194f02ebd6068e08') in 0.052826 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000024 seconds.
+  path: Assets/Textures/UI/Pop_Ups_MG_One/5 1.png
+  artifactKey: Guid(8da3426961f01e34fbf0578c058b37cc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/UI/Pop_Ups_MG_One/5 1.png using Guid(8da3426961f01e34fbf0578c058b37cc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '23cd2b255cf5e78f31cc183e09fbd51f') in 0.049847 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000017 seconds.
+  path: Assets/Models/HandyHandPack/Textures/CombatGlove_Brown_Albedo.png
+  artifactKey: Guid(009bcdf04c08fd24e995b4a7121b2ae8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/HandyHandPack/Textures/CombatGlove_Brown_Albedo.png using Guid(009bcdf04c08fd24e995b4a7121b2ae8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5dd63b60705e928dea3af0b208b94d95') in 0.065183 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000016 seconds.
+  path: Assets/Plugins/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/Anton SDF.asset
+  artifactKey: Guid(8a89fa14b10d46a99122fd4f73fca9a2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/Anton SDF.asset using Guid(8a89fa14b10d46a99122fd4f73fca9a2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1244ab51b0ca6ffd73401750b58724b4') in 0.282111 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 7
+========================================================================
+Received Import Request.
+  Time since last request: 0.000022 seconds.
+  path: Assets/Textures/UI/MG_One_Instructions/6.png
+  artifactKey: Guid(2a217e74ad126cd4382bbaebda135ad6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/UI/MG_One_Instructions/6.png using Guid(2a217e74ad126cd4382bbaebda135ad6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '73bf3dbd94390df2f7e65f55284b85a1') in 0.036522 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000026 seconds.
+  path: Assets/Materials/SatalliteTextures/Materials/ArrayPanelTextures/Array_Color-Panel-3-bandf_1.psd
+  artifactKey: Guid(690c1f950d032154c86cd21876d1586e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/SatalliteTextures/Materials/ArrayPanelTextures/Array_Color-Panel-3-bandf_1.psd using Guid(690c1f950d032154c86cd21876d1586e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2027239c76cd50b82f25d9a9e3d9218f') in 0.067504 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000018 seconds.
+  path: Assets/Materials/SatalliteTextures/Materials/ArrayPanelTextures/Array_Color-Panel-2-bump_1.psd
+  artifactKey: Guid(8c83a9b6b8ed1684f89ba6c812403e74) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/SatalliteTextures/Materials/ArrayPanelTextures/Array_Color-Panel-2-bump_1.psd using Guid(8c83a9b6b8ed1684f89ba6c812403e74) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c4242e61f1137f2577e9a804a5cf5cc7') in 0.067743 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000031 seconds.
+  path: Assets/Models/HandyHandPack/Textures/BasicHand_Light_Normal.png
+  artifactKey: Guid(5688037424cf68b4f9b1f82c9f1fdae2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/HandyHandPack/Textures/BasicHand_Light_Normal.png using Guid(5688037424cf68b4f9b1f82c9f1fdae2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '061fbbbacd1ed6f55219d1cd49e1f398') in 0.087004 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000031 seconds.
+  path: Assets/Textures/UI/Pop_Ups_MG_One/4.png
+  artifactKey: Guid(be2a8c43f28e02d47be0f0fd5777d77e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/UI/Pop_Ups_MG_One/4.png using Guid(be2a8c43f28e02d47be0f0fd5777d77e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f4563dd98af4b879fb417e9c807bd2bd') in 0.039178 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000028 seconds.
+  path: Assets/Models/HandyHandPack/Textures/CombatGlove_Occlusion.png
+  artifactKey: Guid(481e6b03c15b09640847e5f91a96aa08) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/HandyHandPack/Textures/CombatGlove_Occlusion.png using Guid(481e6b03c15b09640847e5f91a96aa08) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e544ff4cf5360b8b4b2cb264a0300f50') in 0.060364 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000018 seconds.
+  path: Assets/Models/HandyHandPack/Textures/BasicHand_Light_Albedo.png
+  artifactKey: Guid(6beda29ad95d53645a9e1fc4bef14ba6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/HandyHandPack/Textures/BasicHand_Light_Albedo.png using Guid(6beda29ad95d53645a9e1fc4bef14ba6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6587cd765c11684869405e8053b39add') in 0.051991 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000028 seconds.
+  path: Assets/Materials/SatalliteTextures/Materials/ArrayPanelTextures/Array_Color-Panel-4-bump.psd
+  artifactKey: Guid(5319eb1c99572d44aa76c4a5a336eb3d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/SatalliteTextures/Materials/ArrayPanelTextures/Array_Color-Panel-4-bump.psd using Guid(5319eb1c99572d44aa76c4a5a336eb3d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '056a902c1a40682708c2600455d264be') in 0.043893 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000020 seconds.
+  path: Assets/Plugins/TextMesh Pro/Sprites/EmojiOne.png
+  artifactKey: Guid(dffef66376be4fa480fb02b19edbe903) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/TextMesh Pro/Sprites/EmojiOne.png using Guid(dffef66376be4fa480fb02b19edbe903) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6ff5ad937e71f30b4e179f4a238a7c58') in 0.034189 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000026 seconds.
+  path: Assets/Models/HandyHandPack/Textures/BasicHand_Dark_Albedo.png
+  artifactKey: Guid(ee96d880b214d084681ddbec8fa5fb77) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/HandyHandPack/Textures/BasicHand_Dark_Albedo.png using Guid(ee96d880b214d084681ddbec8fa5fb77) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6d2df5fecdad71f5a22f513e17a349cf') in 0.053957 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.002122 seconds.
+  path: Assets/Textures/UI/Pop_Ups_MG_One/7.png
+  artifactKey: Guid(f104e7719f0547240b9e0131a2ec2b0e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/UI/Pop_Ups_MG_One/7.png using Guid(f104e7719f0547240b9e0131a2ec2b0e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2b29ad9d08cb540da3696038d1490731') in 0.042184 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000019 seconds.
+  path: Assets/Textures/UI/Pop_Ups_MG_One/3.png
+  artifactKey: Guid(1c885cef83c683c4c98c50b08a6b9f08) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/UI/Pop_Ups_MG_One/3.png using Guid(1c885cef83c683c4c98c50b08a6b9f08) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a1a0ab79629f2f54049895e6bc19396d') in 0.045613 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000021 seconds.
+  path: Assets/Samples/XR Interaction Toolkit/2.5.2/Starter Assets/DemoSceneAssets/Sprites/Circle_60x60_Horizontal.png
+  artifactKey: Guid(e45f8f823c093d941855bb23b53b9414) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Samples/XR Interaction Toolkit/2.5.2/Starter Assets/DemoSceneAssets/Sprites/Circle_60x60_Horizontal.png using Guid(e45f8f823c093d941855bb23b53b9414) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0d2834aba18c052064a528c8014642e4') in 0.042873 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000140 seconds.
+  path: Assets/Models/HandyHandPack/Textures/CombatGlove_Albedo.png
+  artifactKey: Guid(7ca8a26431e1f9c40854f67bf3309d23) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/HandyHandPack/Textures/CombatGlove_Albedo.png using Guid(7ca8a26431e1f9c40854f67bf3309d23) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'aa89ba9fcb80b56e36b5c6fc6c9b9590') in 0.068296 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000028 seconds.
+  path: Assets/Textures/UI/MG_One_Instructions/3.png
+  artifactKey: Guid(70e9423673272944bbbd5362f42d496d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/UI/MG_One_Instructions/3.png using Guid(70e9423673272944bbbd5362f42d496d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ee94be48c2486544983598d2623004b0') in 0.034870 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000038 seconds.
+  path: Assets/Textures/UI/MG_One_Instructions/2.png
+  artifactKey: Guid(51c444f52e1f12f4ba80d49802a8097c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/UI/MG_One_Instructions/2.png using Guid(51c444f52e1f12f4ba80d49802a8097c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '85027527242c21991334065f52179e05') in 0.054722 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000019 seconds.
+  path: Assets/Materials/SatalliteTextures/Materials/ArrayPanelTextures/Array_Color-Panel-1-reflectance_1_1.psd
+  artifactKey: Guid(c9960160b9db03a449198e859b83b22e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/SatalliteTextures/Materials/ArrayPanelTextures/Array_Color-Panel-1-reflectance_1_1.psd using Guid(c9960160b9db03a449198e859b83b22e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '85c55244b6f3535d0840dced525f02ee') in 0.053082 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000030 seconds.
+  path: Assets/Models/HandyHandPack/Textures/BoxingGlove_Occlusion.png
+  artifactKey: Guid(165ba33fcd63ef04eaee39bb4f11e5b4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/HandyHandPack/Textures/BoxingGlove_Occlusion.png using Guid(165ba33fcd63ef04eaee39bb4f11e5b4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f0cce8283957c9aa29982aedb62738c3') in 0.062836 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Prepare
+Refreshing native plugins compatible for Editor in 6.58 ms, found 12 plugins.
+Preloading 1 native plugins for Editor in 0.04 ms.
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 2 unused Assets / (329.1 KB). Loaded Objects now: 6992.
+Memory consumption went from 112.8 MB to 112.5 MB.
+Total: 5.130800 ms (FindLiveObjects: 0.351700 ms CreateObjectMapping: 0.229700 ms MarkObjects: 4.478000 ms  DeleteObjects: 0.070200 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:CustomObjectIndexerAttribute: a3ef5dd2817f97addfee359851a9dba5 -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:SearchIndexIgnoredProperties: e643bd26f0fe6173181afceb89e7c659 -> 
+  custom:AudioImporter_EditorPlatform: d09bf68614088b80899f8185d706f6e7 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Refreshing native plugins compatible for Editor in 5.69 ms, found 12 plugins.
+Preloading 1 native plugins for Editor in 0.03 ms.
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 2 unused Assets / (329.1 KB). Loaded Objects now: 6992.
+Memory consumption went from 112.8 MB to 112.5 MB.
+Total: 3.326100 ms (FindLiveObjects: 0.299800 ms CreateObjectMapping: 0.177000 ms MarkObjects: 2.795900 ms  DeleteObjects: 0.052700 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:CustomObjectIndexerAttribute: a3ef5dd2817f97addfee359851a9dba5 -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:SearchIndexIgnoredProperties: e643bd26f0fe6173181afceb89e7c659 -> 
+  custom:AudioImporter_EditorPlatform: d09bf68614088b80899f8185d706f6e7 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
