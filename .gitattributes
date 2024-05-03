@@ -1,1 +1,2 @@
 *.apk filter=lfs diff=lfs merge=lfs -text
+Assets/Materials/SatalliteTextures/Materials/ArrayPanelTextures/*.psd filter=lfs diff=lfs merge=lfs -text
