@@ -1,0 +1,21 @@
+<dependencies>
+  <compile
+      roots="D:\SeniorProject\final\tungsten_11c_vr_game-psb\tungsten11cVRgame\Library\Bee\Android\Prj\IL2CPP\Gradle@@:unityLibrary::release">
+    <dependency
+        name="D:\SeniorProject\final\tungsten_11c_vr_game-psb\tungsten11cVRgame\Library\Bee\Android\Prj\IL2CPP\Gradle@@:unityLibrary::release"
+        simpleName="Gradle:unityLibrary"/>
+  </compile>
+  <package
+      roots="D:\SeniorProject\final\tungsten_11c_vr_game-psb\tungsten11cVRgame\Library\Bee\Android\Prj\IL2CPP\Gradle@@:unityLibrary::release,__local_aars__:D:\SeniorProject\final\tungsten_11c_vr_game-psb\tungsten11cVRgame\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\libs\unity-classes.jar:unspecified@jar,:OVRPlugin:@aar,D:\SeniorProject\final\tungsten_11c_vr_game-psb\tungsten11cVRgame\Library\Bee\Android\Prj\IL2CPP\Gradle@@:unityLibrary:xrmanifest.androidlib::release">
+    <dependency
+        name="D:\SeniorProject\final\tungsten_11c_vr_game-psb\tungsten11cVRgame\Library\Bee\Android\Prj\IL2CPP\Gradle@@:unityLibrary::release"
+        simpleName="Gradle:unityLibrary"/>
+    <dependency
+        name="__local_aars__:D:\SeniorProject\final\tungsten_11c_vr_game-psb\tungsten11cVRgame\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\libs\unity-classes.jar:unspecified@jar"/>
+    <dependency
+        name=":OVRPlugin:@aar"/>
+    <dependency
+        name="D:\SeniorProject\final\tungsten_11c_vr_game-psb\tungsten11cVRgame\Library\Bee\Android\Prj\IL2CPP\Gradle@@:unityLibrary:xrmanifest.androidlib::release"
+        simpleName="Gradle.unityLibrary:xrmanifest.androidlib"/>
+  </package>
+</dependencies>

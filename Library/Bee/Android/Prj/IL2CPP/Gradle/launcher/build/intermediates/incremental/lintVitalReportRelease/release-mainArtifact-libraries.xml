@@ -1,0 +1,45 @@
+<libraries>
+  <library
+      name="D:\SeniorProject\final\tungsten_11c_vr_game-psb\tungsten11cVRgame\Library\Bee\Android\Prj\IL2CPP\Gradle@@:unityLibrary::release"
+      jars="D:\SeniorProject\final\tungsten_11c_vr_game-psb\tungsten11cVRgame\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\.transforms\8c2d3f2e81b7544f85750119fa50b163\transformed\out\jars\classes.jar;D:\SeniorProject\final\tungsten_11c_vr_game-psb\tungsten11cVRgame\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\.transforms\8c2d3f2e81b7544f85750119fa50b163\transformed\out\jars\libs\unity-classes.jar"
+      resolved="Gradle:unityLibrary:unspecified"
+      folder="D:\SeniorProject\final\tungsten_11c_vr_game-psb\tungsten11cVRgame\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\.transforms\8c2d3f2e81b7544f85750119fa50b163\transformed\out"
+      manifest="AndroidManifest.xml"
+      resFolder="res"
+      assetsFolder="assets"
+      lintJar="lint.jar"
+      publicResources="public.txt"
+      symbolFile="R.txt"
+      externalAnnotations="annotations.zip"
+      proguardRules="proguard.txt"/>
+  <library
+      name="__local_aars__:D:\SeniorProject\final\tungsten_11c_vr_game-psb\tungsten11cVRgame\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\libs\unity-classes.jar:unspecified@jar"
+      jars="D:\SeniorProject\final\tungsten_11c_vr_game-psb\tungsten11cVRgame\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\libs\unity-classes.jar"
+      resolved="__local_aars__:D:\SeniorProject\final\tungsten_11c_vr_game-psb\tungsten11cVRgame\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\libs\unity-classes.jar:unspecified"/>
+  <library
+      name=":OVRPlugin:@aar"
+      jars="C:\Users\Noah P\.gradle\caches\transforms-3\73fc14940d732a79bf843009165548dd\transformed\OVRPlugin\jars\classes.jar"
+      resolved=":OVRPlugin:"
+      folder="C:\Users\Noah P\.gradle\caches\transforms-3\73fc14940d732a79bf843009165548dd\transformed\OVRPlugin"
+      manifest="AndroidManifest.xml"
+      resFolder="res"
+      assetsFolder="assets"
+      lintJar="lint.jar"
+      publicResources="public.txt"
+      symbolFile="R.txt"
+      externalAnnotations="annotations.zip"
+      proguardRules="proguard.txt"/>
+  <library
+      name="D:\SeniorProject\final\tungsten_11c_vr_game-psb\tungsten11cVRgame\Library\Bee\Android\Prj\IL2CPP\Gradle@@:unityLibrary:xrmanifest.androidlib::release"
+      jars="D:\SeniorProject\final\tungsten_11c_vr_game-psb\tungsten11cVRgame\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\xrmanifest.androidlib\build\.transforms\767c1a5f4fcd6cf580744ca4b2055e97\transformed\out\jars\classes.jar"
+      resolved="Gradle.unityLibrary:xrmanifest.androidlib:unspecified"
+      folder="D:\SeniorProject\final\tungsten_11c_vr_game-psb\tungsten11cVRgame\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\xrmanifest.androidlib\build\.transforms\767c1a5f4fcd6cf580744ca4b2055e97\transformed\out"
+      manifest="AndroidManifest.xml"
+      resFolder="res"
+      assetsFolder="assets"
+      lintJar="lint.jar"
+      publicResources="public.txt"
+      symbolFile="R.txt"
+      externalAnnotations="annotations.zip"
+      proguardRules="proguard.txt"/>
+</libraries>
